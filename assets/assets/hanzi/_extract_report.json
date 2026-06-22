@@ -1,0 +1,20 @@
+{
+  "writtenCount": 3496,
+  "radicalCount": 3496,
+  "missingHanzi": [
+    "串",
+    "暴",
+    "汎",
+    "泌"
+  ],
+  "missingHanziList": [
+    "串",
+    "暴",
+    "泌"
+  ],
+  "missingStrokeFile": [
+    "汎"
+  ],
+  "missingBoosuName": [],
+  "emptyRadicalName": []
+}
