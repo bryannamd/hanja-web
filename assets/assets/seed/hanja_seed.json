@@ -575,6 +575,7 @@
         "hanja": "不",
         "hoondok": "아닐 불",
         "radical": "一",
+        "soundsAux": "아닐 부",
         "strokes": 3,
         "toneType": 2,
         "totalStrokes": 4
@@ -639,6 +640,7 @@
         "hanja": "食",
         "hoondok": "밥/먹을 식",
         "radical": "食",
+        "soundsAux": "밥 사",
         "strokes": 0,
         "toneType": 2,
         "totalStrokes": 9
@@ -997,6 +999,7 @@
         "hanja": "數",
         "hoondok": "셈 수",
         "radical": "攴",
+        "soundsAux": "자주 삭 | 촘촘할 촉",
         "strokes": 11,
         "toneType": 3,
         "totalStrokes": 15
@@ -2903,6 +2906,7 @@
         "hanja": "識",
         "hoondok": "알 식",
         "radical": "言",
+        "soundsAux": "기록할 지",
         "strokes": 12,
         "toneType": 2,
         "totalStrokes": 19
@@ -3169,6 +3173,7 @@
         "hanja": "參",
         "hoondok": "참여할 참",
         "radical": "厶",
+        "soundsAux": "석 삼",
         "strokes": 9,
         "toneType": 2,
         "totalStrokes": 11
@@ -3193,6 +3198,7 @@
         "hanja": "宅",
         "hoondok": "집 택",
         "radical": "宀",
+        "soundsAux": "집 댁",
         "strokes": 3,
         "toneType": 2,
         "totalStrokes": 6
@@ -3727,6 +3733,7 @@
         "hanja": "葉",
         "hoondok": "잎 엽",
         "radical": "艸",
+        "soundsAux": "성(姓) 섭",
         "strokes": 9,
         "toneType": 2,
         "totalStrokes": 13
@@ -4214,6 +4221,7 @@
         "hanja": "句",
         "hoondok": "글귀 구",
         "radical": "口",
+        "soundsAux": "글귀 귀",
         "strokes": 2,
         "toneType": 2,
         "totalStrokes": 5
@@ -6805,6 +6813,7 @@
         "hanja": "否",
         "hoondok": "아닐 부",
         "radical": "口",
+        "soundsAux": "막힐 비",
         "strokes": 4,
         "toneType": 1,
         "totalStrokes": 7
@@ -6934,6 +6943,7 @@
         "hanja": "屬",
         "hoondok": "붙일 속",
         "radical": "尸",
+        "soundsAux": "이을 촉",
         "strokes": 18,
         "toneType": 2,
         "totalStrokes": 21
@@ -7648,6 +7658,7 @@
         "hanja": "差",
         "hoondok": "다를 차",
         "radical": "工",
+        "soundsAux": "들쭉날쭉할 치",
         "strokes": 7,
         "toneType": 2,
         "totalStrokes": 10
@@ -7712,6 +7723,7 @@
         "hanja": "推",
         "hoondok": "밀 추",
         "radical": "手",
+        "soundsAux": "밀 퇴",
         "strokes": 8,
         "toneType": 2,
         "totalStrokes": 11
@@ -10026,6 +10038,7 @@
         "hanja": "衰",
         "hoondok": "쇠할 쇠",
         "radical": "衣",
+        "soundsAux": "상복 최",
         "strokes": 4,
         "toneType": 2,
         "totalStrokes": 10
@@ -10928,6 +10941,7 @@
         "hanja": "著",
         "hoondok": "나타날 저",
         "radical": "艸",
+        "soundsAux": "붙을 착",
         "strokes": 9,
         "toneType": 3,
         "totalStrokes": 13
@@ -11428,6 +11442,7 @@
         "hanja": "拓",
         "hoondok": "넓힐 척",
         "radical": "手",
+        "soundsAux": "박을 탁",
         "strokes": 5,
         "toneType": 2,
         "totalStrokes": 8
