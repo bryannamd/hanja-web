@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "사단법인 한국어문회 — 전국한자능력검정시험 시행일정",
+    "sourceUrl": "https://www.hanja.re.kr/kccpt/exam/examInfo.do",
+    "retrieved": "2026-07-08",
+    "note": "확인된 회차만 등록. 추측 날짜 추가 금지 — 신규 회차는 공식 공고 확인 후 추가."
+  },
+  "exams": [
+    {
+      "round": 114,
+      "examDate": "2026-08-22",
+      "applyStart": "2026-07-13",
+      "applyEnd": "2026-07-17"
+    }
+  ]
+}
