@@ -1,0 +1,258 @@
+{
+  "version": 1,
+  "grade": "8급",
+  "engine": "MeloTTS-Korean",
+  "generatedAt": "2026-07-31T06:24:52.662955+00:00",
+  "clips": {
+    "校": {
+      "path": "assets/audio/hoondok/8급/校.m4a",
+      "speech": "학교 교",
+      "engine": "MeloTTS-Korean"
+    },
+    "敎": {
+      "path": "assets/audio/hoondok/8급/敎.m4a",
+      "speech": "가르칠 교",
+      "engine": "MeloTTS-Korean"
+    },
+    "九": {
+      "path": "assets/audio/hoondok/8급/九.m4a",
+      "speech": "아홉 구",
+      "engine": "MeloTTS-Korean"
+    },
+    "國": {
+      "path": "assets/audio/hoondok/8급/國.m4a",
+      "speech": "나라 국",
+      "engine": "MeloTTS-Korean"
+    },
+    "軍": {
+      "path": "assets/audio/hoondok/8급/軍.m4a",
+      "speech": "군사 군",
+      "engine": "MeloTTS-Korean"
+    },
+    "金": {
+      "path": "assets/audio/hoondok/8급/金.m4a",
+      "speech": "쇠 금",
+      "engine": "MeloTTS-Korean"
+    },
+    "南": {
+      "path": "assets/audio/hoondok/8급/南.m4a",
+      "speech": "남녘 남",
+      "engine": "MeloTTS-Korean"
+    },
+    "女": {
+      "path": "assets/audio/hoondok/8급/女.m4a",
+      "speech": "계집 녀",
+      "engine": "MeloTTS-Korean"
+    },
+    "年": {
+      "path": "assets/audio/hoondok/8급/年.m4a",
+      "speech": "해 년",
+      "engine": "MeloTTS-Korean"
+    },
+    "大": {
+      "path": "assets/audio/hoondok/8급/大.m4a",
+      "speech": "큰 대",
+      "engine": "MeloTTS-Korean"
+    },
+    "東": {
+      "path": "assets/audio/hoondok/8급/東.m4a",
+      "speech": "동녘 동",
+      "engine": "MeloTTS-Korean"
+    },
+    "六": {
+      "path": "assets/audio/hoondok/8급/六.m4a",
+      "speech": "여섯 륙",
+      "engine": "MeloTTS-Korean"
+    },
+    "萬": {
+      "path": "assets/audio/hoondok/8급/萬.m4a",
+      "speech": "일만 만",
+      "engine": "MeloTTS-Korean"
+    },
+    "母": {
+      "path": "assets/audio/hoondok/8급/母.m4a",
+      "speech": "어미 모",
+      "engine": "MeloTTS-Korean"
+    },
+    "木": {
+      "path": "assets/audio/hoondok/8급/木.m4a",
+      "speech": "나무 목",
+      "engine": "MeloTTS-Korean"
+    },
+    "門": {
+      "path": "assets/audio/hoondok/8급/門.m4a",
+      "speech": "문 문",
+      "engine": "MeloTTS-Korean"
+    },
+    "民": {
+      "path": "assets/audio/hoondok/8급/民.m4a",
+      "speech": "백성 민",
+      "engine": "MeloTTS-Korean"
+    },
+    "白": {
+      "path": "assets/audio/hoondok/8급/白.m4a",
+      "speech": "흰 백",
+      "engine": "MeloTTS-Korean"
+    },
+    "父": {
+      "path": "assets/audio/hoondok/8급/父.m4a",
+      "speech": "아비 부",
+      "engine": "MeloTTS-Korean"
+    },
+    "北": {
+      "path": "assets/audio/hoondok/8급/北.m4a",
+      "speech": "북녘 북",
+      "engine": "MeloTTS-Korean"
+    },
+    "四": {
+      "path": "assets/audio/hoondok/8급/四.m4a",
+      "speech": "넉 사",
+      "engine": "MeloTTS-Korean"
+    },
+    "山": {
+      "path": "assets/audio/hoondok/8급/山.m4a",
+      "speech": "메 산",
+      "engine": "MeloTTS-Korean"
+    },
+    "三": {
+      "path": "assets/audio/hoondok/8급/三.m4a",
+      "speech": "석 삼",
+      "engine": "MeloTTS-Korean"
+    },
+    "生": {
+      "path": "assets/audio/hoondok/8급/生.m4a",
+      "speech": "날 생",
+      "engine": "MeloTTS-Korean"
+    },
+    "西": {
+      "path": "assets/audio/hoondok/8급/西.m4a",
+      "speech": "서녘 서",
+      "engine": "MeloTTS-Korean"
+    },
+    "先": {
+      "path": "assets/audio/hoondok/8급/先.m4a",
+      "speech": "먼저 선",
+      "engine": "MeloTTS-Korean"
+    },
+    "小": {
+      "path": "assets/audio/hoondok/8급/小.m4a",
+      "speech": "작을 소",
+      "engine": "MeloTTS-Korean"
+    },
+    "水": {
+      "path": "assets/audio/hoondok/8급/水.m4a",
+      "speech": "물 수",
+      "engine": "MeloTTS-Korean"
+    },
+    "室": {
+      "path": "assets/audio/hoondok/8급/室.m4a",
+      "speech": "집 실",
+      "engine": "MeloTTS-Korean"
+    },
+    "十": {
+      "path": "assets/audio/hoondok/8급/十.m4a",
+      "speech": "열 십",
+      "engine": "MeloTTS-Korean"
+    },
+    "五": {
+      "path": "assets/audio/hoondok/8급/五.m4a",
+      "speech": "다섯 오",
+      "engine": "MeloTTS-Korean"
+    },
+    "王": {
+      "path": "assets/audio/hoondok/8급/王.m4a",
+      "speech": "임금 왕",
+      "engine": "MeloTTS-Korean"
+    },
+    "外": {
+      "path": "assets/audio/hoondok/8급/外.m4a",
+      "speech": "바깥 외",
+      "engine": "MeloTTS-Korean"
+    },
+    "月": {
+      "path": "assets/audio/hoondok/8급/月.m4a",
+      "speech": "달 월",
+      "engine": "MeloTTS-Korean"
+    },
+    "二": {
+      "path": "assets/audio/hoondok/8급/二.m4a",
+      "speech": "두 이",
+      "engine": "MeloTTS-Korean"
+    },
+    "人": {
+      "path": "assets/audio/hoondok/8급/人.m4a",
+      "speech": "사람 인",
+      "engine": "MeloTTS-Korean"
+    },
+    "一": {
+      "path": "assets/audio/hoondok/8급/一.m4a",
+      "speech": "한 일",
+      "engine": "MeloTTS-Korean"
+    },
+    "日": {
+      "path": "assets/audio/hoondok/8급/日.m4a",
+      "speech": "날 일",
+      "engine": "MeloTTS-Korean"
+    },
+    "長": {
+      "path": "assets/audio/hoondok/8급/長.m4a",
+      "speech": "긴 장",
+      "engine": "MeloTTS-Korean"
+    },
+    "弟": {
+      "path": "assets/audio/hoondok/8급/弟.m4a",
+      "speech": "아우 제",
+      "engine": "MeloTTS-Korean"
+    },
+    "中": {
+      "path": "assets/audio/hoondok/8급/中.m4a",
+      "speech": "가운데 중",
+      "engine": "MeloTTS-Korean"
+    },
+    "靑": {
+      "path": "assets/audio/hoondok/8급/靑.m4a",
+      "speech": "푸를 청",
+      "engine": "MeloTTS-Korean"
+    },
+    "寸": {
+      "path": "assets/audio/hoondok/8급/寸.m4a",
+      "speech": "마디 촌",
+      "engine": "MeloTTS-Korean"
+    },
+    "七": {
+      "path": "assets/audio/hoondok/8급/七.m4a",
+      "speech": "일곱 칠",
+      "engine": "MeloTTS-Korean"
+    },
+    "土": {
+      "path": "assets/audio/hoondok/8급/土.m4a",
+      "speech": "흙 토",
+      "engine": "MeloTTS-Korean"
+    },
+    "八": {
+      "path": "assets/audio/hoondok/8급/八.m4a",
+      "speech": "여덟 팔",
+      "engine": "MeloTTS-Korean"
+    },
+    "學": {
+      "path": "assets/audio/hoondok/8급/學.m4a",
+      "speech": "배울 학",
+      "engine": "MeloTTS-Korean"
+    },
+    "韓": {
+      "path": "assets/audio/hoondok/8급/韓.m4a",
+      "speech": "한국 나라 한",
+      "engine": "MeloTTS-Korean"
+    },
+    "兄": {
+      "path": "assets/audio/hoondok/8급/兄.m4a",
+      "speech": "형 형",
+      "engine": "MeloTTS-Korean"
+    },
+    "火": {
+      "path": "assets/audio/hoondok/8급/火.m4a",
+      "speech": "불 화",
+      "engine": "MeloTTS-Korean"
+    }
+  }
+}
