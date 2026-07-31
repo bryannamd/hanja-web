@@ -1,8 +1,12 @@
 {
   "version": 1,
-  "grade": "8급",
+  "grades": [
+    "7급",
+    "7급II",
+    "8급"
+  ],
   "engine": "MeloTTS-Korean",
-  "generatedAt": "2026-07-31T06:24:52.662955+00:00",
+  "generatedAt": "2026-07-31T07:21:47.302393+00:00",
   "clips": {
     "校": {
       "path": "assets/audio/hoondok/8급/校.m4a",
@@ -252,6 +256,506 @@
     "火": {
       "path": "assets/audio/hoondok/8급/火.m4a",
       "speech": "불 화",
+      "engine": "MeloTTS-Korean"
+    },
+    "家": {
+      "path": "assets/audio/hoondok/7급II/家.m4a",
+      "speech": "집 가",
+      "engine": "MeloTTS-Korean"
+    },
+    "間": {
+      "path": "assets/audio/hoondok/7급II/間.m4a",
+      "speech": "사이 간",
+      "engine": "MeloTTS-Korean"
+    },
+    "江": {
+      "path": "assets/audio/hoondok/7급II/江.m4a",
+      "speech": "강 강",
+      "engine": "MeloTTS-Korean"
+    },
+    "車": {
+      "path": "assets/audio/hoondok/7급II/車.m4a",
+      "speech": "수레 거",
+      "engine": "MeloTTS-Korean"
+    },
+    "工": {
+      "path": "assets/audio/hoondok/7급II/工.m4a",
+      "speech": "장인 공",
+      "engine": "MeloTTS-Korean"
+    },
+    "空": {
+      "path": "assets/audio/hoondok/7급II/空.m4a",
+      "speech": "빌 공",
+      "engine": "MeloTTS-Korean"
+    },
+    "氣": {
+      "path": "assets/audio/hoondok/7급II/氣.m4a",
+      "speech": "기운 기",
+      "engine": "MeloTTS-Korean"
+    },
+    "記": {
+      "path": "assets/audio/hoondok/7급II/記.m4a",
+      "speech": "기록할 기",
+      "engine": "MeloTTS-Korean"
+    },
+    "男": {
+      "path": "assets/audio/hoondok/7급II/男.m4a",
+      "speech": "사내 남",
+      "engine": "MeloTTS-Korean"
+    },
+    "內": {
+      "path": "assets/audio/hoondok/7급II/內.m4a",
+      "speech": "안 내",
+      "engine": "MeloTTS-Korean"
+    },
+    "農": {
+      "path": "assets/audio/hoondok/7급II/農.m4a",
+      "speech": "농사 농",
+      "engine": "MeloTTS-Korean"
+    },
+    "答": {
+      "path": "assets/audio/hoondok/7급II/答.m4a",
+      "speech": "대답 답",
+      "engine": "MeloTTS-Korean"
+    },
+    "道": {
+      "path": "assets/audio/hoondok/7급II/道.m4a",
+      "speech": "길 도",
+      "engine": "MeloTTS-Korean"
+    },
+    "動": {
+      "path": "assets/audio/hoondok/7급II/動.m4a",
+      "speech": "움직일 동",
+      "engine": "MeloTTS-Korean"
+    },
+    "力": {
+      "path": "assets/audio/hoondok/7급II/力.m4a",
+      "speech": "힘 력",
+      "engine": "MeloTTS-Korean"
+    },
+    "立": {
+      "path": "assets/audio/hoondok/7급II/立.m4a",
+      "speech": "설 립",
+      "engine": "MeloTTS-Korean"
+    },
+    "每": {
+      "path": "assets/audio/hoondok/7급II/每.m4a",
+      "speech": "매양 매",
+      "engine": "MeloTTS-Korean"
+    },
+    "名": {
+      "path": "assets/audio/hoondok/7급II/名.m4a",
+      "speech": "이름 명",
+      "engine": "MeloTTS-Korean"
+    },
+    "物": {
+      "path": "assets/audio/hoondok/7급II/物.m4a",
+      "speech": "물건 물",
+      "engine": "MeloTTS-Korean"
+    },
+    "方": {
+      "path": "assets/audio/hoondok/7급II/方.m4a",
+      "speech": "모 방",
+      "engine": "MeloTTS-Korean"
+    },
+    "不": {
+      "path": "assets/audio/hoondok/7급II/不.m4a",
+      "speech": "아닐 불",
+      "engine": "MeloTTS-Korean"
+    },
+    "事": {
+      "path": "assets/audio/hoondok/7급II/事.m4a",
+      "speech": "일 사",
+      "engine": "MeloTTS-Korean"
+    },
+    "上": {
+      "path": "assets/audio/hoondok/7급II/上.m4a",
+      "speech": "윗 상",
+      "engine": "MeloTTS-Korean"
+    },
+    "姓": {
+      "path": "assets/audio/hoondok/7급II/姓.m4a",
+      "speech": "성 성",
+      "engine": "MeloTTS-Korean"
+    },
+    "世": {
+      "path": "assets/audio/hoondok/7급II/世.m4a",
+      "speech": "인간 세",
+      "engine": "MeloTTS-Korean"
+    },
+    "手": {
+      "path": "assets/audio/hoondok/7급II/手.m4a",
+      "speech": "손 수",
+      "engine": "MeloTTS-Korean"
+    },
+    "時": {
+      "path": "assets/audio/hoondok/7급II/時.m4a",
+      "speech": "때 시",
+      "engine": "MeloTTS-Korean"
+    },
+    "市": {
+      "path": "assets/audio/hoondok/7급II/市.m4a",
+      "speech": "저자 시",
+      "engine": "MeloTTS-Korean"
+    },
+    "食": {
+      "path": "assets/audio/hoondok/7급II/食.m4a",
+      "speech": "밥 먹을 식",
+      "engine": "MeloTTS-Korean"
+    },
+    "安": {
+      "path": "assets/audio/hoondok/7급II/安.m4a",
+      "speech": "편안 안",
+      "engine": "MeloTTS-Korean"
+    },
+    "午": {
+      "path": "assets/audio/hoondok/7급II/午.m4a",
+      "speech": "낮 오",
+      "engine": "MeloTTS-Korean"
+    },
+    "右": {
+      "path": "assets/audio/hoondok/7급II/右.m4a",
+      "speech": "오를 오른 쪽 우",
+      "engine": "MeloTTS-Korean"
+    },
+    "子": {
+      "path": "assets/audio/hoondok/7급II/子.m4a",
+      "speech": "아들 자",
+      "engine": "MeloTTS-Korean"
+    },
+    "自": {
+      "path": "assets/audio/hoondok/7급II/自.m4a",
+      "speech": "스스로 자",
+      "engine": "MeloTTS-Korean"
+    },
+    "場": {
+      "path": "assets/audio/hoondok/7급II/場.m4a",
+      "speech": "마당 장",
+      "engine": "MeloTTS-Korean"
+    },
+    "電": {
+      "path": "assets/audio/hoondok/7급II/電.m4a",
+      "speech": "번개 전",
+      "engine": "MeloTTS-Korean"
+    },
+    "前": {
+      "path": "assets/audio/hoondok/7급II/前.m4a",
+      "speech": "앞 전",
+      "engine": "MeloTTS-Korean"
+    },
+    "全": {
+      "path": "assets/audio/hoondok/7급II/全.m4a",
+      "speech": "온전 전",
+      "engine": "MeloTTS-Korean"
+    },
+    "正": {
+      "path": "assets/audio/hoondok/7급II/正.m4a",
+      "speech": "바를 정",
+      "engine": "MeloTTS-Korean"
+    },
+    "足": {
+      "path": "assets/audio/hoondok/7급II/足.m4a",
+      "speech": "발 족",
+      "engine": "MeloTTS-Korean"
+    },
+    "左": {
+      "path": "assets/audio/hoondok/7급II/左.m4a",
+      "speech": "왼 좌",
+      "engine": "MeloTTS-Korean"
+    },
+    "直": {
+      "path": "assets/audio/hoondok/7급II/直.m4a",
+      "speech": "곧을 직",
+      "engine": "MeloTTS-Korean"
+    },
+    "平": {
+      "path": "assets/audio/hoondok/7급II/平.m4a",
+      "speech": "평평할 평",
+      "engine": "MeloTTS-Korean"
+    },
+    "下": {
+      "path": "assets/audio/hoondok/7급II/下.m4a",
+      "speech": "아래 하",
+      "engine": "MeloTTS-Korean"
+    },
+    "漢": {
+      "path": "assets/audio/hoondok/7급II/漢.m4a",
+      "speech": "한수 한나라 한",
+      "engine": "MeloTTS-Korean"
+    },
+    "海": {
+      "path": "assets/audio/hoondok/7급II/海.m4a",
+      "speech": "바다 해",
+      "engine": "MeloTTS-Korean"
+    },
+    "話": {
+      "path": "assets/audio/hoondok/7급II/話.m4a",
+      "speech": "말씀 화",
+      "engine": "MeloTTS-Korean"
+    },
+    "活": {
+      "path": "assets/audio/hoondok/7급II/活.m4a",
+      "speech": "살 활",
+      "engine": "MeloTTS-Korean"
+    },
+    "孝": {
+      "path": "assets/audio/hoondok/7급II/孝.m4a",
+      "speech": "효도 효",
+      "engine": "MeloTTS-Korean"
+    },
+    "後": {
+      "path": "assets/audio/hoondok/7급II/後.m4a",
+      "speech": "뒤 후",
+      "engine": "MeloTTS-Korean"
+    },
+    "歌": {
+      "path": "assets/audio/hoondok/7급/歌.m4a",
+      "speech": "노래 가",
+      "engine": "MeloTTS-Korean"
+    },
+    "口": {
+      "path": "assets/audio/hoondok/7급/口.m4a",
+      "speech": "입 구",
+      "engine": "MeloTTS-Korean"
+    },
+    "旗": {
+      "path": "assets/audio/hoondok/7급/旗.m4a",
+      "speech": "기 기",
+      "engine": "MeloTTS-Korean"
+    },
+    "同": {
+      "path": "assets/audio/hoondok/7급/同.m4a",
+      "speech": "한가지 동",
+      "engine": "MeloTTS-Korean"
+    },
+    "洞": {
+      "path": "assets/audio/hoondok/7급/洞.m4a",
+      "speech": "골 동",
+      "engine": "MeloTTS-Korean"
+    },
+    "冬": {
+      "path": "assets/audio/hoondok/7급/冬.m4a",
+      "speech": "겨울 동",
+      "engine": "MeloTTS-Korean"
+    },
+    "登": {
+      "path": "assets/audio/hoondok/7급/登.m4a",
+      "speech": "오를 등",
+      "engine": "MeloTTS-Korean"
+    },
+    "來": {
+      "path": "assets/audio/hoondok/7급/來.m4a",
+      "speech": "올 래",
+      "engine": "MeloTTS-Korean"
+    },
+    "老": {
+      "path": "assets/audio/hoondok/7급/老.m4a",
+      "speech": "늙을 로",
+      "engine": "MeloTTS-Korean"
+    },
+    "里": {
+      "path": "assets/audio/hoondok/7급/里.m4a",
+      "speech": "마을 리",
+      "engine": "MeloTTS-Korean"
+    },
+    "林": {
+      "path": "assets/audio/hoondok/7급/林.m4a",
+      "speech": "수풀 림",
+      "engine": "MeloTTS-Korean"
+    },
+    "面": {
+      "path": "assets/audio/hoondok/7급/面.m4a",
+      "speech": "낯 면",
+      "engine": "MeloTTS-Korean"
+    },
+    "命": {
+      "path": "assets/audio/hoondok/7급/命.m4a",
+      "speech": "목숨 명",
+      "engine": "MeloTTS-Korean"
+    },
+    "文": {
+      "path": "assets/audio/hoondok/7급/文.m4a",
+      "speech": "글월 문",
+      "engine": "MeloTTS-Korean"
+    },
+    "問": {
+      "path": "assets/audio/hoondok/7급/問.m4a",
+      "speech": "물을 문",
+      "engine": "MeloTTS-Korean"
+    },
+    "百": {
+      "path": "assets/audio/hoondok/7급/百.m4a",
+      "speech": "일백 백",
+      "engine": "MeloTTS-Korean"
+    },
+    "夫": {
+      "path": "assets/audio/hoondok/7급/夫.m4a",
+      "speech": "지아비 부",
+      "engine": "MeloTTS-Korean"
+    },
+    "算": {
+      "path": "assets/audio/hoondok/7급/算.m4a",
+      "speech": "셈 산",
+      "engine": "MeloTTS-Korean"
+    },
+    "色": {
+      "path": "assets/audio/hoondok/7급/色.m4a",
+      "speech": "빛 색",
+      "engine": "MeloTTS-Korean"
+    },
+    "夕": {
+      "path": "assets/audio/hoondok/7급/夕.m4a",
+      "speech": "저녁 석",
+      "engine": "MeloTTS-Korean"
+    },
+    "少": {
+      "path": "assets/audio/hoondok/7급/少.m4a",
+      "speech": "적을 소",
+      "engine": "MeloTTS-Korean"
+    },
+    "所": {
+      "path": "assets/audio/hoondok/7급/所.m4a",
+      "speech": "바 소",
+      "engine": "MeloTTS-Korean"
+    },
+    "數": {
+      "path": "assets/audio/hoondok/7급/數.m4a",
+      "speech": "셈 수",
+      "engine": "MeloTTS-Korean"
+    },
+    "植": {
+      "path": "assets/audio/hoondok/7급/植.m4a",
+      "speech": "심을 식",
+      "engine": "MeloTTS-Korean"
+    },
+    "心": {
+      "path": "assets/audio/hoondok/7급/心.m4a",
+      "speech": "마음 심",
+      "engine": "MeloTTS-Korean"
+    },
+    "語": {
+      "path": "assets/audio/hoondok/7급/語.m4a",
+      "speech": "말씀 어",
+      "engine": "MeloTTS-Korean"
+    },
+    "然": {
+      "path": "assets/audio/hoondok/7급/然.m4a",
+      "speech": "그럴 연",
+      "engine": "MeloTTS-Korean"
+    },
+    "有": {
+      "path": "assets/audio/hoondok/7급/有.m4a",
+      "speech": "있을 유",
+      "engine": "MeloTTS-Korean"
+    },
+    "育": {
+      "path": "assets/audio/hoondok/7급/育.m4a",
+      "speech": "기를 육",
+      "engine": "MeloTTS-Korean"
+    },
+    "邑": {
+      "path": "assets/audio/hoondok/7급/邑.m4a",
+      "speech": "고을 읍",
+      "engine": "MeloTTS-Korean"
+    },
+    "入": {
+      "path": "assets/audio/hoondok/7급/入.m4a",
+      "speech": "들 입",
+      "engine": "MeloTTS-Korean"
+    },
+    "字": {
+      "path": "assets/audio/hoondok/7급/字.m4a",
+      "speech": "글자 자",
+      "engine": "MeloTTS-Korean"
+    },
+    "祖": {
+      "path": "assets/audio/hoondok/7급/祖.m4a",
+      "speech": "할아비 조",
+      "engine": "MeloTTS-Korean"
+    },
+    "住": {
+      "path": "assets/audio/hoondok/7급/住.m4a",
+      "speech": "살 주",
+      "engine": "MeloTTS-Korean"
+    },
+    "主": {
+      "path": "assets/audio/hoondok/7급/主.m4a",
+      "speech": "임금 주인 주",
+      "engine": "MeloTTS-Korean"
+    },
+    "重": {
+      "path": "assets/audio/hoondok/7급/重.m4a",
+      "speech": "무거울 중",
+      "engine": "MeloTTS-Korean"
+    },
+    "紙": {
+      "path": "assets/audio/hoondok/7급/紙.m4a",
+      "speech": "종이 지",
+      "engine": "MeloTTS-Korean"
+    },
+    "地": {
+      "path": "assets/audio/hoondok/7급/地.m4a",
+      "speech": "따 지",
+      "engine": "MeloTTS-Korean"
+    },
+    "千": {
+      "path": "assets/audio/hoondok/7급/千.m4a",
+      "speech": "일천 천",
+      "engine": "MeloTTS-Korean"
+    },
+    "天": {
+      "path": "assets/audio/hoondok/7급/天.m4a",
+      "speech": "하늘 천",
+      "engine": "MeloTTS-Korean"
+    },
+    "川": {
+      "path": "assets/audio/hoondok/7급/川.m4a",
+      "speech": "내 천",
+      "engine": "MeloTTS-Korean"
+    },
+    "草": {
+      "path": "assets/audio/hoondok/7급/草.m4a",
+      "speech": "풀 초",
+      "engine": "MeloTTS-Korean"
+    },
+    "村": {
+      "path": "assets/audio/hoondok/7급/村.m4a",
+      "speech": "마을 촌",
+      "engine": "MeloTTS-Korean"
+    },
+    "秋": {
+      "path": "assets/audio/hoondok/7급/秋.m4a",
+      "speech": "가을 추",
+      "engine": "MeloTTS-Korean"
+    },
+    "春": {
+      "path": "assets/audio/hoondok/7급/春.m4a",
+      "speech": "봄 춘",
+      "engine": "MeloTTS-Korean"
+    },
+    "出": {
+      "path": "assets/audio/hoondok/7급/出.m4a",
+      "speech": "날 출",
+      "engine": "MeloTTS-Korean"
+    },
+    "便": {
+      "path": "assets/audio/hoondok/7급/便.m4a",
+      "speech": "편할 편",
+      "engine": "MeloTTS-Korean"
+    },
+    "夏": {
+      "path": "assets/audio/hoondok/7급/夏.m4a",
+      "speech": "여름 하",
+      "engine": "MeloTTS-Korean"
+    },
+    "花": {
+      "path": "assets/audio/hoondok/7급/花.m4a",
+      "speech": "꽃 화",
+      "engine": "MeloTTS-Korean"
+    },
+    "休": {
+      "path": "assets/audio/hoondok/7급/休.m4a",
+      "speech": "쉴 휴",
       "engine": "MeloTTS-Korean"
     }
   }
