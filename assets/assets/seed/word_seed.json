@@ -440,16 +440,6 @@
 ]
 },
 {
-"surface": "室內",
-"reading": "실내",
-"meaning": "방이나 건물의 안쪽",
-"gongmu": 0,
-"hanjaRefs": [
-"室",
-"內"
-]
-},
-{
 "surface": "室外",
 "reading": "실외",
 "meaning": "방이나 건물의 바깥쪽",
@@ -974,13 +964,33 @@
 ]
 },
 {
-"surface": "長短",
-"reading": "장단",
-"meaning": "길이의 길고 짧음",
+"surface": "萬人",
+"reading": "만인",
+"meaning": "아주 많은 모든 사람",
 "gongmu": 0,
 "hanjaRefs": [
-"長",
-"短"
+"萬",
+"人"
+]
+},
+{
+"surface": "萬年",
+"reading": "만년",
+"meaning": "아주 오랜 세월",
+"gongmu": 0,
+"hanjaRefs": [
+"萬",
+"年"
+]
+},
+{
+"surface": "萬民",
+"reading": "만민",
+"meaning": "세상의 모든 사람들",
+"gongmu": 0,
+"hanjaRefs": [
+"萬",
+"民"
 ]
 }
 ]
@@ -988,6 +998,16 @@
 {
 "grade": "7급II",
 "data": [
+{
+"surface": "室內",
+"reading": "실내",
+"meaning": "방이나 건물의 안쪽",
+"gongmu": 0,
+"hanjaRefs": [
+"室",
+"內"
+]
+},
 {
 "surface": "上下",
 "reading": "상하",
@@ -1042,16 +1062,6 @@
 ]
 },
 {
-"surface": "上流",
-"reading": "상류",
-"meaning": "강물이 시작되는 윗부분",
-"gongmu": 0,
-"hanjaRefs": [
-"上",
-"流"
-]
-},
-{
 "surface": "上空",
 "reading": "상공",
 "meaning": "머리 위의 높은 하늘",
@@ -1059,16 +1069,6 @@
 "hanjaRefs": [
 "上",
 "空"
-]
-},
-{
-"surface": "上部",
-"reading": "상부",
-"meaning": "물건의 위쪽 부분",
-"gongmu": 0,
-"hanjaRefs": [
-"上",
-"部"
 ]
 },
 {
@@ -1089,16 +1089,6 @@
 "hanjaRefs": [
 "下",
 "水"
-]
-},
-{
-"surface": "下部",
-"reading": "하부",
-"meaning": "물건의 아래쪽 부분",
-"gongmu": 0,
-"hanjaRefs": [
-"下",
-"部"
 ]
 },
 {
@@ -1293,16 +1283,6 @@
 ]
 },
 {
-"surface": "以後",
-"reading": "이후",
-"meaning": "어떤 기준이 지난 뒤",
-"gongmu": 0,
-"hanjaRefs": [
-"以",
-"後"
-]
-},
-{
 "surface": "先手",
 "reading": "선수",
 "meaning": "남보다 먼저 앞질러 행동함",
@@ -1363,16 +1343,6 @@
 ]
 },
 {
-"surface": "內部",
-"reading": "내부",
-"meaning": "어떤 물건이나 건물의 안쪽",
-"gongmu": 0,
-"hanjaRefs": [
-"內",
-"部"
-]
-},
-{
 "surface": "全國",
 "reading": "전국",
 "meaning": "나라 전체의 모든 곳",
@@ -1383,16 +1353,6 @@
 ]
 },
 {
-"surface": "全部",
-"reading": "전부",
-"meaning": "남김없이 모두 합한 것",
-"gongmu": 0,
-"hanjaRefs": [
-"全",
-"部"
-]
-},
-{
 "surface": "全長",
 "reading": "전장",
 "meaning": "처음부터 끝까지의 길이",
@@ -1400,16 +1360,6 @@
 "hanjaRefs": [
 "全",
 "長"
-]
-},
-{
-"surface": "全體",
-"reading": "전체",
-"meaning": "모든 부분을 다 합친 것",
-"gongmu": 0,
-"hanjaRefs": [
-"全",
-"體"
 ]
 },
 {
@@ -1503,16 +1453,6 @@
 "hanjaRefs": [
 "前",
 "門"
-]
-},
-{
-"surface": "力士",
-"reading": "역사",
-"meaning": "힘이 무척 센 사람",
-"gongmu": 0,
-"hanjaRefs": [
-"力",
-"士"
 ]
 },
 {
@@ -1837,16 +1777,6 @@
 ]
 },
 {
-"surface": "姓氏",
-"reading": "성씨",
-"meaning": "사람의 성을 높여 부르는 말",
-"gongmu": 0,
-"hanjaRefs": [
-"姓",
-"氏"
-]
-},
-{
 "surface": "子女",
 "reading": "자녀",
 "meaning": "아들과 딸을 함께 부르는 말",
@@ -1917,16 +1847,6 @@
 ]
 },
 {
-"surface": "安心",
-"reading": "안심",
-"meaning": "걱정 없이 마음이 놓임",
-"gongmu": 0,
-"hanjaRefs": [
-"安",
-"心"
-]
-},
-{
 "surface": "家事",
 "reading": "가사",
 "meaning": "집에서 하는 여러 가지 일",
@@ -1985,16 +1905,6 @@
 "家",
 "父",
 "長"
-]
-},
-{
-"surface": "家産",
-"reading": "가산",
-"meaning": "한 집안이 가지고 있는 재산",
-"gongmu": 0,
-"hanjaRefs": [
-"家",
-"産"
 ]
 },
 {
@@ -2165,16 +2075,6 @@
 "hanjaRefs": [
 "市",
 "長"
-]
-},
-{
-"surface": "平和",
-"reading": "평화",
-"meaning": "싸움이 없고 평온함",
-"gongmu": 0,
-"hanjaRefs": [
-"平",
-"和"
 ]
 },
 {
@@ -2438,16 +2338,6 @@
 ]
 },
 {
-"surface": "時代",
-"reading": "시대",
-"meaning": "역사적으로 구분한 어떤 기간",
-"gongmu": 1,
-"hanjaRefs": [
-"時",
-"代"
-]
-},
-{
 "surface": "時日",
 "reading": "시일",
 "meaning": "시간과 날짜 또는 날짜와 기한",
@@ -2465,16 +2355,6 @@
 "hanjaRefs": [
 "時",
 "間"
-]
-},
-{
-"surface": "會話",
-"reading": "회화",
-"meaning": "서로 만나서 나누는 이야기",
-"gongmu": 0,
-"hanjaRefs": [
-"會",
-"話"
 ]
 },
 {
@@ -2901,16 +2781,6 @@
 ]
 },
 {
-"surface": "漢文",
-"reading": "한문",
-"meaning": "옛날 중국어로 쓰인 문장",
-"gongmu": 0,
-"hanjaRefs": [
-"漢",
-"文"
-]
-},
-{
 "surface": "漢江",
 "reading": "교정",
 "meaning": "중국 양쯔강으로 흐르는 강",
@@ -2949,16 +2819,6 @@
 "父",
 "子",
 "間"
-]
-},
-{
-"surface": "率直",
-"reading": "솔직",
-"meaning": "거짓 없이 솔직한 마음",
-"gongmu": 0,
-"hanjaRefs": [
-"率",
-"直"
 ]
 },
 {
@@ -3024,16 +2884,6 @@
 ]
 },
 {
-"surface": "男兒",
-"reading": "남아",
-"meaning": "남자아이",
-"gongmu": 1,
-"hanjaRefs": [
-"男",
-"兒"
-]
-},
-{
 "surface": "男女",
 "reading": "남녀",
 "meaning": "남자와 여자",
@@ -3084,16 +2934,6 @@
 ]
 },
 {
-"surface": "直線",
-"reading": "직선",
-"meaning": "굽지 않고 곧게 뻗은 선",
-"gongmu": 0,
-"hanjaRefs": [
-"直",
-"線"
-]
-},
-{
 "surface": "空中",
 "reading": "공중",
 "meaning": "하늘과 땅 사이의 빈 공간",
@@ -3101,16 +2941,6 @@
 "hanjaRefs": [
 "空",
 "中"
-]
-},
-{
-"surface": "空地",
-"reading": "공지",
-"meaning": "비어 있는 땅",
-"gongmu": 0,
-"hanjaRefs": [
-"空",
-"地"
 ]
 },
 {
@@ -3181,16 +3011,6 @@
 "hanjaRefs": [
 "立",
 "方"
-]
-},
-{
-"surface": "職場",
-"reading": "직장",
-"meaning": "직업을 가지고 일하는 곳",
-"gongmu": 0,
-"hanjaRefs": [
-"職",
-"場"
 ]
 },
 {
@@ -3315,26 +3135,6 @@
 ]
 },
 {
-"surface": "記錄",
-"reading": "기록",
-"meaning": "나중에 보려고 적어 둔 글",
-"gongmu": 0,
-"hanjaRefs": [
-"記",
-"錄"
-]
-},
-{
-"surface": "賣場",
-"reading": "매장",
-"meaning": "물건을 파는 장소",
-"gongmu": 0,
-"hanjaRefs": [
-"賣",
-"場"
-]
-},
-{
 "surface": "車道",
 "reading": "차도",
 "meaning": "자동차만 다니도록 만든 길",
@@ -3405,16 +3205,6 @@
 ]
 },
 {
-"surface": "農業",
-"reading": "농업",
-"meaning": "농사짓고 가축을 기르는 일",
-"gongmu": 0,
-"hanjaRefs": [
-"農",
-"業"
-]
-},
-{
 "surface": "農民",
 "reading": "농민",
 "meaning": "농사를 직업으로 삼는 사람",
@@ -3422,28 +3212,6 @@
 "hanjaRefs": [
 "農",
 "民"
-]
-},
-{
-"surface": "農産物",
-"reading": "농산물",
-"meaning": "농사지어 얻은 곡식과 채소 등",
-"gongmu": 0,
-"hanjaRefs": [
-"農",
-"産",
-"物"
-]
-},
-{
-"surface": "運動場",
-"reading": "운동장",
-"meaning": "운동할 수 있는 넓은 마당",
-"gongmu": 0,
-"hanjaRefs": [
-"運",
-"動",
-"場"
 ]
 },
 {
@@ -3549,16 +3317,6 @@
 ]
 },
 {
-"surface": "食堂",
-"reading": "식당",
-"meaning": "음식을 먹도록 마련된 곳",
-"gongmu": 0,
-"hanjaRefs": [
-"食",
-"堂"
-]
-},
-{
 "surface": "食物",
 "reading": "식물",
 "meaning": "사람이 먹는 모든 음식",
@@ -3585,6 +3343,36 @@
 "grade": "7급",
 "data": [
 {
+"surface": "安心",
+"reading": "안심",
+"meaning": "걱정 없이 마음이 놓임",
+"gongmu": 0,
+"hanjaRefs": [
+"安",
+"心"
+]
+},
+{
+"surface": "漢文",
+"reading": "한문",
+"meaning": "옛날 중국어로 쓰인 문장",
+"gongmu": 0,
+"hanjaRefs": [
+"漢",
+"文"
+]
+},
+{
+"surface": "空地",
+"reading": "공지",
+"meaning": "비어 있는 땅",
+"gongmu": 0,
+"hanjaRefs": [
+"空",
+"地"
+]
+},
+{
 "surface": "七夕",
 "reading": "칠석",
 "meaning": "견우와 직녀가 만나는 날",
@@ -3592,16 +3380,6 @@
 "hanjaRefs": [
 "七",
 "夕"
-]
-},
-{
-"surface": "丈夫",
-"reading": "장부",
-"meaning": "다 자란 씩씩한 남자",
-"gongmu": 0,
-"hanjaRefs": [
-"丈",
-"夫"
 ]
 },
 {
@@ -3717,16 +3495,6 @@
 ]
 },
 {
-"surface": "主義",
-"reading": "주의",
-"meaning": "행동할 때 굳게 지키는 생각",
-"gongmu": 0,
-"hanjaRefs": [
-"主",
-"義"
-]
-},
-{
 "surface": "主食",
 "reading": "주식",
 "meaning": "밥처럼 가장 기본이 되는 음식",
@@ -3765,17 +3533,6 @@
 "hanjaRefs": [
 "九",
 "重"
-]
-},
-{
-"surface": "事務所",
-"reading": "사무소",
-"meaning": "사람들이 모여 일하는 곳",
-"gongmu": 0,
-"hanjaRefs": [
-"事",
-"務",
-"所"
 ]
 },
 {
@@ -3880,26 +3637,6 @@
 ]
 },
 {
-"surface": "休息",
-"reading": "휴식",
-"meaning": "하던 일을 멈추고 잠시 쉼",
-"gongmu": 0,
-"hanjaRefs": [
-"休",
-"息"
-]
-},
-{
-"surface": "休戰",
-"reading": "휴전",
-"meaning": "전쟁이나 싸움을 잠시 멈춤",
-"gongmu": 0,
-"hanjaRefs": [
-"休",
-"戰"
-]
-},
-{
 "surface": "休日",
 "reading": "휴일",
 "meaning": "일하지 않고 편히 쉬는 날",
@@ -3917,16 +3654,6 @@
 "hanjaRefs": [
 "休",
 "校"
-]
-},
-{
-"surface": "休業",
-"reading": "휴업",
-"meaning": "가게나 회사가 일을 잠시 쉼",
-"gongmu": 0,
-"hanjaRefs": [
-"休",
-"業"
 ]
 },
 {
@@ -3948,16 +3675,6 @@
 "hanjaRefs": [
 "休",
 "紙"
-]
-},
-{
-"surface": "住宅",
-"reading": "주택",
-"meaning": "사람들이 들어가 사는 집",
-"gongmu": 0,
-"hanjaRefs": [
-"住",
-"宅"
 ]
 },
 {
@@ -4021,16 +3738,6 @@
 ]
 },
 {
-"surface": "便利",
-"reading": "편리",
-"meaning": "편하고 쉽게 쓸 수 있음",
-"gongmu": 0,
-"hanjaRefs": [
-"便",
-"利"
-]
-},
-{
 "surface": "便安",
 "reading": "편안",
 "meaning": "걱정 없이 마음이 편함",
@@ -4058,16 +3765,6 @@
 "hanjaRefs": [
 "便",
 "紙"
-]
-},
-{
-"surface": "元老",
-"reading": "원로",
-"meaning": "한 분야에서 오래 일한 어른",
-"gongmu": 0,
-"hanjaRefs": [
-"元",
-"老"
 ]
 },
 {
@@ -4221,36 +3918,6 @@
 ]
 },
 {
-"surface": "共同",
-"reading": "공동",
-"meaning": "여럿이 힘을 합쳐 함께 함",
-"gongmu": 0,
-"hanjaRefs": [
-"共",
-"同"
-]
-},
-{
-"surface": "冬眠",
-"reading": "동면",
-"meaning": "동물이 겨울 동안 자는 잠",
-"gongmu": 0,
-"hanjaRefs": [
-"冬",
-"眠"
-]
-},
-{
-"surface": "冬至",
-"reading": "동지",
-"meaning": "일 년 중 밤이 가장 긴 날",
-"gongmu": 1,
-"hanjaRefs": [
-"冬",
-"至"
-]
-},
-{
 "surface": "出世",
 "reading": "출세",
 "meaning": "높은 자리에 오르고 성공함",
@@ -4342,16 +4009,6 @@
 ]
 },
 {
-"surface": "出發",
-"reading": "출발",
-"meaning": "목적지를 향해 떠남",
-"gongmu": 0,
-"hanjaRefs": [
-"出",
-"發"
-]
-},
-{
 "surface": "出金",
 "reading": "출금",
 "meaning": "통장에서 돈을 빼냄",
@@ -4411,26 +4068,6 @@
 "hanjaRefs": [
 "千",
 "金"
-]
-},
-{
-"surface": "協同",
-"reading": "협동",
-"meaning": "서로 힘을 합쳐 함께함",
-"gongmu": 0,
-"hanjaRefs": [
-"協",
-"同"
-]
-},
-{
-"surface": "原色",
-"reading": "원색",
-"meaning": "다른 색을 섞지 않은 색",
-"gongmu": 0,
-"hanjaRefs": [
-"原",
-"色"
 ]
 },
 {
@@ -4575,16 +4212,6 @@
 ]
 },
 {
-"surface": "同行",
-"reading": "동행",
-"meaning": "길을 함께 감",
-"gongmu": 0,
-"hanjaRefs": [
-"同",
-"行"
-]
-},
-{
 "surface": "同門",
 "reading": "동문",
 "meaning": "같은 곳에서 배운 사이",
@@ -4627,16 +4254,6 @@
 ]
 },
 {
-"surface": "問題",
-"reading": "문제",
-"meaning": "답을 찾아야 하는 질문",
-"gongmu": 0,
-"hanjaRefs": [
-"問",
-"題"
-]
-},
-{
 "surface": "四六文",
 "reading": "사륙문",
 "meaning": "네 자와 여섯 자로 맞춘 한문",
@@ -4645,16 +4262,6 @@
 "四",
 "六",
 "文"
-]
-},
-{
-"surface": "回數",
-"reading": "회수",
-"meaning": "일이 되풀이되는 횟수",
-"gongmu": 0,
-"hanjaRefs": [
-"回",
-"數"
 ]
 },
 {
@@ -4801,16 +4408,6 @@
 ]
 },
 {
-"surface": "地域",
-"reading": "지역",
-"meaning": "일정한 범위의 땅",
-"gongmu": 0,
-"hanjaRefs": [
-"地",
-"域"
-]
-},
-{
 "surface": "地心",
 "reading": "지심",
 "meaning": "지구의 한가운데",
@@ -4861,16 +4458,6 @@
 ]
 },
 {
-"surface": "夏季",
-"reading": "하계",
-"meaning": "더운 여름철",
-"gongmu": 0,
-"hanjaRefs": [
-"夏",
-"季"
-]
-},
-{
 "surface": "夏日",
 "reading": "하일",
 "meaning": "더운 여름날",
@@ -4878,26 +4465,6 @@
 "hanjaRefs": [
 "夏",
 "日"
-]
-},
-{
-"surface": "夏至",
-"reading": "하지",
-"meaning": "낮이 가장 긴 여름날",
-"gongmu": 1,
-"hanjaRefs": [
-"夏",
-"至"
-]
-},
-{
-"surface": "夕陽",
-"reading": "석양",
-"meaning": "저녁에 지는 해",
-"gongmu": 0,
-"hanjaRefs": [
-"夕",
-"陽"
 ]
 },
 {
@@ -5174,16 +4741,6 @@
 ]
 },
 {
-"surface": "夫婦",
-"reading": "부부",
-"meaning": "남편과 아내를 뜻하는 말",
-"gongmu": 0,
-"hanjaRefs": [
-"夫",
-"婦"
-]
-},
-{
 "surface": "子夏",
 "reading": "자하",
 "meaning": "공자의 제자인 옛 중국의 학자",
@@ -5224,32 +4781,12 @@
 ]
 },
 {
-"surface": "宅地",
-"reading": "택지",
-"meaning": "집을 짓기 위해 준비한 땅",
-"gongmu": 0,
-"hanjaRefs": [
-"宅",
-"地"
-]
-},
-{
 "surface": "安住",
 "reading": "안주",
 "meaning": "한곳에 자리 잡고 편안히 살기",
 "gongmu": 0,
 "hanjaRefs": [
 "安",
-"住"
-]
-},
-{
-"surface": "定住",
-"reading": "정주",
-"meaning": "한곳에 자리를 잡고 사는 것",
-"gongmu": 0,
-"hanjaRefs": [
-"定",
 "住"
 ]
 },
@@ -5271,16 +4808,6 @@
 "hanjaRefs": [
 "寸",
 "數"
-]
-},
-{
-"surface": "將來",
-"reading": "장래",
-"meaning": "앞으로 다가올 날",
-"gongmu": 0,
-"hanjaRefs": [
-"將",
-"來"
 ]
 },
 {
@@ -5445,16 +4972,6 @@
 ]
 },
 {
-"surface": "往來",
-"reading": "왕래",
-"meaning": "서로 오고 가며 지냄",
-"gongmu": 0,
-"hanjaRefs": [
-"往",
-"來"
-]
-},
-{
 "surface": "後面",
 "reading": "후면",
 "meaning": "어떤 것의 뒤쪽 면",
@@ -5525,16 +5042,6 @@
 ]
 },
 {
-"surface": "所望",
-"reading": "소망",
-"meaning": "간절히 바라는 마음이나 일",
-"gongmu": 1,
-"hanjaRefs": [
-"所",
-"望"
-]
-},
-{
 "surface": "所重",
 "reading": "소중",
 "meaning": "매우 귀하고 소중하게 여김",
@@ -5562,16 +5069,6 @@
 "hanjaRefs": [
 "敎",
 "育"
-]
-},
-{
-"surface": "敬語",
-"reading": "경어",
-"meaning": "상대방을 높여서 하는 말",
-"gongmu": 0,
-"hanjaRefs": [
-"敬",
-"語"
 ]
 },
 {
@@ -5605,16 +5102,6 @@
 ]
 },
 {
-"surface": "文化",
-"reading": "문화",
-"meaning": "사회가 공유하는 생활 방식",
-"gongmu": 0,
-"hanjaRefs": [
-"文",
-"化"
-]
-},
-{
 "surface": "文字",
 "reading": "문자",
 "meaning": "예전부터 전해 온 한자 문장",
@@ -5642,17 +5129,6 @@
 "hanjaRefs": [
 "文",
 "王"
-]
-},
-{
-"surface": "新聞紙",
-"reading": "신문지",
-"meaning": "신문을 찍어 내는 종이",
-"gongmu": 0,
-"hanjaRefs": [
-"新",
-"聞",
-"紙"
 ]
 },
 {
@@ -5748,16 +5224,6 @@
 ]
 },
 {
-"surface": "有利",
-"reading": "유리",
-"meaning": "이익이 되거나 도움이 됨",
-"gongmu": 0,
-"hanjaRefs": [
-"有",
-"利"
-]
-},
-{
 "surface": "有時",
 "reading": "유시",
 "meaning": "어쩌다 한 번씩 가끔",
@@ -5775,16 +5241,6 @@
 "hanjaRefs": [
 "木",
 "心"
-]
-},
-{
-"surface": "未來",
-"reading": "미래",
-"meaning": "앞으로 올 시간이나 날들",
-"gongmu": 0,
-"hanjaRefs": [
-"未",
-"來"
 ]
 },
 {
@@ -5855,16 +5311,6 @@
 "hanjaRefs": [
 "校",
 "歌"
-]
-},
-{
-"surface": "森林",
-"reading": "삼림",
-"meaning": "나무가 빽빽하게 우거진 숲",
-"gongmu": 0,
-"hanjaRefs": [
-"森",
-"林"
 ]
 },
 {
@@ -6131,16 +5577,6 @@
 ]
 },
 {
-"surface": "減少",
-"reading": "감소",
-"meaning": "수나 양이 줄어드는 것",
-"gongmu": 0,
-"hanjaRefs": [
-"減",
-"少"
-]
-},
-{
 "surface": "漢字",
 "reading": "한자",
 "meaning": "중국에서 만들어진 글자",
@@ -6222,16 +5658,6 @@
 ]
 },
 {
-"surface": "用紙",
-"reading": "용지",
-"meaning": "기록을 위해 쓰는 종이",
-"gongmu": 0,
-"hanjaRefs": [
-"用",
-"紙"
-]
-},
-{
 "surface": "男便",
 "reading": "남편",
 "meaning": "결혼하여 아내의 짝이 된 남자",
@@ -6261,16 +5687,6 @@
 "hanjaRefs": [
 "男",
 "色"
-]
-},
-{
-"surface": "當然",
-"reading": "당연",
-"meaning": "마땅히 그렇게 되어야 함",
-"gongmu": 0,
-"hanjaRefs": [
-"當",
-"然"
 ]
 },
 {
@@ -6311,16 +5727,6 @@
 "hanjaRefs": [
 "登",
 "記"
-]
-},
-{
-"surface": "發育",
-"reading": "발육",
-"meaning": "생물이 자라서 커짐",
-"gongmu": 0,
-"hanjaRefs": [
-"發",
-"育"
 ]
 },
 {
@@ -6454,16 +5860,6 @@
 ]
 },
 {
-"surface": "盛夏",
-"reading": "성하",
-"meaning": "가장 더운 한여름",
-"gongmu": 0,
-"hanjaRefs": [
-"盛",
-"夏"
-]
-},
-{
 "surface": "直面",
 "reading": "직면",
 "meaning": "어려운 일이나 상황에 마주함",
@@ -6541,16 +5937,6 @@
 "hanjaRefs": [
 "秋",
 "夕"
-]
-},
-{
-"surface": "移住",
-"reading": "이주",
-"meaning": "다른 곳으로 집을 옮겨서 삶",
-"gongmu": 0,
-"hanjaRefs": [
-"移",
-"住"
 ]
 },
 {
@@ -6674,16 +6060,6 @@
 ]
 },
 {
-"surface": "老弱",
-"reading": "노약",
-"meaning": "나이가 많고 몸이 약한 사람",
-"gongmu": 0,
-"hanjaRefs": [
-"老",
-"弱"
-]
-},
-{
 "surface": "老母",
 "reading": "노모",
 "meaning": "나이가 많이 드신 어머니",
@@ -6701,16 +6077,6 @@
 "hanjaRefs": [
 "老",
 "父"
-]
-},
-{
-"surface": "育成",
-"reading": "육성",
-"meaning": "잘 자라도록 보살펴서 기름",
-"gongmu": 0,
-"hanjaRefs": [
-"育",
-"成"
 ]
 },
 {
@@ -6752,16 +6118,6 @@
 "hanjaRefs": [
 "自",
 "重"
-]
-},
-{
-"surface": "色彩",
-"reading": "색채",
-"meaning": "물체가 가지는 고유한 색깔",
-"gongmu": 0,
-"hanjaRefs": [
-"色",
-"彩"
 ]
 },
 {
@@ -6835,36 +6191,6 @@
 ]
 },
 {
-"surface": "萬人",
-"reading": "만인",
-"meaning": "아주 많은 모든 사람",
-"gongmu": 0,
-"hanjaRefs": [
-"萬",
-"人"
-]
-},
-{
-"surface": "萬年",
-"reading": "만년",
-"meaning": "아주 오랜 세월",
-"gongmu": 0,
-"hanjaRefs": [
-"萬",
-"年"
-]
-},
-{
-"surface": "萬民",
-"reading": "만민",
-"meaning": "세상의 모든 사람들",
-"gongmu": 0,
-"hanjaRefs": [
-"萬",
-"民"
-]
-},
-{
 "surface": "萬百姓",
 "reading": "만백성",
 "meaning": "한 나라의 모든 백성",
@@ -6886,16 +6212,6 @@
 ]
 },
 {
-"surface": "表面",
-"reading": "표면",
-"meaning": "물건의 가장 바깥쪽 부분",
-"gongmu": 0,
-"hanjaRefs": [
-"表",
-"面"
-]
-},
-{
 "surface": "西夏",
 "reading": "서하",
 "meaning": "옛날 중국 서쪽에 있던 나라",
@@ -6906,16 +6222,6 @@
 ]
 },
 {
-"surface": "計算",
-"reading": "계산",
-"meaning": "수를 세거나 셈을 함",
-"gongmu": 0,
-"hanjaRefs": [
-"計",
-"算"
-]
-},
-{
 "surface": "記入",
 "reading": "기입",
 "meaning": "필요한 내용을 적어 넣음",
@@ -6923,16 +6229,6 @@
 "hanjaRefs": [
 "記",
 "入"
-]
-},
-{
-"surface": "訪問",
-"reading": "방문",
-"meaning": "사람이나 장소를 찾아감",
-"gongmu": 0,
-"hanjaRefs": [
-"訪",
-"問"
 ]
 },
 {
@@ -6953,16 +6249,6 @@
 "hanjaRefs": [
 "語",
 "文"
-]
-},
-{
-"surface": "質問",
-"reading": "질문",
-"meaning": "알고 싶은 것을 물어봄",
-"gongmu": 0,
-"hanjaRefs": [
-"質",
-"問"
 ]
 },
 {
@@ -7023,16 +6309,6 @@
 "hanjaRefs": [
 "農",
 "林"
-]
-},
-{
-"surface": "運命",
-"reading": "운명",
-"meaning": "이미 정해진 인생의 길",
-"gongmu": 1,
-"hanjaRefs": [
-"運",
-"命"
 ]
 },
 {
@@ -7107,16 +6383,6 @@
 ]
 },
 {
-"surface": "郵便",
-"reading": "우편",
-"meaning": "편지나 물건을 배달하는 일",
-"gongmu": 0,
-"hanjaRefs": [
-"郵",
-"便"
-]
-},
-{
 "surface": "里長",
 "reading": "이장",
 "meaning": "마을의 일을 맡아 하는 대표",
@@ -7184,16 +6450,6 @@
 "hanjaRefs": [
 "重",
 "水"
-]
-},
-{
-"surface": "重要",
-"reading": "중요",
-"meaning": "매우 소중하고 꼭 필요함",
-"gongmu": 1,
-"hanjaRefs": [
-"重",
-"要"
 ]
 },
 {
@@ -7288,26 +6544,6 @@
 ]
 },
 {
-"surface": "面目",
-"reading": "면목",
-"meaning": "남을 대할 때 떳떳한 얼굴",
-"gongmu": 0,
-"hanjaRefs": [
-"面",
-"目"
-]
-},
-{
-"surface": "面積",
-"reading": "면적",
-"meaning": "평평한 땅이나 물건의 넓이",
-"gongmu": 0,
-"hanjaRefs": [
-"面",
-"積"
-]
-},
-{
 "surface": "面長",
 "reading": "면장",
 "meaning": "면의 행정을 책임지는 대표",
@@ -7318,33 +6554,310 @@
 ]
 },
 {
-"surface": "革命",
-"reading": "혁명",
-"meaning": "사회 제도를 완전히 뜯어고침",
+"surface": "有力",
+"reading": "유력",
+"meaning": "힘이나 돈이 많음",
+"gongmu": 0,
+"hanjaRefs": [
+"有",
+"力"
+]
+},
+{
+"surface": "有名",
+"reading": "유명",
+"meaning": "이름이 널리 알려짐",
+"gongmu": 0,
+"hanjaRefs": [
+"有",
+"名"
+]
+}
+]
+},
+{
+"grade": "6급II",
+"data": [
+{
+"surface": "長短",
+"reading": "장단",
+"meaning": "길이의 길고 짧음",
+"gongmu": 0,
+"hanjaRefs": [
+"長",
+"短"
+]
+},
+{
+"surface": "上部",
+"reading": "상부",
+"meaning": "물건의 위쪽 부분",
+"gongmu": 0,
+"hanjaRefs": [
+"上",
+"部"
+]
+},
+{
+"surface": "下部",
+"reading": "하부",
+"meaning": "물건의 아래쪽 부분",
+"gongmu": 0,
+"hanjaRefs": [
+"下",
+"部"
+]
+},
+{
+"surface": "內部",
+"reading": "내부",
+"meaning": "어떤 물건이나 건물의 안쪽",
+"gongmu": 0,
+"hanjaRefs": [
+"內",
+"部"
+]
+},
+{
+"surface": "全部",
+"reading": "전부",
+"meaning": "남김없이 모두 합한 것",
+"gongmu": 0,
+"hanjaRefs": [
+"全",
+"部"
+]
+},
+{
+"surface": "全體",
+"reading": "전체",
+"meaning": "모든 부분을 다 합친 것",
+"gongmu": 0,
+"hanjaRefs": [
+"全",
+"體"
+]
+},
+{
+"surface": "平和",
+"reading": "평화",
+"meaning": "싸움이 없고 평온함",
+"gongmu": 0,
+"hanjaRefs": [
+"平",
+"和"
+]
+},
+{
+"surface": "時代",
+"reading": "시대",
+"meaning": "역사적으로 구분한 어떤 기간",
 "gongmu": 1,
 "hanjaRefs": [
-"革",
-"命"
+"時",
+"代"
 ]
 },
 {
-"surface": "養老",
-"reading": "양로",
-"meaning": "어르신들을 잘 모시고 돌봄",
+"surface": "會話",
+"reading": "회화",
+"meaning": "서로 만나서 나누는 이야기",
 "gongmu": 0,
 "hanjaRefs": [
-"養",
-"老"
+"會",
+"話"
 ]
 },
 {
-"surface": "養育",
-"reading": "양육",
-"meaning": "아이를 돌보며 키움",
+"surface": "直線",
+"reading": "직선",
+"meaning": "굽지 않고 곧게 뻗은 선",
 "gongmu": 0,
 "hanjaRefs": [
-"養",
+"直",
+"線"
+]
+},
+{
+"surface": "農業",
+"reading": "농업",
+"meaning": "농사짓고 가축을 기르는 일",
+"gongmu": 0,
+"hanjaRefs": [
+"農",
+"業"
+]
+},
+{
+"surface": "運動場",
+"reading": "운동장",
+"meaning": "운동할 수 있는 넓은 마당",
+"gongmu": 0,
+"hanjaRefs": [
+"運",
+"動",
+"場"
+]
+},
+{
+"surface": "食堂",
+"reading": "식당",
+"meaning": "음식을 먹도록 마련된 곳",
+"gongmu": 0,
+"hanjaRefs": [
+"食",
+"堂"
+]
+},
+{
+"surface": "休戰",
+"reading": "휴전",
+"meaning": "전쟁이나 싸움을 잠시 멈춤",
+"gongmu": 0,
+"hanjaRefs": [
+"休",
+"戰"
+]
+},
+{
+"surface": "休業",
+"reading": "휴업",
+"meaning": "가게나 회사가 일을 잠시 쉼",
+"gongmu": 0,
+"hanjaRefs": [
+"休",
+"業"
+]
+},
+{
+"surface": "便利",
+"reading": "편리",
+"meaning": "편하고 쉽게 쓸 수 있음",
+"gongmu": 0,
+"hanjaRefs": [
+"便",
+"利"
+]
+},
+{
+"surface": "共同",
+"reading": "공동",
+"meaning": "여럿이 힘을 합쳐 함께 함",
+"gongmu": 0,
+"hanjaRefs": [
+"共",
+"同"
+]
+},
+{
+"surface": "出發",
+"reading": "출발",
+"meaning": "목적지를 향해 떠남",
+"gongmu": 0,
+"hanjaRefs": [
+"出",
+"發"
+]
+},
+{
+"surface": "問題",
+"reading": "문제",
+"meaning": "답을 찾아야 하는 질문",
+"gongmu": 0,
+"hanjaRefs": [
+"問",
+"題"
+]
+},
+{
+"surface": "新聞紙",
+"reading": "신문지",
+"meaning": "신문을 찍어 내는 종이",
+"gongmu": 0,
+"hanjaRefs": [
+"新",
+"聞",
+"紙"
+]
+},
+{
+"surface": "有利",
+"reading": "유리",
+"meaning": "이익이 되거나 도움이 됨",
+"gongmu": 0,
+"hanjaRefs": [
+"有",
+"利"
+]
+},
+{
+"surface": "用紙",
+"reading": "용지",
+"meaning": "기록을 위해 쓰는 종이",
+"gongmu": 0,
+"hanjaRefs": [
+"用",
+"紙"
+]
+},
+{
+"surface": "發育",
+"reading": "발육",
+"meaning": "생물이 자라서 커짐",
+"gongmu": 0,
+"hanjaRefs": [
+"發",
 "育"
+]
+},
+{
+"surface": "老弱",
+"reading": "노약",
+"meaning": "나이가 많고 몸이 약한 사람",
+"gongmu": 0,
+"hanjaRefs": [
+"老",
+"弱"
+]
+},
+{
+"surface": "育成",
+"reading": "육성",
+"meaning": "잘 자라도록 보살펴서 기름",
+"gongmu": 0,
+"hanjaRefs": [
+"育",
+"成"
+]
+},
+{
+"surface": "表面",
+"reading": "표면",
+"meaning": "물건의 가장 바깥쪽 부분",
+"gongmu": 0,
+"hanjaRefs": [
+"表",
+"面"
+]
+},
+{
+"surface": "計算",
+"reading": "계산",
+"meaning": "수를 세거나 셈을 함",
+"gongmu": 0,
+"hanjaRefs": [
+"計",
+"算"
+]
+},
+{
+"surface": "運命",
+"reading": "운명",
+"meaning": "이미 정해진 인생의 길",
+"gongmu": 1,
+"hanjaRefs": [
+"運",
+"命"
 ]
 },
 {
@@ -7367,21 +6880,6 @@
 "重"
 ]
 },
-{
-"surface": "黃色",
-"reading": "황색",
-"meaning": "노란색",
-"gongmu": 0,
-"hanjaRefs": [
-"黃",
-"色"
-]
-}
-]
-},
-{
-"grade": "6급II",
-"data": [
 {
 "surface": "一新",
 "reading": "일신",
@@ -7828,16 +7326,6 @@
 ]
 },
 {
-"surface": "企業",
-"reading": "기업",
-"meaning": "돈을 벌기 위해 운영하는 회사",
-"gongmu": 0,
-"hanjaRefs": [
-"企",
-"業"
-]
-},
-{
 "surface": "休戰線",
 "reading": "휴전선",
 "meaning": "싸움을 멈추기로 한 경계선",
@@ -8093,16 +7581,6 @@
 ]
 },
 {
-"surface": "公務",
-"reading": "공무",
-"meaning": "나라나 사회의 공식적인 일",
-"gongmu": 0,
-"hanjaRefs": [
-"公",
-"務"
-]
-},
-{
 "surface": "公國",
 "reading": "공국",
 "meaning": "공작이 다스리는 나라",
@@ -8247,16 +7725,6 @@
 ]
 },
 {
-"surface": "共通",
-"reading": "공통",
-"meaning": "여럿에게 똑같이 있는 것",
-"gongmu": 0,
-"hanjaRefs": [
-"共",
-"通"
-]
-},
-{
 "surface": "出現",
 "reading": "출현",
 "meaning": "눈앞에 새로 나타남",
@@ -8327,16 +7795,6 @@
 ]
 },
 {
-"surface": "分析",
-"reading": "분석",
-"meaning": "복잡한 걸 쪼개어 살펴봄",
-"gongmu": 0,
-"hanjaRefs": [
-"分",
-"析"
-]
-},
-{
 "surface": "分母",
 "reading": "분모",
 "meaning": "분수에서 아래에 있는 수",
@@ -8368,26 +7826,6 @@
 ]
 },
 {
-"surface": "分野",
-"reading": "분야",
-"meaning": "여러 갈래로 나뉜 범위",
-"gongmu": 0,
-"hanjaRefs": [
-"分",
-"野"
-]
-},
-{
-"surface": "分類",
-"reading": "분류",
-"meaning": "비슷한 종류끼리 나눔",
-"gongmu": 0,
-"hanjaRefs": [
-"分",
-"類"
-]
-},
-{
 "surface": "利用",
 "reading": "이용",
 "meaning": "도움이 되게 잘 사용함",
@@ -8395,16 +7833,6 @@
 "hanjaRefs": [
 "利",
 "用"
-]
-},
-{
-"surface": "利益",
-"reading": "이익",
-"meaning": "도움이나 이득이 되는 것",
-"gongmu": 0,
-"hanjaRefs": [
-"利",
-"益"
 ]
 },
 {
@@ -8435,16 +7863,6 @@
 "hanjaRefs": [
 "前",
 "線"
-]
-},
-{
-"surface": "功勞",
-"reading": "공로",
-"meaning": "어떤 일을 이룬 큰 공",
-"gongmu": 0,
-"hanjaRefs": [
-"功",
-"勞"
 ]
 },
 {
@@ -8611,16 +8029,6 @@
 ]
 },
 {
-"surface": "反復",
-"reading": "반복",
-"meaning": "같은 일을 자꾸 되풀이함",
-"gongmu": 0,
-"hanjaRefs": [
-"反",
-"復"
-]
-},
-{
 "surface": "反意語",
 "reading": "반의어",
 "meaning": "뜻이 서로 반대인 낱말",
@@ -8718,16 +8126,6 @@
 "hanjaRefs": [
 "各",
 "界"
-]
-},
-{
-"surface": "各種",
-"reading": "각종",
-"meaning": "여러 가지 종류",
-"gongmu": 0,
-"hanjaRefs": [
-"各",
-"種"
 ]
 },
 {
@@ -8883,16 +8281,6 @@
 ]
 },
 {
-"surface": "商業",
-"reading": "상업",
-"meaning": "물건을 사고파는 장사 일",
-"gongmu": 0,
-"hanjaRefs": [
-"商",
-"業"
-]
-},
-{
 "surface": "問題集",
 "reading": "문제집",
 "meaning": "문제를 모아 놓은 책",
@@ -8972,17 +8360,6 @@
 "hanjaRefs": [
 "圖",
 "書"
-]
-},
-{
-"surface": "圖書館",
-"reading": "도서관",
-"meaning": "책을 모아 두고 읽는 곳",
-"gongmu": 0,
-"hanjaRefs": [
-"圖",
-"書",
-"館"
 ]
 },
 {
@@ -9612,16 +8989,6 @@
 ]
 },
 {
-"surface": "弱點",
-"reading": "약점",
-"meaning": "남보다 부족하고 약한 부분",
-"gongmu": 0,
-"hanjaRefs": [
-"弱",
-"點"
-]
-},
-{
 "surface": "形便",
 "reading": "형편",
 "meaning": "일이 진행되는 상태나 상황",
@@ -9724,16 +9091,6 @@
 ]
 },
 {
-"surface": "急行",
-"reading": "급행",
-"meaning": "매우 빠르게 감",
-"gongmu": 0,
-"hanjaRefs": [
-"急",
-"行"
-]
-},
-{
 "surface": "意圖",
 "reading": "의도",
 "meaning": "어떤 일을 하려는 생각",
@@ -9771,17 +9128,6 @@
 "hanjaRefs": [
 "成",
 "功"
-]
-},
-{
-"surface": "成功率",
-"reading": "성공률",
-"meaning": "성공하는 비율",
-"gongmu": 0,
-"hanjaRefs": [
-"成",
-"功",
-"率"
 ]
 },
 {
@@ -9982,16 +9328,6 @@
 "hanjaRefs": [
 "放",
 "火"
-]
-},
-{
-"surface": "放送",
-"reading": "방송",
-"meaning": "소리와 영상을 널리 보냄",
-"gongmu": 1,
-"hanjaRefs": [
-"放",
-"送"
 ]
 },
 {
@@ -10270,16 +9606,6 @@
 ]
 },
 {
-"surface": "書店",
-"reading": "서점",
-"meaning": "책을 사고파는 가게",
-"gongmu": 0,
-"hanjaRefs": [
-"書",
-"店"
-]
-},
-{
 "surface": "書記",
 "reading": "서기",
 "meaning": "회의 내용을 받아 적는 사람",
@@ -10327,16 +9653,6 @@
 "hanjaRefs": [
 "會",
 "計"
-]
-},
-{
-"surface": "會議",
-"reading": "회의",
-"meaning": "여럿이 모여서 의견 나누기",
-"gongmu": 0,
-"hanjaRefs": [
-"會",
-"議"
 ]
 },
 {
@@ -10427,16 +9743,6 @@
 "hanjaRefs": [
 "林",
 "業"
-]
-},
-{
-"surface": "果實",
-"reading": "과실",
-"meaning": "나무나 식물에서 얻는 열매",
-"gongmu": 0,
-"hanjaRefs": [
-"果",
-"實"
 ]
 },
 {
@@ -10600,16 +9906,6 @@
 ]
 },
 {
-"surface": "消化",
-"reading": "소화",
-"meaning": "먹은 음식을 분해해서 흡수함",
-"gongmu": 0,
-"hanjaRefs": [
-"消",
-"化"
-]
-},
-{
 "surface": "消夏",
 "reading": "소하",
 "meaning": "더위를 식히고 피함",
@@ -10617,16 +9913,6 @@
 "hanjaRefs": [
 "消",
 "夏"
-]
-},
-{
-"surface": "消息",
-"reading": "소식",
-"meaning": "멀리 있는 사람의 안부나 소식",
-"gongmu": 0,
-"hanjaRefs": [
-"消",
-"息"
 ]
 },
 {
@@ -10802,16 +10088,6 @@
 ]
 },
 {
-"surface": "産業",
-"reading": "산업",
-"meaning": "물건이나 서비스를 만드는 일",
-"gongmu": 0,
-"hanjaRefs": [
-"産",
-"業"
-]
-},
-{
 "surface": "用地",
 "reading": "용지",
 "meaning": "특정한 목적으로 쓰는 땅",
@@ -10869,16 +10145,6 @@
 "hanjaRefs": [
 "發",
 "光"
-]
-},
-{
-"surface": "發展",
-"reading": "발전",
-"meaning": "더 좋은 상태로 나아가는 것",
-"gongmu": 0,
-"hanjaRefs": [
-"發",
-"展"
 ]
 },
 {
@@ -11044,16 +10310,6 @@
 ]
 },
 {
-"surface": "短期",
-"reading": "단기",
-"meaning": "짧은 기간",
-"gongmu": 0,
-"hanjaRefs": [
-"短",
-"期"
-]
-},
-{
 "surface": "社會",
 "reading": "사회",
 "meaning": "사람들이 모여 사는 세상",
@@ -11141,26 +10397,6 @@
 "hanjaRefs": [
 "科",
 "學"
-]
-},
-{
-"surface": "科目",
-"reading": "과목",
-"meaning": "공부하기 위해 갈라놓은 분야",
-"gongmu": 0,
-"hanjaRefs": [
-"科",
-"目"
-]
-},
-{
-"surface": "積雪",
-"reading": "적설",
-"meaning": "땅 위에 소복하게 쌓인 눈",
-"gongmu": 0,
-"hanjaRefs": [
-"積",
-"雪"
 ]
 },
 {
@@ -11265,16 +10501,6 @@
 ]
 },
 {
-"surface": "等級",
-"reading": "등급",
-"meaning": "수준에 따라 나눈 단계",
-"gongmu": 0,
-"hanjaRefs": [
-"等",
-"級"
-]
-},
-{
 "surface": "答信",
 "reading": "답신",
 "meaning": "답장으로 보내는 편지나 메시지",
@@ -11292,36 +10518,6 @@
 "hanjaRefs": [
 "算",
 "術"
-]
-},
-{
-"surface": "精神",
-"reading": "정신",
-"meaning": "생각하고 판단하는 마음의 힘",
-"gongmu": 1,
-"hanjaRefs": [
-"精",
-"神"
-]
-},
-{
-"surface": "統計",
-"reading": "통계",
-"meaning": "많은 자료를 한데 모아 계산함",
-"gongmu": 0,
-"hanjaRefs": [
-"統",
-"計"
-]
-},
-{
-"surface": "職業",
-"reading": "직업",
-"meaning": "돈을 벌기 위해 늘 하는 일",
-"gongmu": 0,
-"hanjaRefs": [
-"職",
-"業"
 ]
 },
 {
@@ -11386,16 +10582,6 @@
 ]
 },
 {
-"surface": "藥品",
-"reading": "약품",
-"meaning": "병이나 상처를 고치는 약",
-"gongmu": 0,
-"hanjaRefs": [
-"藥",
-"品"
-]
-},
-{
 "surface": "藥學",
 "reading": "약학",
 "meaning": "약을 만들고 연구하는 학문",
@@ -11403,16 +10589,6 @@
 "hanjaRefs": [
 "藥",
 "學"
-]
-},
-{
-"surface": "藥局",
-"reading": "약국",
-"meaning": "약을 지어 주거나 파는 가게",
-"gongmu": 0,
-"hanjaRefs": [
-"藥",
-"局"
 ]
 },
 {
@@ -11557,16 +10733,6 @@
 ]
 },
 {
-"surface": "角度",
-"reading": "각도",
-"meaning": "생각하는 방향이나 입장",
-"gongmu": 0,
-"hanjaRefs": [
-"角",
-"度"
-]
-},
-{
 "surface": "角旗",
 "reading": "각기",
 "meaning": "방향을 알리는 군대 깃발",
@@ -11574,16 +10740,6 @@
 "hanjaRefs": [
 "角",
 "旗"
-]
-},
-{
-"surface": "解放",
-"reading": "해방",
-"meaning": "구속이나 억압에서 벗어나게 함",
-"gongmu": 0,
-"hanjaRefs": [
-"解",
-"放"
 ]
 },
 {
@@ -11604,16 +10760,6 @@
 "hanjaRefs": [
 "話",
 "題"
-]
-},
-{
-"surface": "講堂",
-"reading": "강당",
-"meaning": "강의나 행사를 하는 큰 방",
-"gongmu": 0,
-"hanjaRefs": [
-"講",
-"堂"
 ]
 },
 {
@@ -11779,16 +10925,6 @@
 ]
 },
 {
-"surface": "過半",
-"reading": "과반",
-"meaning": "절반보다 더 많음",
-"gongmu": 0,
-"hanjaRefs": [
-"過",
-"半"
-]
-},
-{
 "surface": "道理",
 "reading": "도리",
 "meaning": "사람이 지켜야 할 바른 도리",
@@ -11836,16 +10972,6 @@
 "hanjaRefs": [
 "部",
 "門"
-]
-},
-{
-"surface": "野球",
-"reading": "야구",
-"meaning": "방망이로 공 치는 경기",
-"gongmu": 0,
-"hanjaRefs": [
-"野",
-"球"
 ]
 },
 {
@@ -12190,6 +11316,126 @@
 "grade": "6급",
 "data": [
 {
+"surface": "同行",
+"reading": "동행",
+"meaning": "길을 함께 감",
+"gongmu": 0,
+"hanjaRefs": [
+"同",
+"行"
+]
+},
+{
+"surface": "夕陽",
+"reading": "석양",
+"meaning": "저녁에 지는 해",
+"gongmu": 0,
+"hanjaRefs": [
+"夕",
+"陽"
+]
+},
+{
+"surface": "定住",
+"reading": "정주",
+"meaning": "한곳에 자리를 잡고 사는 것",
+"gongmu": 0,
+"hanjaRefs": [
+"定",
+"住"
+]
+},
+{
+"surface": "面目",
+"reading": "면목",
+"meaning": "남을 대할 때 떳떳한 얼굴",
+"gongmu": 0,
+"hanjaRefs": [
+"面",
+"目"
+]
+},
+{
+"surface": "黃色",
+"reading": "황색",
+"meaning": "노란색",
+"gongmu": 0,
+"hanjaRefs": [
+"黃",
+"色"
+]
+},
+{
+"surface": "共通",
+"reading": "공통",
+"meaning": "여럿에게 똑같이 있는 것",
+"gongmu": 0,
+"hanjaRefs": [
+"共",
+"通"
+]
+},
+{
+"surface": "分野",
+"reading": "분야",
+"meaning": "여러 갈래로 나뉜 범위",
+"gongmu": 0,
+"hanjaRefs": [
+"分",
+"野"
+]
+},
+{
+"surface": "急行",
+"reading": "급행",
+"meaning": "매우 빠르게 감",
+"gongmu": 0,
+"hanjaRefs": [
+"急",
+"行"
+]
+},
+{
+"surface": "科目",
+"reading": "과목",
+"meaning": "공부하기 위해 갈라놓은 분야",
+"gongmu": 0,
+"hanjaRefs": [
+"科",
+"目"
+]
+},
+{
+"surface": "等級",
+"reading": "등급",
+"meaning": "수준에 따라 나눈 단계",
+"gongmu": 0,
+"hanjaRefs": [
+"等",
+"級"
+]
+},
+{
+"surface": "角度",
+"reading": "각도",
+"meaning": "생각하는 방향이나 입장",
+"gongmu": 0,
+"hanjaRefs": [
+"角",
+"度"
+]
+},
+{
+"surface": "野球",
+"reading": "야구",
+"meaning": "방망이로 공 치는 경기",
+"gongmu": 0,
+"hanjaRefs": [
+"野",
+"球"
+]
+},
+{
 "surface": "一定",
 "reading": "일정",
 "meaning": "크기나 시간이 딱 정해져 있음",
@@ -12373,16 +11619,6 @@
 ]
 },
 {
-"surface": "久遠",
-"reading": "구원",
-"meaning": "시간이 아주 오래고 아득함",
-"gongmu": 0,
-"hanjaRefs": [
-"久",
-"遠"
-]
-},
-{
 "surface": "事例",
 "reading": "사례",
 "meaning": "실제로 일어났던 일의 예",
@@ -12433,26 +11669,6 @@
 ]
 },
 {
-"surface": "交換",
-"reading": "교환",
-"meaning": "서로 주고받으며 바꿈",
-"gongmu": 0,
-"hanjaRefs": [
-"交",
-"換"
-]
-},
-{
-"surface": "交流",
-"reading": "교류",
-"meaning": "문화나 생각을 서로 주고받음",
-"gongmu": 0,
-"hanjaRefs": [
-"交",
-"流"
-]
-},
-{
 "surface": "交番",
 "reading": "교번",
 "meaning": "번갈아 바뀌는 차례",
@@ -12473,26 +11689,6 @@
 ]
 },
 {
-"surface": "交際",
-"reading": "교제",
-"meaning": "서로 사귀며 친하게 지냄",
-"gongmu": 0,
-"hanjaRefs": [
-"交",
-"際"
-]
-},
-{
-"surface": "京畿",
-"reading": "경기",
-"meaning": "서울 주변의 가까운 지역",
-"gongmu": 0,
-"hanjaRefs": [
-"京",
-"畿"
-]
-},
-{
 "surface": "京邑",
 "reading": "경읍",
 "meaning": "나라의 중심이 되는 수도",
@@ -12503,16 +11699,6 @@
 ]
 },
 {
-"surface": "京鄕",
-"reading": "경향",
-"meaning": "서울과 시골 지역 모두",
-"gongmu": 0,
-"hanjaRefs": [
-"京",
-"鄕"
-]
-},
-{
 "surface": "今番",
 "reading": "금번",
 "meaning": "이번 차례",
@@ -12520,16 +11706,6 @@
 "hanjaRefs": [
 "今",
 "番"
-]
-},
-{
-"surface": "付近",
-"reading": "부근",
-"meaning": "주변의 가까운 곳",
-"gongmu": 0,
-"hanjaRefs": [
-"付",
-"近"
 ]
 },
 {
@@ -12625,16 +11801,6 @@
 ]
 },
 {
-"surface": "保溫",
-"reading": "보온",
-"meaning": "따뜻한 온도를 그대로 지킴",
-"gongmu": 0,
-"hanjaRefs": [
-"保",
-"溫"
-]
-},
-{
 "surface": "信用度",
 "reading": "신용도",
 "meaning": "믿을 수 있는 정도",
@@ -12663,46 +11829,6 @@
 "hanjaRefs": [
 "信",
 "號"
-]
-},
-{
-"surface": "個別",
-"reading": "개별",
-"meaning": "하나씩 따로 나뉨",
-"gongmu": 0,
-"hanjaRefs": [
-"個",
-"別"
-]
-},
-{
-"surface": "儀式",
-"reading": "의식",
-"meaning": "정해진 순서대로 치르는 행사",
-"gongmu": 0,
-"hanjaRefs": [
-"儀",
-"式"
-]
-},
-{
-"surface": "優勝",
-"reading": "우승",
-"meaning": "경기나 시합에서 첫째로 이김",
-"gongmu": 0,
-"hanjaRefs": [
-"優",
-"勝"
-]
-},
-{
-"surface": "優美",
-"reading": "우미",
-"meaning": "우아하고 매우 아름다움",
-"gongmu": 0,
-"hanjaRefs": [
-"優",
-"美"
 ]
 },
 {
@@ -12886,26 +12012,6 @@
 ]
 },
 {
-"surface": "制度",
-"reading": "제도",
-"meaning": "사회의 질서를 위해 만든 규칙",
-"gongmu": 0,
-"hanjaRefs": [
-"制",
-"度"
-]
-},
-{
-"surface": "制服",
-"reading": "제복",
-"meaning": "규칙에 따라 맞춰 입는 옷",
-"gongmu": 0,
-"hanjaRefs": [
-"制",
-"服"
-]
-},
-{
 "surface": "前例",
 "reading": "전례",
 "meaning": "이전부터 이미 있어 왔던 사례",
@@ -13029,16 +12135,6 @@
 ]
 },
 {
-"surface": "區域",
-"reading": "구역",
-"meaning": "일정한 경계를 그어 나눈 지역",
-"gongmu": 0,
-"hanjaRefs": [
-"區",
-"域"
-]
-},
-{
 "surface": "區間",
 "reading": "구간",
 "meaning": "한 곳에서 다른 곳까지의 사이",
@@ -13087,26 +12183,6 @@
 "hanjaRefs": [
 "南",
 "朝"
-]
-},
-{
-"surface": "博愛",
-"reading": "박애",
-"meaning": "모든 사람을 똑같이 사랑함",
-"gongmu": 0,
-"hanjaRefs": [
-"博",
-"愛"
-]
-},
-{
-"surface": "原野",
-"reading": "원야",
-"meaning": "나무가 없이 넓게 트인 들판",
-"gongmu": 0,
-"hanjaRefs": [
-"原",
-"野"
 ]
 },
 {
@@ -13198,16 +12274,6 @@
 "hanjaRefs": [
 "古",
 "代"
-]
-},
-{
-"surface": "古典",
-"reading": "고전",
-"meaning": "옛날의 예절과 규칙",
-"gongmu": 0,
-"hanjaRefs": [
-"古",
-"典"
 ]
 },
 {
@@ -13328,16 +12394,6 @@
 "hanjaRefs": [
 "合",
 "成"
-]
-},
-{
-"surface": "合格",
-"reading": "합격",
-"meaning": "시험이나 검사를 통과함",
-"gongmu": 0,
-"hanjaRefs": [
-"合",
-"格"
 ]
 },
 {
@@ -13555,16 +12611,6 @@
 ]
 },
 {
-"surface": "園藝",
-"reading": "원예",
-"meaning": "채소나 꽃을 가꾸고 기르는 일",
-"gongmu": 0,
-"hanjaRefs": [
-"園",
-"藝"
-]
-},
-{
 "surface": "園長",
 "reading": "원장",
 "meaning": "유치원이나 동물원의 책임자",
@@ -13712,16 +12758,6 @@
 "hanjaRefs": [
 "多",
 "數"
-]
-},
-{
-"surface": "多樣",
-"reading": "다양",
-"meaning": "여러 가지 모양이나 종류",
-"gongmu": 0,
-"hanjaRefs": [
-"多",
-"樣"
 ]
 },
 {
@@ -14003,16 +13039,6 @@
 ]
 },
 {
-"surface": "失望",
-"reading": "실망",
-"meaning": "바라던 일이 안 되어 속상해함",
-"gongmu": 0,
-"hanjaRefs": [
-"失",
-"望"
-]
-},
-{
 "surface": "失業",
 "reading": "실업",
 "meaning": "직장이나 일자리를 잃음",
@@ -14081,16 +13107,6 @@
 "hanjaRefs": [
 "字",
 "訓"
-]
-},
-{
-"surface": "存在",
-"reading": "존재",
-"meaning": "실제로 세상에 있음",
-"gongmu": 0,
-"hanjaRefs": [
-"存",
-"在"
 ]
 },
 {
@@ -14216,16 +13232,6 @@
 ]
 },
 {
-"surface": "定價",
-"reading": "정가",
-"meaning": "미리 정해 둔 가격",
-"gongmu": 0,
-"hanjaRefs": [
-"定",
-"價"
-]
-},
-{
 "surface": "定年",
 "reading": "정년",
 "meaning": "일을 그만두는 정해진 나이",
@@ -14277,16 +13283,6 @@
 ]
 },
 {
-"surface": "宣言",
-"reading": "선언",
-"meaning": "자신의 뜻을 널리 알림",
-"gongmu": 1,
-"hanjaRefs": [
-"宣",
-"言"
-]
-},
-{
 "surface": "家庭通信",
 "reading": "가정통신",
 "meaning": "학교와 집이 주고받는 소식",
@@ -14316,26 +13312,6 @@
 "hanjaRefs": [
 "家",
 "訓"
-]
-},
-{
-"surface": "實例",
-"reading": "실례",
-"meaning": "실제로 있는 본보기",
-"gongmu": 0,
-"hanjaRefs": [
-"實",
-"例"
-]
-},
-{
-"surface": "實行",
-"reading": "실행",
-"meaning": "생각한 일을 실제로 함",
-"gongmu": 0,
-"hanjaRefs": [
-"實",
-"行"
 ]
 },
 {
@@ -14455,16 +13431,6 @@
 ]
 },
 {
-"surface": "座席",
-"reading": "좌석",
-"meaning": "앉을 수 있는 자리",
-"gongmu": 0,
-"hanjaRefs": [
-"座",
-"席"
-]
-},
-{
 "surface": "庭園",
 "reading": "정원",
 "meaning": "집에 가꾼 뜰이나 꽃밭",
@@ -14527,26 +13493,6 @@
 ]
 },
 {
-"surface": "待機",
-"reading": "대기",
-"meaning": "준비하고 기다림",
-"gongmu": 0,
-"hanjaRefs": [
-"待",
-"機"
-]
-},
-{
-"surface": "待遇",
-"reading": "대우",
-"meaning": "사람을 대하는 태도나 대접",
-"gongmu": 0,
-"hanjaRefs": [
-"待",
-"遇"
-]
-},
-{
 "surface": "後孫",
 "reading": "후손",
 "meaning": "대를 이어가는 먼 자손",
@@ -14566,36 +13512,6 @@
 "理",
 "學",
 "者"
-]
-},
-{
-"surface": "必死",
-"reading": "필사",
-"meaning": "죽기를 각오하고 애씀",
-"gongmu": 0,
-"hanjaRefs": [
-"必",
-"死"
-]
-},
-{
-"surface": "志向",
-"reading": "지향",
-"meaning": "어떤 목표를 향해 감",
-"gongmu": 0,
-"hanjaRefs": [
-"志",
-"向"
-]
-},
-{
-"surface": "快速",
-"reading": "쾌속",
-"meaning": "매우 빠른 속도",
-"gongmu": 0,
-"hanjaRefs": [
-"快",
-"速"
 ]
 },
 {
@@ -14661,16 +13577,6 @@
 ]
 },
 {
-"surface": "愛情",
-"reading": "애정",
-"meaning": "사랑하는 따뜻한 마음",
-"gongmu": 0,
-"hanjaRefs": [
-"愛",
-"情"
-]
-},
-{
 "surface": "感動",
 "reading": "감동",
 "meaning": "크게 느껴 마음이 움직임",
@@ -14678,26 +13584,6 @@
 "hanjaRefs": [
 "感",
 "動"
-]
-},
-{
-"surface": "感情",
-"reading": "감정",
-"meaning": "마음속에 생기는 기분",
-"gongmu": 0,
-"hanjaRefs": [
-"感",
-"情"
-]
-},
-{
-"surface": "感想",
-"reading": "감상",
-"meaning": "어떤 일을 보고 느낀 생각",
-"gongmu": 0,
-"hanjaRefs": [
-"感",
-"想"
 ]
 },
 {
@@ -14711,16 +13597,6 @@
 ]
 },
 {
-"surface": "感激",
-"reading": "감격",
-"meaning": "크게 감동하며 기뻐함",
-"gongmu": 0,
-"hanjaRefs": [
-"感",
-"激"
-]
-},
-{
 "surface": "感電",
 "reading": "감전",
 "meaning": "전기가 통해 충격을 받음",
@@ -14728,16 +13604,6 @@
 "hanjaRefs": [
 "感",
 "電"
-]
-},
-{
-"surface": "態度",
-"reading": "태도",
-"meaning": "몸가짐과 행동의 모습",
-"gongmu": 0,
-"hanjaRefs": [
-"態",
-"度"
 ]
 },
 {
@@ -14780,36 +13646,6 @@
 "所",
 "有",
 "者"
-]
-},
-{
-"surface": "招待",
-"reading": "초대",
-"meaning": "잔치나 모임에 부름",
-"gongmu": 0,
-"hanjaRefs": [
-"招",
-"待"
-]
-},
-{
-"surface": "接待",
-"reading": "접대",
-"meaning": "손님을 맞이해 대접함",
-"gongmu": 0,
-"hanjaRefs": [
-"接",
-"待"
-]
-},
-{
-"surface": "接近",
-"reading": "접근",
-"meaning": "가까이 다가감",
-"gongmu": 0,
-"hanjaRefs": [
-"接",
-"近"
 ]
 },
 {
@@ -14895,16 +13731,6 @@
 ]
 },
 {
-"surface": "旅行",
-"reading": "여행",
-"meaning": "다른 곳을 구경하러 다님",
-"gongmu": 0,
-"hanjaRefs": [
-"旅",
-"行"
-]
-},
-{
 "surface": "族長",
 "reading": "족장",
 "meaning": "부족의 우두머리",
@@ -14935,16 +13761,6 @@
 ]
 },
 {
-"surface": "早朝",
-"reading": "조조",
-"meaning": "아주 이른 아침",
-"gongmu": 0,
-"hanjaRefs": [
-"早",
-"朝"
-]
-},
-{
 "surface": "明太",
 "reading": "명태",
 "meaning": "추운 바다에 사는 물고기",
@@ -14952,16 +13768,6 @@
 "hanjaRefs": [
 "明",
 "太"
-]
-},
-{
-"surface": "映畫",
-"reading": "영화",
-"meaning": "화면에 영상을 보여주는 예술",
-"gongmu": 0,
-"hanjaRefs": [
-"映",
-"畫"
 ]
 },
 {
@@ -15077,36 +13883,6 @@
 ]
 },
 {
-"surface": "有力",
-"reading": "유력",
-"meaning": "힘이나 돈이 많음",
-"gongmu": 0,
-"hanjaRefs": [
-"有",
-"力"
-]
-},
-{
-"surface": "有名",
-"reading": "유명",
-"meaning": "이름이 널리 알려짐",
-"gongmu": 0,
-"hanjaRefs": [
-"有",
-"名"
-]
-},
-{
-"surface": "服從",
-"reading": "복종",
-"meaning": "시키는 대로 잘 따름",
-"gongmu": 0,
-"hanjaRefs": [
-"服",
-"從"
-]
-},
-{
 "surface": "服用",
 "reading": "복용",
 "meaning": "약을 먹음",
@@ -15114,16 +13890,6 @@
 "hanjaRefs": [
 "服",
 "用"
-]
-},
-{
-"surface": "朝刊",
-"reading": "조간",
-"meaning": "아침에 나오는 신문",
-"gongmu": 0,
-"hanjaRefs": [
-"朝",
-"刊"
 ]
 },
 {
@@ -15257,16 +14023,6 @@
 ]
 },
 {
-"surface": "本質",
-"reading": "본질",
-"meaning": "원래 갖고 있는 진짜 모습",
-"gongmu": 0,
-"hanjaRefs": [
-"本",
-"質"
-]
-},
-{
 "surface": "本部",
 "reading": "본부",
 "meaning": "단체의 중심이 되는 곳",
@@ -15328,16 +14084,6 @@
 ]
 },
 {
-"surface": "根性",
-"reading": "근성",
-"meaning": "마음 깊이 뿌리박힌 성품",
-"gongmu": 0,
-"hanjaRefs": [
-"根",
-"性"
-]
-},
-{
 "surface": "根本",
 "reading": "근본",
 "meaning": "풀과 나무의 뿌리",
@@ -15355,16 +14101,6 @@
 "hanjaRefs": [
 "根",
 "氣"
-]
-},
-{
-"surface": "根源",
-"reading": "근원",
-"meaning": "물줄기가 시작되는 곳",
-"gongmu": 0,
-"hanjaRefs": [
-"根",
-"源"
 ]
 },
 {
@@ -15599,16 +14335,6 @@
 ]
 },
 {
-"surface": "永久",
-"reading": "영구",
-"meaning": "끝없이 오래감",
-"gongmu": 0,
-"hanjaRefs": [
-"永",
-"久"
-]
-},
-{
 "surface": "永住",
 "reading": "영주",
 "meaning": "한곳에 오래 머물러 삶",
@@ -15636,36 +14362,6 @@
 "hanjaRefs": [
 "永",
 "遠"
-]
-},
-{
-"surface": "決勝",
-"reading": "결승",
-"meaning": "마지막 승자를 가림",
-"gongmu": 0,
-"hanjaRefs": [
-"決",
-"勝"
-]
-},
-{
-"surface": "決定",
-"reading": "결정",
-"meaning": "확실하게 정함",
-"gongmu": 0,
-"hanjaRefs": [
-"決",
-"定"
-]
-},
-{
-"surface": "油田",
-"reading": "유전",
-"meaning": "석유가 나오는 곳",
-"gongmu": 0,
-"hanjaRefs": [
-"油",
-"田"
 ]
 },
 {
@@ -15729,16 +14425,6 @@
 ]
 },
 {
-"surface": "流通",
-"reading": "유통",
-"meaning": "막힘없이 잘 통함",
-"gongmu": 0,
-"hanjaRefs": [
-"流",
-"通"
-]
-},
-{
 "surface": "海洋",
 "reading": "해양",
 "meaning": "아주 넓고 큰 바다",
@@ -15766,16 +14452,6 @@
 "hanjaRefs": [
 "消",
 "失"
-]
-},
-{
-"surface": "深夜",
-"reading": "심야",
-"meaning": "아주 깊은 밤",
-"gongmu": 0,
-"hanjaRefs": [
-"深",
-"夜"
 ]
 },
 {
@@ -15819,16 +14495,6 @@
 ]
 },
 {
-"surface": "溫泉",
-"reading": "온천",
-"meaning": "따뜻한 물이 솟는 샘",
-"gongmu": 0,
-"hanjaRefs": [
-"溫",
-"泉"
-]
-},
-{
 "surface": "漢四郡",
 "reading": "한사군",
 "meaning": "중국 한나라가 세운 네 지역",
@@ -15847,16 +14513,6 @@
 "hanjaRefs": [
 "漢",
 "陽"
-]
-},
-{
-"surface": "無言",
-"reading": "무언",
-"meaning": "아무 말도 없음",
-"gongmu": 0,
-"hanjaRefs": [
-"無",
-"言"
 ]
 },
 {
@@ -15923,16 +14579,6 @@
 ]
 },
 {
-"surface": "特技",
-"reading": "특기",
-"meaning": "특별히 잘하는 재주",
-"gongmu": 0,
-"hanjaRefs": [
-"特",
-"技"
-]
-},
-{
 "surface": "特有",
 "reading": "특유",
 "meaning": "그것만이 특별히 가짐",
@@ -15940,16 +14586,6 @@
 "hanjaRefs": [
 "特",
 "有"
-]
-},
-{
-"surface": "特産",
-"reading": "특산",
-"meaning": "그 지역의 특별한 생산물",
-"gongmu": 0,
-"hanjaRefs": [
-"特",
-"産"
 ]
 },
 {
@@ -15970,26 +14606,6 @@
 "hanjaRefs": [
 "特",
 "長"
-]
-},
-{
-"surface": "獨特",
-"reading": "독특",
-"meaning": "남과 달리 아주 특별함",
-"gongmu": 0,
-"hanjaRefs": [
-"獨",
-"特"
-]
-},
-{
-"surface": "玄米",
-"reading": "현미",
-"meaning": "겉껍질만 벗겨 낸 누런 쌀",
-"gongmu": 0,
-"hanjaRefs": [
-"玄",
-"米"
 ]
 },
 {
@@ -16133,36 +14749,6 @@
 ]
 },
 {
-"surface": "當番",
-"reading": "당번",
-"meaning": "자기 차례에 일할 사람",
-"gongmu": 0,
-"hanjaRefs": [
-"當",
-"番"
-]
-},
-{
-"surface": "疏通",
-"reading": "소통",
-"meaning": "막히지 않고 서로 잘 통함",
-"gongmu": 0,
-"hanjaRefs": [
-"疏",
-"通"
-]
-},
-{
-"surface": "疾病",
-"reading": "질병",
-"meaning": "몸에 생기는 온갖 병",
-"gongmu": 0,
-"hanjaRefs": [
-"疾",
-"病"
-]
-},
-{
 "surface": "病人",
 "reading": "병인",
 "meaning": "아픈 사람",
@@ -16294,26 +14880,6 @@
 ]
 },
 {
-"surface": "目標",
-"reading": "목표",
-"meaning": "이루고자 하는 대상",
-"gongmu": 0,
-"hanjaRefs": [
-"目",
-"標"
-]
-},
-{
-"surface": "目的",
-"reading": "목적",
-"meaning": "나아가려는 방향과 뜻",
-"gongmu": 0,
-"hanjaRefs": [
-"目",
-"的"
-]
-},
-{
 "surface": "直言",
 "reading": "직언",
 "meaning": "솔직하고 바르게 말함",
@@ -16321,16 +14887,6 @@
 "hanjaRefs": [
 "直",
 "言"
-]
-},
-{
-"surface": "着衣",
-"reading": "착의",
-"meaning": "옷을 입음",
-"gongmu": 0,
-"hanjaRefs": [
-"着",
-"衣"
 ]
 },
 {
@@ -16354,16 +14910,6 @@
 ]
 },
 {
-"surface": "石器",
-"reading": "석기",
-"meaning": "돌로 만든 도구",
-"gongmu": 0,
-"hanjaRefs": [
-"石",
-"器"
-]
-},
-{
 "surface": "石山",
 "reading": "석산",
 "meaning": "돌이 많은 산",
@@ -16381,16 +14927,6 @@
 "hanjaRefs": [
 "石",
 "工"
-]
-},
-{
-"surface": "石材",
-"reading": "석재",
-"meaning": "건설에 쓰이는 돌",
-"gongmu": 0,
-"hanjaRefs": [
-"石",
-"材"
 ]
 },
 {
@@ -16434,16 +14970,6 @@
 ]
 },
 {
-"surface": "禮儀",
-"reading": "예의",
-"meaning": "지켜야 할 바른 태도",
-"gongmu": 0,
-"hanjaRefs": [
-"禮",
-"儀"
-]
-},
-{
 "surface": "禮物",
 "reading": "예물",
 "meaning": "정성을 담아 주는 선물",
@@ -16451,26 +14977,6 @@
 "hanjaRefs": [
 "禮",
 "物"
-]
-},
-{
-"surface": "禮節",
-"reading": "예절",
-"meaning": "상대를 존중하는 태도",
-"gongmu": 0,
-"hanjaRefs": [
-"禮",
-"節"
-]
-},
-{
-"surface": "禮義",
-"reading": "예의",
-"meaning": "예절을 지키는 바른 태도",
-"gongmu": 0,
-"hanjaRefs": [
-"禮",
-"義"
 ]
 },
 {
@@ -16495,26 +15001,6 @@
 ]
 },
 {
-"surface": "程度",
-"reading": "정도",
-"meaning": "알맞은 분량이나 수준",
-"gongmu": 0,
-"hanjaRefs": [
-"程",
-"度"
-]
-},
-{
-"surface": "種族",
-"reading": "종족",
-"meaning": "같은 종류의 생물 무리",
-"gongmu": 0,
-"hanjaRefs": [
-"種",
-"族"
-]
-},
-{
 "surface": "空席",
 "reading": "공석",
 "meaning": "비어 있는 자리",
@@ -16522,16 +15008,6 @@
 "hanjaRefs": [
 "空",
 "席"
-]
-},
-{
-"surface": "章節",
-"reading": "장절",
-"meaning": "책의 글을 나눈 부분",
-"gongmu": 0,
-"hanjaRefs": [
-"章",
-"節"
 ]
 },
 {
@@ -16566,16 +15042,6 @@
 ]
 },
 {
-"surface": "米穀",
-"reading": "미곡",
-"meaning": "껍질을 벗겨 낸 쌀알",
-"gongmu": 0,
-"hanjaRefs": [
-"米",
-"穀"
-]
-},
-{
 "surface": "米飮",
 "reading": "미음",
 "meaning": "쌀을 푹 끓여 거른 묽은 죽",
@@ -16593,26 +15059,6 @@
 "hanjaRefs": [
 "級",
 "數"
-]
-},
-{
-"surface": "統合",
-"reading": "통합",
-"meaning": "여럿을 하나로 합치는 일",
-"gongmu": 0,
-"hanjaRefs": [
-"統",
-"合"
-]
-},
-{
-"surface": "綠化",
-"reading": "녹화",
-"meaning": "땅을 푸르게 가꾸는 일",
-"gongmu": 0,
-"hanjaRefs": [
-"綠",
-"化"
 ]
 },
 {
@@ -16643,16 +15089,6 @@
 "hanjaRefs": [
 "線",
 "路"
-]
-},
-{
-"surface": "練習",
-"reading": "연습",
-"meaning": "잘하려고 되풀이해 익힘",
-"gongmu": 0,
-"hanjaRefs": [
-"練",
-"習"
 ]
 },
 {
@@ -16714,26 +15150,6 @@
 "hanjaRefs": [
 "習",
 "字"
-]
-},
-{
-"surface": "習得",
-"reading": "습득",
-"meaning": "배워서 내 것으로 만듦",
-"gongmu": 0,
-"hanjaRefs": [
-"習",
-"得"
-]
-},
-{
-"surface": "習慣",
-"reading": "습관",
-"meaning": "늘 해서 몸에 밴 버릇",
-"gongmu": 0,
-"hanjaRefs": [
-"習",
-"慣"
 ]
 },
 {
@@ -16830,16 +15246,6 @@
 ]
 },
 {
-"surface": "苦痛",
-"reading": "고통",
-"meaning": "몸이나 마음의 아픔",
-"gongmu": 0,
-"hanjaRefs": [
-"苦",
-"痛"
-]
-},
-{
 "surface": "苦行",
 "reading": "고행",
 "meaning": "스스로 고생하며 수행함",
@@ -16847,16 +15253,6 @@
 "hanjaRefs": [
 "苦",
 "行"
-]
-},
-{
-"surface": "苦難",
-"reading": "고난",
-"meaning": "겪기 힘든 괴로운 일",
-"gongmu": 0,
-"hanjaRefs": [
-"苦",
-"難"
 ]
 },
 {
@@ -16972,16 +15368,6 @@
 ]
 },
 {
-"surface": "號令",
-"reading": "호령",
-"meaning": "큰 소리로 명령함",
-"gongmu": 0,
-"hanjaRefs": [
-"號",
-"令"
-]
-},
-{
 "surface": "行事",
 "reading": "행사",
 "meaning": "계획한 일을 직접 실행함",
@@ -17059,16 +15445,6 @@
 "hanjaRefs": [
 "衣",
 "服"
-]
-},
-{
-"surface": "衣類",
-"reading": "의류",
-"meaning": "여러 종류의 옷들",
-"gongmu": 0,
-"hanjaRefs": [
-"衣",
-"類"
 ]
 },
 {
@@ -17287,16 +15663,6 @@
 ]
 },
 {
-"surface": "言論",
-"reading": "언론",
-"meaning": "말과 글로 생각을 널리 알림",
-"gongmu": 0,
-"hanjaRefs": [
-"言",
-"論"
-]
-},
-{
 "surface": "計畫",
 "reading": "계획",
 "meaning": "옛 선비의 시험 성적 매기기",
@@ -17336,26 +15702,6 @@
 "民",
 "正",
 "音"
-]
-},
-{
-"surface": "訓示",
-"reading": "훈시",
-"meaning": "가르쳐서 보여 줌",
-"gongmu": 0,
-"hanjaRefs": [
-"訓",
-"示"
-]
-},
-{
-"surface": "訓練",
-"reading": "훈련",
-"meaning": "가르치고 연습함",
-"gongmu": 0,
-"hanjaRefs": [
-"訓",
-"練"
 ]
 },
 {
@@ -17539,26 +15885,6 @@
 ]
 },
 {
-"surface": "近處",
-"reading": "근처",
-"meaning": "가까운 곳",
-"gongmu": 0,
-"hanjaRefs": [
-"近",
-"處"
-]
-},
-{
-"surface": "送別",
-"reading": "송별",
-"meaning": "떠나는 사람을 배웅함",
-"gongmu": 0,
-"hanjaRefs": [
-"送",
-"別"
-]
-},
-{
 "surface": "通信",
 "reading": "통신",
 "meaning": "소식이나 정보를 전함",
@@ -17640,16 +15966,6 @@
 ]
 },
 {
-"surface": "通過",
-"reading": "통과",
-"meaning": "어떤 곳을 거쳐 지나감",
-"gongmu": 0,
-"hanjaRefs": [
-"通",
-"過"
-]
-},
-{
 "surface": "通風",
 "reading": "통풍",
 "meaning": "바람이 잘 통함",
@@ -17700,16 +16016,6 @@
 ]
 },
 {
-"surface": "進行",
-"reading": "진행",
-"meaning": "앞으로 향해 나아감",
-"gongmu": 0,
-"hanjaRefs": [
-"進",
-"行"
-]
-},
-{
 "surface": "運行",
 "reading": "운행",
 "meaning": "정해진 길로 차가 다님",
@@ -17717,16 +16023,6 @@
 "hanjaRefs": [
 "運",
 "行"
-]
-},
-{
-"surface": "過失",
-"reading": "과실",
-"meaning": "부주의해서 저지른 잘못",
-"gongmu": 1,
-"hanjaRefs": [
-"過",
-"失"
 ]
 },
 {
@@ -17821,16 +16117,6 @@
 ]
 },
 {
-"surface": "郡守",
-"reading": "군수",
-"meaning": "고을의 행정을 이끄는 대장",
-"gongmu": 0,
-"hanjaRefs": [
-"郡",
-"守"
-]
-},
-{
 "surface": "郡民",
 "reading": "군민",
 "meaning": "고을에 사는 사람들",
@@ -17871,16 +16157,6 @@
 ]
 },
 {
-"surface": "醫師",
-"reading": "의사",
-"meaning": "아픈 사람을 치료하는 사람",
-"gongmu": 0,
-"hanjaRefs": [
-"醫",
-"師"
-]
-},
-{
 "surface": "醫術",
 "reading": "의술",
 "meaning": "병이나 상처를 고치는 기술",
@@ -17888,16 +16164,6 @@
 "hanjaRefs": [
 "醫",
 "術"
-]
-},
-{
-"surface": "醫院",
-"reading": "의원",
-"meaning": "환자를 치료하는 작은 병원",
-"gongmu": 0,
-"hanjaRefs": [
-"醫",
-"院"
 ]
 },
 {
@@ -18010,16 +16276,6 @@
 "hanjaRefs": [
 "銀",
 "行"
-]
-},
-{
-"surface": "鐵路",
-"reading": "철로",
-"meaning": "기차가 다니는 철길",
-"gongmu": 0,
-"hanjaRefs": [
-"鐵",
-"路"
 ]
 },
 {
@@ -18343,26 +16599,6 @@
 ]
 },
 {
-"surface": "項目",
-"reading": "항목",
-"meaning": "구분하여 나눈 갈래",
-"gongmu": 0,
-"hanjaRefs": [
-"項",
-"目"
-]
-},
-{
-"surface": "順番",
-"reading": "순번",
-"meaning": "차례대로 돌아가는 순서",
-"gongmu": 0,
-"hanjaRefs": [
-"順",
-"番"
-]
-},
-{
 "surface": "頭上",
 "reading": "두상",
 "meaning": "머리의 위",
@@ -18380,16 +16616,6 @@
 "hanjaRefs": [
 "頭",
 "目"
-]
-},
-{
-"surface": "頭腦",
-"reading": "두뇌",
-"meaning": "생각하고 기억하는 뇌",
-"gongmu": 0,
-"hanjaRefs": [
-"頭",
-"腦"
 ]
 },
 {
@@ -18539,6 +16765,617 @@
 {
 "grade": "5급II",
 "data": [
+{
+"surface": "上流",
+"reading": "상류",
+"meaning": "강물이 시작되는 윗부분",
+"gongmu": 0,
+"hanjaRefs": [
+"上",
+"流"
+]
+},
+{
+"surface": "以後",
+"reading": "이후",
+"meaning": "어떤 기준이 지난 뒤",
+"gongmu": 0,
+"hanjaRefs": [
+"以",
+"後"
+]
+},
+{
+"surface": "力士",
+"reading": "역사",
+"meaning": "힘이 무척 센 사람",
+"gongmu": 0,
+"hanjaRefs": [
+"力",
+"士"
+]
+},
+{
+"surface": "家産",
+"reading": "가산",
+"meaning": "한 집안이 가지고 있는 재산",
+"gongmu": 0,
+"hanjaRefs": [
+"家",
+"産"
+]
+},
+{
+"surface": "男兒",
+"reading": "남아",
+"meaning": "남자아이",
+"gongmu": 1,
+"hanjaRefs": [
+"男",
+"兒"
+]
+},
+{
+"surface": "農産物",
+"reading": "농산물",
+"meaning": "농사지어 얻은 곡식과 채소 등",
+"gongmu": 0,
+"hanjaRefs": [
+"農",
+"産",
+"物"
+]
+},
+{
+"surface": "住宅",
+"reading": "주택",
+"meaning": "사람들이 들어가 사는 집",
+"gongmu": 0,
+"hanjaRefs": [
+"住",
+"宅"
+]
+},
+{
+"surface": "元老",
+"reading": "원로",
+"meaning": "한 분야에서 오래 일한 어른",
+"gongmu": 0,
+"hanjaRefs": [
+"元",
+"老"
+]
+},
+{
+"surface": "宅地",
+"reading": "택지",
+"meaning": "집을 짓기 위해 준비한 땅",
+"gongmu": 0,
+"hanjaRefs": [
+"宅",
+"地"
+]
+},
+{
+"surface": "所望",
+"reading": "소망",
+"meaning": "간절히 바라는 마음이나 일",
+"gongmu": 1,
+"hanjaRefs": [
+"所",
+"望"
+]
+},
+{
+"surface": "敬語",
+"reading": "경어",
+"meaning": "상대방을 높여서 하는 말",
+"gongmu": 0,
+"hanjaRefs": [
+"敬",
+"語"
+]
+},
+{
+"surface": "文化",
+"reading": "문화",
+"meaning": "사회가 공유하는 생활 방식",
+"gongmu": 0,
+"hanjaRefs": [
+"文",
+"化"
+]
+},
+{
+"surface": "當然",
+"reading": "당연",
+"meaning": "마땅히 그렇게 되어야 함",
+"gongmu": 0,
+"hanjaRefs": [
+"當",
+"然"
+]
+},
+{
+"surface": "質問",
+"reading": "질문",
+"meaning": "알고 싶은 것을 물어봄",
+"gongmu": 0,
+"hanjaRefs": [
+"質",
+"問"
+]
+},
+{
+"surface": "重要",
+"reading": "중요",
+"meaning": "매우 소중하고 꼭 필요함",
+"gongmu": 1,
+"hanjaRefs": [
+"重",
+"要"
+]
+},
+{
+"surface": "養老",
+"reading": "양로",
+"meaning": "어르신들을 잘 모시고 돌봄",
+"gongmu": 0,
+"hanjaRefs": [
+"養",
+"老"
+]
+},
+{
+"surface": "養育",
+"reading": "양육",
+"meaning": "아이를 돌보며 키움",
+"gongmu": 0,
+"hanjaRefs": [
+"養",
+"育"
+]
+},
+{
+"surface": "分類",
+"reading": "분류",
+"meaning": "비슷한 종류끼리 나눔",
+"gongmu": 0,
+"hanjaRefs": [
+"分",
+"類"
+]
+},
+{
+"surface": "功勞",
+"reading": "공로",
+"meaning": "어떤 일을 이룬 큰 공",
+"gongmu": 0,
+"hanjaRefs": [
+"功",
+"勞"
+]
+},
+{
+"surface": "各種",
+"reading": "각종",
+"meaning": "여러 가지 종류",
+"gongmu": 0,
+"hanjaRefs": [
+"各",
+"種"
+]
+},
+{
+"surface": "商業",
+"reading": "상업",
+"meaning": "물건을 사고파는 장사 일",
+"gongmu": 0,
+"hanjaRefs": [
+"商",
+"業"
+]
+},
+{
+"surface": "書店",
+"reading": "서점",
+"meaning": "책을 사고파는 가게",
+"gongmu": 0,
+"hanjaRefs": [
+"書",
+"店"
+]
+},
+{
+"surface": "果實",
+"reading": "과실",
+"meaning": "나무나 식물에서 얻는 열매",
+"gongmu": 0,
+"hanjaRefs": [
+"果",
+"實"
+]
+},
+{
+"surface": "消化",
+"reading": "소화",
+"meaning": "먹은 음식을 분해해서 흡수함",
+"gongmu": 0,
+"hanjaRefs": [
+"消",
+"化"
+]
+},
+{
+"surface": "産業",
+"reading": "산업",
+"meaning": "물건이나 서비스를 만드는 일",
+"gongmu": 0,
+"hanjaRefs": [
+"産",
+"業"
+]
+},
+{
+"surface": "發展",
+"reading": "발전",
+"meaning": "더 좋은 상태로 나아가는 것",
+"gongmu": 0,
+"hanjaRefs": [
+"發",
+"展"
+]
+},
+{
+"surface": "藥品",
+"reading": "약품",
+"meaning": "병이나 상처를 고치는 약",
+"gongmu": 0,
+"hanjaRefs": [
+"藥",
+"品"
+]
+},
+{
+"surface": "藥局",
+"reading": "약국",
+"meaning": "약을 지어 주거나 파는 가게",
+"gongmu": 0,
+"hanjaRefs": [
+"藥",
+"局"
+]
+},
+{
+"surface": "過半",
+"reading": "과반",
+"meaning": "절반보다 더 많음",
+"gongmu": 0,
+"hanjaRefs": [
+"過",
+"半"
+]
+},
+{
+"surface": "交流",
+"reading": "교류",
+"meaning": "문화나 생각을 서로 주고받음",
+"gongmu": 0,
+"hanjaRefs": [
+"交",
+"流"
+]
+},
+{
+"surface": "古典",
+"reading": "고전",
+"meaning": "옛날의 예절과 규칙",
+"gongmu": 0,
+"hanjaRefs": [
+"古",
+"典"
+]
+},
+{
+"surface": "合格",
+"reading": "합격",
+"meaning": "시험이나 검사를 통과함",
+"gongmu": 0,
+"hanjaRefs": [
+"合",
+"格"
+]
+},
+{
+"surface": "失望",
+"reading": "실망",
+"meaning": "바라던 일이 안 되어 속상해함",
+"gongmu": 0,
+"hanjaRefs": [
+"失",
+"望"
+]
+},
+{
+"surface": "定價",
+"reading": "정가",
+"meaning": "미리 정해 둔 가격",
+"gongmu": 0,
+"hanjaRefs": [
+"定",
+"價"
+]
+},
+{
+"surface": "實例",
+"reading": "실례",
+"meaning": "실제로 있는 본보기",
+"gongmu": 0,
+"hanjaRefs": [
+"實",
+"例"
+]
+},
+{
+"surface": "實行",
+"reading": "실행",
+"meaning": "생각한 일을 실제로 함",
+"gongmu": 0,
+"hanjaRefs": [
+"實",
+"行"
+]
+},
+{
+"surface": "必死",
+"reading": "필사",
+"meaning": "죽기를 각오하고 애씀",
+"gongmu": 0,
+"hanjaRefs": [
+"必",
+"死"
+]
+},
+{
+"surface": "愛情",
+"reading": "애정",
+"meaning": "사랑하는 따뜻한 마음",
+"gongmu": 0,
+"hanjaRefs": [
+"愛",
+"情"
+]
+},
+{
+"surface": "感情",
+"reading": "감정",
+"meaning": "마음속에 생기는 기분",
+"gongmu": 0,
+"hanjaRefs": [
+"感",
+"情"
+]
+},
+{
+"surface": "旅行",
+"reading": "여행",
+"meaning": "다른 곳을 구경하러 다님",
+"gongmu": 0,
+"hanjaRefs": [
+"旅",
+"行"
+]
+},
+{
+"surface": "本質",
+"reading": "본질",
+"meaning": "원래 갖고 있는 진짜 모습",
+"gongmu": 0,
+"hanjaRefs": [
+"本",
+"質"
+]
+},
+{
+"surface": "根性",
+"reading": "근성",
+"meaning": "마음 깊이 뿌리박힌 성품",
+"gongmu": 0,
+"hanjaRefs": [
+"根",
+"性"
+]
+},
+{
+"surface": "決勝",
+"reading": "결승",
+"meaning": "마지막 승자를 가림",
+"gongmu": 0,
+"hanjaRefs": [
+"決",
+"勝"
+]
+},
+{
+"surface": "決定",
+"reading": "결정",
+"meaning": "확실하게 정함",
+"gongmu": 0,
+"hanjaRefs": [
+"決",
+"定"
+]
+},
+{
+"surface": "流通",
+"reading": "유통",
+"meaning": "막힘없이 잘 통함",
+"gongmu": 0,
+"hanjaRefs": [
+"流",
+"通"
+]
+},
+{
+"surface": "特産",
+"reading": "특산",
+"meaning": "그 지역의 특별한 생산물",
+"gongmu": 0,
+"hanjaRefs": [
+"特",
+"産"
+]
+},
+{
+"surface": "獨特",
+"reading": "독특",
+"meaning": "남과 달리 아주 특별함",
+"gongmu": 0,
+"hanjaRefs": [
+"獨",
+"特"
+]
+},
+{
+"surface": "當番",
+"reading": "당번",
+"meaning": "자기 차례에 일할 사람",
+"gongmu": 0,
+"hanjaRefs": [
+"當",
+"番"
+]
+},
+{
+"surface": "目的",
+"reading": "목적",
+"meaning": "나아가려는 방향과 뜻",
+"gongmu": 0,
+"hanjaRefs": [
+"目",
+"的"
+]
+},
+{
+"surface": "着衣",
+"reading": "착의",
+"meaning": "옷을 입음",
+"gongmu": 0,
+"hanjaRefs": [
+"着",
+"衣"
+]
+},
+{
+"surface": "石材",
+"reading": "석재",
+"meaning": "건설에 쓰이는 돌",
+"gongmu": 0,
+"hanjaRefs": [
+"石",
+"材"
+]
+},
+{
+"surface": "禮節",
+"reading": "예절",
+"meaning": "상대를 존중하는 태도",
+"gongmu": 0,
+"hanjaRefs": [
+"禮",
+"節"
+]
+},
+{
+"surface": "種族",
+"reading": "종족",
+"meaning": "같은 종류의 생물 무리",
+"gongmu": 0,
+"hanjaRefs": [
+"種",
+"族"
+]
+},
+{
+"surface": "章節",
+"reading": "장절",
+"meaning": "책의 글을 나눈 부분",
+"gongmu": 0,
+"hanjaRefs": [
+"章",
+"節"
+]
+},
+{
+"surface": "綠化",
+"reading": "녹화",
+"meaning": "땅을 푸르게 가꾸는 일",
+"gongmu": 0,
+"hanjaRefs": [
+"綠",
+"化"
+]
+},
+{
+"surface": "練習",
+"reading": "연습",
+"meaning": "잘하려고 되풀이해 익힘",
+"gongmu": 0,
+"hanjaRefs": [
+"練",
+"習"
+]
+},
+{
+"surface": "衣類",
+"reading": "의류",
+"meaning": "여러 종류의 옷들",
+"gongmu": 0,
+"hanjaRefs": [
+"衣",
+"類"
+]
+},
+{
+"surface": "訓練",
+"reading": "훈련",
+"meaning": "가르치고 연습함",
+"gongmu": 0,
+"hanjaRefs": [
+"訓",
+"練"
+]
+},
+{
+"surface": "通過",
+"reading": "통과",
+"meaning": "어떤 곳을 거쳐 지나감",
+"gongmu": 0,
+"hanjaRefs": [
+"通",
+"過"
+]
+},
+{
+"surface": "過失",
+"reading": "과실",
+"meaning": "부주의해서 저지른 잘못",
+"gongmu": 1,
+"hanjaRefs": [
+"過",
+"失"
+]
+},
+{
+"surface": "順番",
+"reading": "순번",
+"meaning": "차례대로 돌아가는 순서",
+"gongmu": 0,
+"hanjaRefs": [
+"順",
+"番"
+]
+},
 {
 "surface": "一切",
 "reading": "일절",
@@ -19258,16 +18095,6 @@
 "hanjaRefs": [
 "以",
 "西"
-]
-},
-{
-"surface": "任務",
-"reading": "임무",
-"meaning": "책임지고 해야 하는 일",
-"gongmu": 0,
-"hanjaRefs": [
-"任",
-"務"
 ]
 },
 {
@@ -20036,16 +18863,6 @@
 "具",
 "體",
 "的"
-]
-},
-{
-"surface": "典型",
-"reading": "전형",
-"meaning": "가장 대표가 되는 본보기",
-"gongmu": 0,
-"hanjaRefs": [
-"典",
-"型"
 ]
 },
 {
@@ -21837,16 +20654,6 @@
 "hanjaRefs": [
 "客",
 "體"
-]
-},
-{
-"surface": "害毒",
-"reading": "해독",
-"meaning": "해롭고 독함",
-"gongmu": 0,
-"hanjaRefs": [
-"害",
-"毒"
 ]
 },
 {
@@ -23861,16 +22668,6 @@
 ]
 },
 {
-"surface": "機能",
-"reading": "기능",
-"meaning": "물건이 하는 역할",
-"gongmu": 0,
-"hanjaRefs": [
-"機",
-"能"
-]
-},
-{
 "surface": "正七品",
 "reading": "정칠품",
 "meaning": "옛날 관리의 벼슬 등급",
@@ -24239,16 +23036,6 @@
 "hanjaRefs": [
 "法",
 "學"
-]
-},
-{
-"surface": "法律",
-"reading": "법률",
-"meaning": "나라에서 정한 사회의 규칙",
-"gongmu": 0,
-"hanjaRefs": [
-"法",
-"律"
 ]
 },
 {
@@ -24632,17 +23419,6 @@
 "hanjaRefs": [
 "獨",
 "身"
-]
-},
-{
-"surface": "率直性",
-"reading": "솔직성",
-"meaning": "꾸밈없이 솔직한 성질",
-"gongmu": 0,
-"hanjaRefs": [
-"率",
-"直",
-"性"
 ]
 },
 {
@@ -25752,16 +24528,6 @@
 ]
 },
 {
-"surface": "絶望",
-"reading": "절망",
-"meaning": "희망이 없어 포기한 마음",
-"gongmu": 0,
-"hanjaRefs": [
-"絶",
-"望"
-]
-},
-{
 "surface": "練習室",
 "reading": "연습실",
 "meaning": "연습하는 방",
@@ -26173,16 +24939,6 @@
 ]
 },
 {
-"surface": "要塞",
-"reading": "요새",
-"meaning": "적의 공격을 막는 튼튼한 성",
-"gongmu": 0,
-"hanjaRefs": [
-"要",
-"塞"
-]
-},
-{
 "surface": "要約",
 "reading": "요약",
 "meaning": "중요한 내용만 짧게 간추림",
@@ -26332,16 +25088,6 @@
 "hanjaRefs": [
 "觀",
 "客"
-]
-},
-{
-"surface": "觀察",
-"reading": "관찰",
-"meaning": "자세히 살펴봄",
-"gongmu": 0,
-"hanjaRefs": [
-"觀",
-"察"
 ]
 },
 {
@@ -27741,6 +26487,106 @@
 "grade": "5급",
 "data": [
 {
+"surface": "賣場",
+"reading": "매장",
+"meaning": "물건을 파는 장소",
+"gongmu": 0,
+"hanjaRefs": [
+"賣",
+"場"
+]
+},
+{
+"surface": "原色",
+"reading": "원색",
+"meaning": "다른 색을 섞지 않은 색",
+"gongmu": 0,
+"hanjaRefs": [
+"原",
+"色"
+]
+},
+{
+"surface": "短期",
+"reading": "단기",
+"meaning": "짧은 기간",
+"gongmu": 0,
+"hanjaRefs": [
+"短",
+"期"
+]
+},
+{
+"surface": "原野",
+"reading": "원야",
+"meaning": "나무가 없이 넓게 트인 들판",
+"gongmu": 0,
+"hanjaRefs": [
+"原",
+"野"
+]
+},
+{
+"surface": "無言",
+"reading": "무언",
+"meaning": "아무 말도 없음",
+"gongmu": 0,
+"hanjaRefs": [
+"無",
+"言"
+]
+},
+{
+"surface": "特技",
+"reading": "특기",
+"meaning": "특별히 잘하는 재주",
+"gongmu": 0,
+"hanjaRefs": [
+"特",
+"技"
+]
+},
+{
+"surface": "號令",
+"reading": "호령",
+"meaning": "큰 소리로 명령함",
+"gongmu": 0,
+"hanjaRefs": [
+"號",
+"令"
+]
+},
+{
+"surface": "訓示",
+"reading": "훈시",
+"meaning": "가르쳐서 보여 줌",
+"gongmu": 0,
+"hanjaRefs": [
+"訓",
+"示"
+]
+},
+{
+"surface": "醫院",
+"reading": "의원",
+"meaning": "환자를 치료하는 작은 병원",
+"gongmu": 0,
+"hanjaRefs": [
+"醫",
+"院"
+]
+},
+{
+"surface": "鐵路",
+"reading": "철로",
+"meaning": "기차가 다니는 철길",
+"gongmu": 0,
+"hanjaRefs": [
+"鐵",
+"路"
+]
+},
+{
 "surface": "一致",
 "reading": "일치",
 "meaning": "서로 똑같이 들어맞음",
@@ -28157,16 +27003,6 @@
 ]
 },
 {
-"surface": "令狀",
-"reading": "영장",
-"meaning": "수사를 허락하는 공식 문서",
-"gongmu": 0,
-"hanjaRefs": [
-"令",
-"狀"
-]
-},
-{
 "surface": "件數",
 "reading": "건수",
 "meaning": "사건이나 일의 가짓수",
@@ -28207,16 +27043,6 @@
 ]
 },
 {
-"surface": "位置",
-"reading": "위치",
-"meaning": "사람이나 물건의 자리",
-"gongmu": 0,
-"hanjaRefs": [
-"位",
-"置"
-]
-},
-{
 "surface": "作曲",
 "reading": "작곡",
 "meaning": "노래나 음악을 만드는 일",
@@ -28248,26 +27074,6 @@
 ]
 },
 {
-"surface": "供給",
-"reading": "공급",
-"meaning": "필요한 물건을 대어 줌",
-"gongmu": 0,
-"hanjaRefs": [
-"供",
-"給"
-]
-},
-{
-"surface": "保健",
-"reading": "보건",
-"meaning": "건강을 잘 돌보고 지킴",
-"gongmu": 0,
-"hanjaRefs": [
-"保",
-"健"
-]
-},
-{
 "surface": "倍加",
 "reading": "배가",
 "meaning": "몇 배로 크게 늘어남",
@@ -28296,16 +27102,6 @@
 "倍",
 "數",
 "體"
-]
-},
-{
-"surface": "倍率",
-"reading": "배율",
-"meaning": "몇 배인지 나타내는 수",
-"gongmu": 0,
-"hanjaRefs": [
-"倍",
-"率"
 ]
 },
 {
@@ -28438,16 +27234,6 @@
 "hanjaRefs": [
 "健",
 "實"
-]
-},
-{
-"surface": "健康",
-"reading": "건강",
-"meaning": "몸과 마음이 튼튼함",
-"gongmu": 0,
-"hanjaRefs": [
-"健",
-"康"
 ]
 },
 {
@@ -28823,26 +27609,6 @@
 ]
 },
 {
-"surface": "冷淡",
-"reading": "냉담",
-"meaning": "태도가 차갑고 쌀쌀맞음",
-"gongmu": 0,
-"hanjaRefs": [
-"冷",
-"淡"
-]
-},
-{
-"surface": "冷靜",
-"reading": "냉정",
-"meaning": "흥분하지 않고 차분함",
-"gongmu": 0,
-"hanjaRefs": [
-"冷",
-"靜"
-]
-},
-{
 "surface": "凶吉",
 "reading": "흉길",
 "meaning": "나쁜 일과 좋은 일",
@@ -28890,16 +27656,6 @@
 "hanjaRefs": [
 "分",
 "量"
-]
-},
-{
-"surface": "列島",
-"reading": "열도",
-"meaning": "줄지어 늘어서 있는 섬들",
-"gongmu": 0,
-"hanjaRefs": [
-"列",
-"島"
 ]
 },
 {
@@ -29090,16 +27846,6 @@
 "比",
 "原",
 "理"
-]
-},
-{
-"surface": "加減",
-"reading": "가감",
-"meaning": "숫자를 더하고 빼는 일",
-"gongmu": 0,
-"hanjaRefs": [
-"加",
-"減"
 ]
 },
 {
@@ -29335,16 +28081,6 @@
 ]
 },
 {
-"surface": "卓越",
-"reading": "탁월",
-"meaning": "남들보다 훨씬 뛰어남",
-"gongmu": 0,
-"hanjaRefs": [
-"卓",
-"越"
-]
-},
-{
 "surface": "原住民",
 "reading": "원주민",
 "meaning": "그 땅에 처음부터 살던 사람",
@@ -29552,16 +28288,6 @@
 ]
 },
 {
-"surface": "去就",
-"reading": "거취",
-"meaning": "나아가거나 물러서는 행동",
-"gongmu": 0,
-"hanjaRefs": [
-"去",
-"就"
-]
-},
-{
 "surface": "參加",
 "reading": "참가",
 "meaning": "모임이나 행사에 함께함",
@@ -29611,16 +28337,6 @@
 "hanjaRefs": [
 "反",
 "則"
-]
-},
-{
-"surface": "受賞",
-"reading": "수상",
-"meaning": "상을 받는 일",
-"gongmu": 0,
-"hanjaRefs": [
-"受",
-"賞"
 ]
 },
 {
@@ -29768,16 +28484,6 @@
 "hanjaRefs": [
 "史",
 "料"
-]
-},
-{
-"surface": "司令",
-"reading": "사령",
-"meaning": "부하를 지휘하고 명령함",
-"gongmu": 0,
-"hanjaRefs": [
-"司",
-"令"
 ]
 },
 {
@@ -30075,26 +28781,6 @@
 ]
 },
 {
-"surface": "單位",
-"reading": "단위",
-"meaning": "수를 세거나 재는 기준",
-"gongmu": 0,
-"hanjaRefs": [
-"單",
-"位"
-]
-},
-{
-"surface": "嚴寒",
-"reading": "엄한",
-"meaning": "매우 매서운 추위",
-"gongmu": 0,
-"hanjaRefs": [
-"嚴",
-"寒"
-]
-},
-{
 "surface": "因子",
 "reading": "인자",
 "meaning": "일의 원인이 되는 요소",
@@ -30115,16 +28801,6 @@
 ]
 },
 {
-"surface": "因緣",
-"reading": "인연",
-"meaning": "사람들 사이의 깊은 관계",
-"gongmu": 0,
-"hanjaRefs": [
-"因",
-"緣"
-]
-},
-{
 "surface": "因習",
 "reading": "인습",
 "meaning": "옛날부터 전해진 나쁜 버릇",
@@ -30132,16 +28808,6 @@
 "hanjaRefs": [
 "因",
 "習"
-]
-},
-{
-"surface": "固執",
-"reading": "고집",
-"meaning": "자기 의견만 끝까지 우김",
-"gongmu": 0,
-"hanjaRefs": [
-"固",
-"執"
 ]
 },
 {
@@ -30298,26 +28964,6 @@
 "基",
 "本",
 "給"
-]
-},
-{
-"surface": "墜落",
-"reading": "추락",
-"meaning": "높은 곳에서 떨어짐",
-"gongmu": 1,
-"hanjaRefs": [
-"墜",
-"落"
-]
-},
-{
-"surface": "增加",
-"reading": "증가",
-"meaning": "수나 양이 늘어남",
-"gongmu": 1,
-"hanjaRefs": [
-"增",
-"加"
 ]
 },
 {
@@ -30695,16 +29341,6 @@
 ]
 },
 {
-"surface": "孤島",
-"reading": "고도",
-"meaning": "홀로 멀리 떨어진 외로운 섬",
-"gongmu": 0,
-"hanjaRefs": [
-"孤",
-"島"
-]
-},
-{
 "surface": "學位",
 "reading": "학위",
 "meaning": "대학을 졸업해 얻는 자격",
@@ -30884,26 +29520,6 @@
 ]
 },
 {
-"surface": "容許",
-"reading": "용허",
-"meaning": "받아들이고 허락함",
-"gongmu": 0,
-"hanjaRefs": [
-"容",
-"許"
-]
-},
-{
-"surface": "容量",
-"reading": "용량",
-"meaning": "담을 수 있는 크기나 양",
-"gongmu": 0,
-"hanjaRefs": [
-"容",
-"量"
-]
-},
-{
 "surface": "宿患",
 "reading": "숙환",
 "meaning": "오랫동안 앓아 온 병",
@@ -30974,16 +29590,6 @@
 ]
 },
 {
-"surface": "審査",
-"reading": "심사",
-"meaning": "자세히 살펴 합격을 결정함",
-"gongmu": 0,
-"hanjaRefs": [
-"審",
-"査"
-]
-},
-{
 "surface": "寫本",
 "reading": "사본",
 "meaning": "책이나 서류를 베껴 씀",
@@ -31001,16 +29607,6 @@
 "hanjaRefs": [
 "寫",
 "生"
-]
-},
-{
-"surface": "寫眞",
-"reading": "사진",
-"meaning": "카메라로 찍은 모습",
-"gongmu": 0,
-"hanjaRefs": [
-"寫",
-"眞"
 ]
 },
 {
@@ -31219,16 +29815,6 @@
 ]
 },
 {
-"surface": "序幕",
-"reading": "서막",
-"meaning": "시작을 알리는 첫 부분",
-"gongmu": 0,
-"hanjaRefs": [
-"序",
-"幕"
-]
-},
-{
 "surface": "序文",
 "reading": "서문",
 "meaning": "책의 맨 앞에 쓰는 소개글",
@@ -31321,16 +29907,6 @@
 ]
 },
 {
-"surface": "建設",
-"reading": "건설",
-"meaning": "건물이나 시설을 새로 지음",
-"gongmu": 0,
-"hanjaRefs": [
-"建",
-"設"
-]
-},
-{
 "surface": "後半期",
 "reading": "후반기",
 "meaning": "전체 기간의 뒤쪽 절반",
@@ -31373,16 +29949,6 @@
 ]
 },
 {
-"surface": "志願",
-"reading": "지원",
-"meaning": "원하는 곳에 들어가기를 바람",
-"gongmu": 0,
-"hanjaRefs": [
-"志",
-"願"
-]
-},
-{
 "surface": "念願",
 "reading": "염원",
 "meaning": "마음속으로 간절히 바람",
@@ -31400,26 +29966,6 @@
 "hanjaRefs": [
 "思",
 "念"
-]
-},
-{
-"surface": "思想",
-"reading": "사상",
-"meaning": "어떤 사물에 대한 생각",
-"gongmu": 1,
-"hanjaRefs": [
-"思",
-"想"
-]
-},
-{
-"surface": "思索",
-"reading": "사색",
-"meaning": "깊이 생각하여 뜻을 찾음",
-"gongmu": 0,
-"hanjaRefs": [
-"思",
-"索"
 ]
 },
 {
@@ -31495,16 +30041,6 @@
 ]
 },
 {
-"surface": "患難",
-"reading": "환난",
-"meaning": "걱정거리와 힘든 재난",
-"gongmu": 0,
-"hanjaRefs": [
-"患",
-"難"
-]
-},
-{
 "surface": "情操",
 "reading": "정조",
 "meaning": "아름다움을 느끼는 마음",
@@ -31572,36 +30108,6 @@
 "hanjaRefs": [
 "愛",
 "馬"
-]
-},
-{
-"surface": "慶祝",
-"reading": "경축",
-"meaning": "기쁜 일을 함께 축하하는 일",
-"gongmu": 0,
-"hanjaRefs": [
-"慶",
-"祝"
-]
-},
-{
-"surface": "憂患",
-"reading": "우환",
-"meaning": "집안의 걱정과 아픈 일",
-"gongmu": 0,
-"hanjaRefs": [
-"憂",
-"患"
-]
-},
-{
-"surface": "懸賞",
-"reading": "현상",
-"meaning": "돈이나 상품을 내거는 일",
-"gongmu": 0,
-"hanjaRefs": [
-"懸",
-"賞"
 ]
 },
 {
@@ -31684,16 +30190,6 @@
 "hanjaRefs": [
 "打",
 "作"
-]
-},
-{
-"surface": "打擊",
-"reading": "타격",
-"meaning": "세게 때리거나 치는 일",
-"gongmu": 0,
-"hanjaRefs": [
-"打",
-"擊"
 ]
 },
 {
@@ -31811,46 +30307,6 @@
 ]
 },
 {
-"surface": "招致",
-"reading": "초치",
-"meaning": "불러서 오게 함",
-"gongmu": 0,
-"hanjaRefs": [
-"招",
-"致"
-]
-},
-{
-"surface": "指示",
-"reading": "지시",
-"meaning": "가리켜 보여 줌",
-"gongmu": 0,
-"hanjaRefs": [
-"指",
-"示"
-]
-},
-{
-"surface": "描寫",
-"reading": "묘사",
-"meaning": "그림이나 글로 표현함",
-"gongmu": 1,
-"hanjaRefs": [
-"描",
-"寫"
-]
-},
-{
-"surface": "提案",
-"reading": "제안",
-"meaning": "의견을 내놓음",
-"gongmu": 0,
-"hanjaRefs": [
-"提",
-"案"
-]
-},
-{
 "surface": "操作",
 "reading": "조작",
 "meaning": "기계를 다루어 움직임",
@@ -31963,16 +30419,6 @@
 ]
 },
 {
-"surface": "支給",
-"reading": "지급",
-"meaning": "돈이나 물건을 나누어 줌",
-"gongmu": 0,
-"hanjaRefs": [
-"支",
-"給"
-]
-},
-{
 "surface": "改善",
 "reading": "개선",
 "meaning": "잘못된 것을 좋게 고침",
@@ -32054,16 +30500,6 @@
 ]
 },
 {
-"surface": "改革",
-"reading": "개혁",
-"meaning": "제도나 조직을 새롭게 고침",
-"gongmu": 0,
-"hanjaRefs": [
-"改",
-"革"
-]
-},
-{
 "surface": "放熱",
 "reading": "방열",
 "meaning": "열을 밖으로 내보냄",
@@ -32116,16 +30552,6 @@
 ]
 },
 {
-"surface": "救助",
-"reading": "구조",
-"meaning": "위험에 빠진 사람을 구해 줌",
-"gongmu": 0,
-"hanjaRefs": [
-"救",
-"助"
-]
-},
-{
 "surface": "救命",
 "reading": "구명",
 "meaning": "사람의 목숨을 구함",
@@ -32175,26 +30601,6 @@
 "救",
 "急",
 "車"
-]
-},
-{
-"surface": "救濟",
-"reading": "구제",
-"meaning": "어려움에 처한 사람을 도와줌",
-"gongmu": 0,
-"hanjaRefs": [
-"救",
-"濟"
-]
-},
-{
-"surface": "救護",
-"reading": "구호",
-"meaning": "재난에서 사람을 도와 보호함",
-"gongmu": 0,
-"hanjaRefs": [
-"救",
-"護"
 ]
 },
 {
@@ -32503,26 +30909,6 @@
 ]
 },
 {
-"surface": "暗示",
-"reading": "암시",
-"meaning": "넌지시 힌트를 주는 일",
-"gongmu": 1,
-"hanjaRefs": [
-"暗",
-"示"
-]
-},
-{
-"surface": "暗黑",
-"reading": "암흑",
-"meaning": "아무것도 안 보이는 캄캄함",
-"gongmu": 0,
-"hanjaRefs": [
-"暗",
-"黑"
-]
-},
-{
 "surface": "曜日",
 "reading": "요일",
 "meaning": "일주일을 이루는 각각의 날",
@@ -32602,16 +30988,6 @@
 "最",
 "上",
 "級"
-]
-},
-{
-"surface": "最低",
-"reading": "최저",
-"meaning": "가장 낮은 것",
-"gongmu": 0,
-"hanjaRefs": [
-"最",
-"低"
 ]
 },
 {
@@ -33138,16 +31514,6 @@
 ]
 },
 {
-"surface": "枝葉",
-"reading": "지엽",
-"meaning": "식물의 나뭇가지와 잎",
-"gongmu": 0,
-"hanjaRefs": [
-"枝",
-"葉"
-]
-},
-{
 "surface": "査問",
 "reading": "사문",
 "meaning": "조사해서 자세히 물어봄",
@@ -33209,26 +31575,6 @@
 ]
 },
 {
-"surface": "條件",
-"reading": "조건",
-"meaning": "일을 할 때 필요한 약속",
-"gongmu": 0,
-"hanjaRefs": [
-"條",
-"件"
-]
-},
-{
-"surface": "橋梁",
-"reading": "교량",
-"meaning": "강이나 바다를 건너는 다리",
-"gongmu": 0,
-"hanjaRefs": [
-"橋",
-"梁"
-]
-},
-{
 "surface": "橋頭",
 "reading": "교두",
 "meaning": "다리가 시작되는 양쪽 끝",
@@ -33236,16 +31582,6 @@
 "hanjaRefs": [
 "橋",
 "頭"
-]
-},
-{
-"surface": "檢査",
-"reading": "검사",
-"meaning": "상태를 자세히 조사해 봄",
-"gongmu": 0,
-"hanjaRefs": [
-"檢",
-"査"
 ]
 },
 {
@@ -33287,16 +31623,6 @@
 "hanjaRefs": [
 "歌",
 "曲"
-]
-},
-{
-"surface": "止血",
-"reading": "지혈",
-"meaning": "흘러나오는 피를 멈추게 함",
-"gongmu": 0,
-"hanjaRefs": [
-"止",
-"血"
 ]
 },
 {
@@ -33432,26 +31758,6 @@
 "hanjaRefs": [
 "比",
 "熱"
-]
-},
-{
-"surface": "比率",
-"reading": "비율",
-"meaning": "둘을 견주어 나타낸 비율",
-"gongmu": 0,
-"hanjaRefs": [
-"比",
-"率"
-]
-},
-{
-"surface": "比較",
-"reading": "비교",
-"meaning": "둘을 견주어 차이를 살피는 일",
-"gongmu": 0,
-"hanjaRefs": [
-"比",
-"較"
 ]
 },
 {
@@ -33696,16 +32002,6 @@
 "hanjaRefs": [
 "汽",
 "車"
-]
-},
-{
-"surface": "沐浴",
-"reading": "목욕",
-"meaning": "머리를 감고 온몸을 씻는 일",
-"gongmu": 0,
-"hanjaRefs": [
-"沐",
-"浴"
 ]
 },
 {
@@ -33955,16 +32251,6 @@
 ]
 },
 {
-"surface": "添加",
-"reading": "첨가",
-"meaning": "원래 있던 것에 더함",
-"gongmu": 1,
-"hanjaRefs": [
-"添",
-"加"
-]
-},
-{
 "surface": "湖南",
 "reading": "호남",
 "meaning": "전라도 지역을 가리키는 말",
@@ -33985,16 +32271,6 @@
 ]
 },
 {
-"surface": "湖畔",
-"reading": "호반",
-"meaning": "호수 주변이나 호숫가",
-"gongmu": 0,
-"hanjaRefs": [
-"湖",
-"畔"
-]
-},
-{
 "surface": "湖面",
 "reading": "호면",
 "meaning": "호수 물의 표면",
@@ -34002,16 +32278,6 @@
 "hanjaRefs": [
 "湖",
 "面"
-]
-},
-{
-"surface": "滅亡",
-"reading": "멸망",
-"meaning": "망해서 완전히 사라짐",
-"gongmu": 0,
-"hanjaRefs": [
-"滅",
-"亡"
 ]
 },
 {
@@ -34072,16 +32338,6 @@
 "hanjaRefs": [
 "漁",
 "民"
-]
-},
-{
-"surface": "漁港",
-"reading": "어항",
-"meaning": "고기잡이배가 드나드는 항구",
-"gongmu": 0,
-"hanjaRefs": [
-"漁",
-"港"
 ]
 },
 {
@@ -34157,16 +32413,6 @@
 ]
 },
 {
-"surface": "災難",
-"reading": "재난",
-"meaning": "뜻밖에 만난 큰 불행과 고난",
-"gongmu": 0,
-"hanjaRefs": [
-"災",
-"難"
-]
-},
-{
 "surface": "炭化",
 "reading": "탄화",
 "meaning": "불에 타서 숯처럼 변함",
@@ -34186,16 +32432,6 @@
 "水",
 "化",
 "物"
-]
-},
-{
-"surface": "炭素",
-"reading": "탄소",
-"meaning": "숯과 석탄을 이루는 원소",
-"gongmu": 0,
-"hanjaRefs": [
-"炭",
-"素"
 ]
 },
 {
@@ -34515,16 +32751,6 @@
 ]
 },
 {
-"surface": "無限",
-"reading": "무한",
-"meaning": "끝이나 한계가 없음",
-"gongmu": 0,
-"hanjaRefs": [
-"無",
-"限"
-]
-},
-{
 "surface": "無風",
 "reading": "무풍",
 "meaning": "바람이 불지 않음",
@@ -34668,26 +32894,6 @@
 ]
 },
 {
-"surface": "爭點",
-"reading": "쟁점",
-"meaning": "서로 다투는 핵심 내용",
-"gongmu": 0,
-"hanjaRefs": [
-"爭",
-"點"
-]
-},
-{
-"surface": "牛乳",
-"reading": "우유",
-"meaning": "소에서 짜낸 하얀 젖",
-"gongmu": 0,
-"hanjaRefs": [
-"牛",
-"乳"
-]
-},
-{
 "surface": "牛耳",
 "reading": "우이",
 "meaning": "소의 귀",
@@ -34695,16 +32901,6 @@
 "hanjaRefs": [
 "牛",
 "耳"
-]
-},
-{
-"surface": "牛肉",
-"reading": "우육",
-"meaning": "소고기",
-"gongmu": 0,
-"hanjaRefs": [
-"牛",
-"肉"
 ]
 },
 {
@@ -34797,16 +32993,6 @@
 "特",
 "許",
 "料"
-]
-},
-{
-"surface": "犯罪",
-"reading": "범죄",
-"meaning": "법을 어긴 나쁜 짓",
-"gongmu": 0,
-"hanjaRefs": [
-"犯",
-"罪"
 ]
 },
 {
@@ -35099,16 +33285,6 @@
 ]
 },
 {
-"surface": "看板",
-"reading": "간판",
-"meaning": "가게 이름을 써서 붙인 판",
-"gongmu": 0,
-"hanjaRefs": [
-"看",
-"板"
-]
-},
-{
 "surface": "短期的",
 "reading": "단기적",
 "meaning": "짧은 기간에 걸친 것",
@@ -35151,16 +33327,6 @@
 ]
 },
 {
-"surface": "示範",
-"reading": "시범",
-"meaning": "모범을 직접 보여 줌",
-"gongmu": 0,
-"hanjaRefs": [
-"示",
-"範"
-]
-},
-{
 "surface": "社壇",
 "reading": "사단",
 "meaning": "임금이 제사를 지내던 제단",
@@ -35168,16 +33334,6 @@
 "hanjaRefs": [
 "社",
 "壇"
-]
-},
-{
-"surface": "祈願",
-"reading": "기원",
-"meaning": "소원이 이루어지길 바람",
-"gongmu": 1,
-"hanjaRefs": [
-"祈",
-"願"
 ]
 },
 {
@@ -35211,16 +33367,6 @@
 ]
 },
 {
-"surface": "祝祭",
-"reading": "축제",
-"meaning": "축하하며 벌이는 큰 잔치",
-"gongmu": 0,
-"hanjaRefs": [
-"祝",
-"祭"
-]
-},
-{
 "surface": "祝福",
 "reading": "축복",
 "meaning": "앞날의 행복을 빌어 줌",
@@ -35231,16 +33377,6 @@
 ]
 },
 {
-"surface": "祝賀",
-"reading": "축하",
-"meaning": "남의 기쁜 일을 축하함",
-"gongmu": 1,
-"hanjaRefs": [
-"祝",
-"賀"
-]
-},
-{
 "surface": "祝電",
 "reading": "축전",
 "meaning": "축하의 뜻을 전하는 전보",
@@ -35248,16 +33384,6 @@
 "hanjaRefs": [
 "祝",
 "電"
-]
-},
-{
-"surface": "禁止",
-"reading": "금지",
-"meaning": "하지 못하도록 막음",
-"gongmu": 0,
-"hanjaRefs": [
-"禁",
-"止"
 ]
 },
 {
@@ -35400,16 +33526,6 @@
 ]
 },
 {
-"surface": "競走",
-"reading": "경주",
-"meaning": "달려서 빠르기를 겨루는 시합",
-"gongmu": 0,
-"hanjaRefs": [
-"競",
-"走"
-]
-},
-{
 "surface": "競選",
 "reading": "경선",
 "meaning": "여러 후보가 겨루는 선거",
@@ -35469,26 +33585,6 @@
 "hanjaRefs": [
 "節",
 "操"
-]
-},
-{
-"surface": "紅葉",
-"reading": "홍엽",
-"meaning": "가을에 빨갛게 물든 잎",
-"gongmu": 0,
-"hanjaRefs": [
-"紅",
-"葉"
-]
-},
-{
-"surface": "終了",
-"reading": "종료",
-"meaning": "하던 일이나 행동을 끝마침",
-"gongmu": 0,
-"hanjaRefs": [
-"終",
-"了"
 ]
 },
 {
@@ -35612,16 +33708,6 @@
 ]
 },
 {
-"surface": "經費",
-"reading": "경비",
-"meaning": "일을 하는 데 드는 돈",
-"gongmu": 0,
-"hanjaRefs": [
-"經",
-"費"
-]
-},
-{
 "surface": "綠末",
 "reading": "녹말",
 "meaning": "감자나 고구마로 만든 가루",
@@ -35662,16 +33748,6 @@
 ]
 },
 {
-"surface": "考慮",
-"reading": "고려",
-"meaning": "이리저리 깊이 생각함",
-"gongmu": 1,
-"hanjaRefs": [
-"考",
-"慮"
-]
-},
-{
 "surface": "考査",
 "reading": "고사",
 "meaning": "자세히 알아보고 조사함",
@@ -35702,16 +33778,6 @@
 ]
 },
 {
-"surface": "考試",
-"reading": "고시",
-"meaning": "자격을 얻기 위한 시험",
-"gongmu": 0,
-"hanjaRefs": [
-"考",
-"試"
-]
-},
-{
 "surface": "耳目",
 "reading": "이목",
 "meaning": "귀와 눈",
@@ -35729,26 +33795,6 @@
 "hanjaRefs": [
 "耳",
 "鼻"
-]
-},
-{
-"surface": "腐敗",
-"reading": "부패",
-"meaning": "정치나 생각이 썩고 나빠짐",
-"gongmu": 0,
-"hanjaRefs": [
-"腐",
-"敗"
-]
-},
-{
-"surface": "臨終",
-"reading": "임종",
-"meaning": "죽음을 맞이하는 순간",
-"gongmu": 0,
-"hanjaRefs": [
-"臨",
-"終"
 ]
 },
 {
@@ -35856,16 +33902,6 @@
 ]
 },
 {
-"surface": "船員",
-"reading": "선원",
-"meaning": "배에서 일하는 사람",
-"gongmu": 0,
-"hanjaRefs": [
-"船",
-"員"
-]
-},
-{
 "surface": "船客",
 "reading": "선객",
 "meaning": "배에 탄 손님",
@@ -35893,16 +33929,6 @@
 "hanjaRefs": [
 "船",
 "窓"
-]
-},
-{
-"surface": "船舶",
-"reading": "선박",
-"meaning": "물 위에 떠다니는 큰 배",
-"gongmu": 0,
-"hanjaRefs": [
-"船",
-"舶"
 ]
 },
 {
@@ -36076,16 +34102,6 @@
 "葉",
 "綠",
 "體"
-]
-},
-{
-"surface": "葉脈",
-"reading": "엽맥",
-"meaning": "나뭇잎 표면의 가느다란 줄",
-"gongmu": 0,
-"hanjaRefs": [
-"葉",
-"脈"
 ]
 },
 {
@@ -36301,26 +34317,6 @@
 ]
 },
 {
-"surface": "許諾",
-"reading": "허락",
-"meaning": "부탁이나 청을 들어줌",
-"gongmu": 0,
-"hanjaRefs": [
-"許",
-"諾"
-]
-},
-{
-"surface": "誘致",
-"reading": "유치",
-"meaning": "달래거나 꾀어서 데려옴",
-"gongmu": 0,
-"hanjaRefs": [
-"誘",
-"致"
-]
-},
-{
 "surface": "調停",
 "reading": "조정",
 "meaning": "다툼을 중간에서 화해시킴",
@@ -36341,16 +34337,6 @@
 ]
 },
 {
-"surface": "談判",
-"reading": "담판",
-"meaning": "이야기하여 결판을 지음",
-"gongmu": 0,
-"hanjaRefs": [
-"談",
-"判"
-]
-},
-{
 "surface": "談合",
 "reading": "담합",
 "meaning": "서로 의견을 맞추어 정함",
@@ -36368,16 +34354,6 @@
 "hanjaRefs": [
 "談",
 "話"
-]
-},
-{
-"surface": "謝罪",
-"reading": "사죄",
-"meaning": "잘못에 대해 용서를 비는 것",
-"gongmu": 0,
-"hanjaRefs": [
-"謝",
-"罪"
 ]
 },
 {
@@ -36412,16 +34388,6 @@
 ]
 },
 {
-"surface": "販賣",
-"reading": "판매",
-"meaning": "돈을 받고 물건을 파는 것",
-"gongmu": 0,
-"hanjaRefs": [
-"販",
-"賣"
-]
-},
-{
 "surface": "貯水",
 "reading": "저수",
 "meaning": "물을 모아서 저장해 둠",
@@ -36450,26 +34416,6 @@
 "hanjaRefs": [
 "貯",
 "炭"
-]
-},
-{
-"surface": "貯蓄",
-"reading": "저축",
-"meaning": "돈을 아껴서 모아 둠",
-"gongmu": 0,
-"hanjaRefs": [
-"貯",
-"蓄"
-]
-},
-{
-"surface": "貯藏",
-"reading": "저장",
-"meaning": "물건을 모아 잘 보관함",
-"gongmu": 0,
-"hanjaRefs": [
-"貯",
-"藏"
 ]
 },
 {
@@ -36534,16 +34480,6 @@
 ]
 },
 {
-"surface": "貴賓",
-"reading": "귀빈",
-"meaning": "매우 귀한 손님",
-"gongmu": 0,
-"hanjaRefs": [
-"貴",
-"賓"
-]
-},
-{
 "surface": "貴重",
 "reading": "귀중",
 "meaning": "아주 귀하고 소중함",
@@ -36601,16 +34537,6 @@
 "hanjaRefs": [
 "費",
 "用"
-]
-},
-{
-"surface": "資料",
-"reading": "자료",
-"meaning": "연구나 조사에 쓰이는 재료",
-"gongmu": 0,
-"hanjaRefs": [
-"資",
-"料"
 ]
 },
 {
@@ -36746,16 +34672,6 @@
 ]
 },
 {
-"surface": "購買",
-"reading": "구매",
-"meaning": "물건을 사는 일",
-"gongmu": 0,
-"hanjaRefs": [
-"購",
-"買"
-]
-},
-{
 "surface": "赤信號",
 "reading": "적신호",
 "meaning": "멈추라는 빨간색 신호",
@@ -36830,16 +34746,6 @@
 ]
 },
 {
-"surface": "輕快",
-"reading": "경쾌",
-"meaning": "가볍고 상쾌함",
-"gongmu": 0,
-"hanjaRefs": [
-"輕",
-"快"
-]
-},
-{
 "surface": "輕油",
 "reading": "경유",
 "meaning": "가장 가벼운 기름 종류",
@@ -36847,16 +34753,6 @@
 "hanjaRefs": [
 "輕",
 "油"
-]
-},
-{
-"surface": "輕視",
-"reading": "경시",
-"meaning": "가볍게 여기고 무시함",
-"gongmu": 0,
-"hanjaRefs": [
-"輕",
-"視"
 ]
 },
 {
@@ -36921,26 +34817,6 @@
 "hanjaRefs": [
 "農",
 "牛"
-]
-},
-{
-"surface": "退院",
-"reading": "퇴원",
-"meaning": "치료가 끝나 병원을 나옴",
-"gongmu": 0,
-"hanjaRefs": [
-"退",
-"院"
-]
-},
-{
-"surface": "逃亡",
-"reading": "도망",
-"meaning": "피하거나 쫓겨서 달아남",
-"gongmu": 0,
-"hanjaRefs": [
-"逃",
-"亡"
 ]
 },
 {
@@ -37099,26 +34975,6 @@
 ]
 },
 {
-"surface": "選拔",
-"reading": "선발",
-"meaning": "많은 사람 중에서 골라 뽑음",
-"gongmu": 0,
-"hanjaRefs": [
-"選",
-"拔"
-]
-},
-{
-"surface": "選擇",
-"reading": "선택",
-"meaning": "원하는 것을 골라 뽑음",
-"gongmu": 0,
-"hanjaRefs": [
-"選",
-"擇"
-]
-},
-{
 "surface": "選擧",
 "reading": "선거",
 "meaning": "투표로 대표를 뽑는 일",
@@ -37265,16 +35121,6 @@
 ]
 },
 {
-"surface": "酷寒",
-"reading": "혹한",
-"meaning": "몹시 심한 추위",
-"gongmu": 0,
-"hanjaRefs": [
-"酷",
-"寒"
-]
-},
-{
 "surface": "醫學賞",
 "reading": "의학상",
 "meaning": "의학 연구를 잘한 사람의 상",
@@ -37395,16 +35241,6 @@
 "銀",
 "河",
 "水"
-]
-},
-{
-"surface": "鋼鐵",
-"reading": "강철",
-"meaning": "아주 단단하고 질긴 철",
-"gongmu": 0,
-"hanjaRefs": [
-"鋼",
-"鐵"
 ]
 },
 {
@@ -37589,16 +35425,6 @@
 "hanjaRefs": [
 "陸",
 "橋"
-]
-},
-{
-"surface": "雄壯",
-"reading": "웅장",
-"meaning": "규모가 크고 당당함",
-"gongmu": 0,
-"hanjaRefs": [
-"雄",
-"壯"
 ]
 },
 {
@@ -37792,26 +35618,6 @@
 "hanjaRefs": [
 "領",
 "地"
-]
-},
-{
-"surface": "領域",
-"reading": "영역",
-"meaning": "힘이나 법이 미치는 구역",
-"gongmu": 0,
-"hanjaRefs": [
-"領",
-"域"
-]
-},
-{
-"surface": "領收",
-"reading": "영수",
-"meaning": "돈이나 물건을 받아들임",
-"gongmu": 0,
-"hanjaRefs": [
-"領",
-"收"
 ]
 },
 {
@@ -38310,26 +36116,6 @@
 ]
 },
 {
-"surface": "鼻孔",
-"reading": "비공",
-"meaning": "콧구멍",
-"gongmu": 0,
-"hanjaRefs": [
-"鼻",
-"孔"
-]
-},
-{
-"surface": "鼻息",
-"reading": "비식",
-"meaning": "코로 쉬는 숨",
-"gongmu": 0,
-"hanjaRefs": [
-"鼻",
-"息"
-]
-},
-{
 "surface": "鼻水",
 "reading": "비수",
 "meaning": "콧물",
@@ -38364,6 +36150,1097 @@
 {
 "grade": "4급II",
 "data": [
+{
+"surface": "職場",
+"reading": "직장",
+"meaning": "직업을 가지고 일하는 곳",
+"gongmu": 0,
+"hanjaRefs": [
+"職",
+"場"
+]
+},
+{
+"surface": "記錄",
+"reading": "기록",
+"meaning": "나중에 보려고 적어 둔 글",
+"gongmu": 0,
+"hanjaRefs": [
+"記",
+"錄"
+]
+},
+{
+"surface": "主義",
+"reading": "주의",
+"meaning": "행동할 때 굳게 지키는 생각",
+"gongmu": 0,
+"hanjaRefs": [
+"主",
+"義"
+]
+},
+{
+"surface": "事務所",
+"reading": "사무소",
+"meaning": "사람들이 모여 일하는 곳",
+"gongmu": 0,
+"hanjaRefs": [
+"事",
+"務",
+"所"
+]
+},
+{
+"surface": "休息",
+"reading": "휴식",
+"meaning": "하던 일을 멈추고 잠시 쉼",
+"gongmu": 0,
+"hanjaRefs": [
+"休",
+"息"
+]
+},
+{
+"surface": "冬至",
+"reading": "동지",
+"meaning": "일 년 중 밤이 가장 긴 날",
+"gongmu": 1,
+"hanjaRefs": [
+"冬",
+"至"
+]
+},
+{
+"surface": "協同",
+"reading": "협동",
+"meaning": "서로 힘을 합쳐 함께함",
+"gongmu": 0,
+"hanjaRefs": [
+"協",
+"同"
+]
+},
+{
+"surface": "回數",
+"reading": "회수",
+"meaning": "일이 되풀이되는 횟수",
+"gongmu": 0,
+"hanjaRefs": [
+"回",
+"數"
+]
+},
+{
+"surface": "夏至",
+"reading": "하지",
+"meaning": "낮이 가장 긴 여름날",
+"gongmu": 1,
+"hanjaRefs": [
+"夏",
+"至"
+]
+},
+{
+"surface": "夫婦",
+"reading": "부부",
+"meaning": "남편과 아내를 뜻하는 말",
+"gongmu": 0,
+"hanjaRefs": [
+"夫",
+"婦"
+]
+},
+{
+"surface": "將來",
+"reading": "장래",
+"meaning": "앞으로 다가올 날",
+"gongmu": 0,
+"hanjaRefs": [
+"將",
+"來"
+]
+},
+{
+"surface": "往來",
+"reading": "왕래",
+"meaning": "서로 오고 가며 지냄",
+"gongmu": 0,
+"hanjaRefs": [
+"往",
+"來"
+]
+},
+{
+"surface": "未來",
+"reading": "미래",
+"meaning": "앞으로 올 시간이나 날들",
+"gongmu": 0,
+"hanjaRefs": [
+"未",
+"來"
+]
+},
+{
+"surface": "減少",
+"reading": "감소",
+"meaning": "수나 양이 줄어드는 것",
+"gongmu": 0,
+"hanjaRefs": [
+"減",
+"少"
+]
+},
+{
+"surface": "盛夏",
+"reading": "성하",
+"meaning": "가장 더운 한여름",
+"gongmu": 0,
+"hanjaRefs": [
+"盛",
+"夏"
+]
+},
+{
+"surface": "移住",
+"reading": "이주",
+"meaning": "다른 곳으로 집을 옮겨서 삶",
+"gongmu": 0,
+"hanjaRefs": [
+"移",
+"住"
+]
+},
+{
+"surface": "訪問",
+"reading": "방문",
+"meaning": "사람이나 장소를 찾아감",
+"gongmu": 0,
+"hanjaRefs": [
+"訪",
+"問"
+]
+},
+{
+"surface": "公務",
+"reading": "공무",
+"meaning": "나라나 사회의 공식적인 일",
+"gongmu": 0,
+"hanjaRefs": [
+"公",
+"務"
+]
+},
+{
+"surface": "利益",
+"reading": "이익",
+"meaning": "도움이나 이득이 되는 것",
+"gongmu": 0,
+"hanjaRefs": [
+"利",
+"益"
+]
+},
+{
+"surface": "反復",
+"reading": "반복",
+"meaning": "같은 일을 자꾸 되풀이함",
+"gongmu": 0,
+"hanjaRefs": [
+"反",
+"復"
+]
+},
+{
+"surface": "放送",
+"reading": "방송",
+"meaning": "소리와 영상을 널리 보냄",
+"gongmu": 1,
+"hanjaRefs": [
+"放",
+"送"
+]
+},
+{
+"surface": "會議",
+"reading": "회의",
+"meaning": "여럿이 모여서 의견 나누기",
+"gongmu": 0,
+"hanjaRefs": [
+"會",
+"議"
+]
+},
+{
+"surface": "消息",
+"reading": "소식",
+"meaning": "멀리 있는 사람의 안부나 소식",
+"gongmu": 0,
+"hanjaRefs": [
+"消",
+"息"
+]
+},
+{
+"surface": "精神",
+"reading": "정신",
+"meaning": "생각하고 판단하는 마음의 힘",
+"gongmu": 1,
+"hanjaRefs": [
+"精",
+"神"
+]
+},
+{
+"surface": "統計",
+"reading": "통계",
+"meaning": "많은 자료를 한데 모아 계산함",
+"gongmu": 0,
+"hanjaRefs": [
+"統",
+"計"
+]
+},
+{
+"surface": "職業",
+"reading": "직업",
+"meaning": "돈을 벌기 위해 늘 하는 일",
+"gongmu": 0,
+"hanjaRefs": [
+"職",
+"業"
+]
+},
+{
+"surface": "解放",
+"reading": "해방",
+"meaning": "구속이나 억압에서 벗어나게 함",
+"gongmu": 0,
+"hanjaRefs": [
+"解",
+"放"
+]
+},
+{
+"surface": "講堂",
+"reading": "강당",
+"meaning": "강의나 행사를 하는 큰 방",
+"gongmu": 0,
+"hanjaRefs": [
+"講",
+"堂"
+]
+},
+{
+"surface": "交際",
+"reading": "교제",
+"meaning": "서로 사귀며 친하게 지냄",
+"gongmu": 0,
+"hanjaRefs": [
+"交",
+"際"
+]
+},
+{
+"surface": "京鄕",
+"reading": "경향",
+"meaning": "서울과 시골 지역 모두",
+"gongmu": 0,
+"hanjaRefs": [
+"京",
+"鄕"
+]
+},
+{
+"surface": "保溫",
+"reading": "보온",
+"meaning": "따뜻한 온도를 그대로 지킴",
+"gongmu": 0,
+"hanjaRefs": [
+"保",
+"溫"
+]
+},
+{
+"surface": "個別",
+"reading": "개별",
+"meaning": "하나씩 따로 나뉨",
+"gongmu": 0,
+"hanjaRefs": [
+"個",
+"別"
+]
+},
+{
+"surface": "制度",
+"reading": "제도",
+"meaning": "사회의 질서를 위해 만든 규칙",
+"gongmu": 0,
+"hanjaRefs": [
+"制",
+"度"
+]
+},
+{
+"surface": "制服",
+"reading": "제복",
+"meaning": "규칙에 따라 맞춰 입는 옷",
+"gongmu": 0,
+"hanjaRefs": [
+"制",
+"服"
+]
+},
+{
+"surface": "博愛",
+"reading": "박애",
+"meaning": "모든 사람을 똑같이 사랑함",
+"gongmu": 0,
+"hanjaRefs": [
+"博",
+"愛"
+]
+},
+{
+"surface": "園藝",
+"reading": "원예",
+"meaning": "채소나 꽃을 가꾸고 기르는 일",
+"gongmu": 0,
+"hanjaRefs": [
+"園",
+"藝"
+]
+},
+{
+"surface": "志向",
+"reading": "지향",
+"meaning": "어떤 목표를 향해 감",
+"gongmu": 0,
+"hanjaRefs": [
+"志",
+"向"
+]
+},
+{
+"surface": "快速",
+"reading": "쾌속",
+"meaning": "매우 빠른 속도",
+"gongmu": 0,
+"hanjaRefs": [
+"快",
+"速"
+]
+},
+{
+"surface": "感想",
+"reading": "감상",
+"meaning": "어떤 일을 보고 느낀 생각",
+"gongmu": 0,
+"hanjaRefs": [
+"感",
+"想"
+]
+},
+{
+"surface": "態度",
+"reading": "태도",
+"meaning": "몸가짐과 행동의 모습",
+"gongmu": 0,
+"hanjaRefs": [
+"態",
+"度"
+]
+},
+{
+"surface": "接待",
+"reading": "접대",
+"meaning": "손님을 맞이해 대접함",
+"gongmu": 0,
+"hanjaRefs": [
+"接",
+"待"
+]
+},
+{
+"surface": "接近",
+"reading": "접근",
+"meaning": "가까이 다가감",
+"gongmu": 0,
+"hanjaRefs": [
+"接",
+"近"
+]
+},
+{
+"surface": "早朝",
+"reading": "조조",
+"meaning": "아주 이른 아침",
+"gongmu": 0,
+"hanjaRefs": [
+"早",
+"朝"
+]
+},
+{
+"surface": "油田",
+"reading": "유전",
+"meaning": "석유가 나오는 곳",
+"gongmu": 0,
+"hanjaRefs": [
+"油",
+"田"
+]
+},
+{
+"surface": "深夜",
+"reading": "심야",
+"meaning": "아주 깊은 밤",
+"gongmu": 0,
+"hanjaRefs": [
+"深",
+"夜"
+]
+},
+{
+"surface": "石器",
+"reading": "석기",
+"meaning": "돌로 만든 도구",
+"gongmu": 0,
+"hanjaRefs": [
+"石",
+"器"
+]
+},
+{
+"surface": "禮義",
+"reading": "예의",
+"meaning": "예절을 지키는 바른 태도",
+"gongmu": 0,
+"hanjaRefs": [
+"禮",
+"義"
+]
+},
+{
+"surface": "程度",
+"reading": "정도",
+"meaning": "알맞은 분량이나 수준",
+"gongmu": 0,
+"hanjaRefs": [
+"程",
+"度"
+]
+},
+{
+"surface": "統合",
+"reading": "통합",
+"meaning": "여럿을 하나로 합치는 일",
+"gongmu": 0,
+"hanjaRefs": [
+"統",
+"合"
+]
+},
+{
+"surface": "習得",
+"reading": "습득",
+"meaning": "배워서 내 것으로 만듦",
+"gongmu": 0,
+"hanjaRefs": [
+"習",
+"得"
+]
+},
+{
+"surface": "苦難",
+"reading": "고난",
+"meaning": "겪기 힘든 괴로운 일",
+"gongmu": 0,
+"hanjaRefs": [
+"苦",
+"難"
+]
+},
+{
+"surface": "言論",
+"reading": "언론",
+"meaning": "말과 글로 생각을 널리 알림",
+"gongmu": 0,
+"hanjaRefs": [
+"言",
+"論"
+]
+},
+{
+"surface": "近處",
+"reading": "근처",
+"meaning": "가까운 곳",
+"gongmu": 0,
+"hanjaRefs": [
+"近",
+"處"
+]
+},
+{
+"surface": "送別",
+"reading": "송별",
+"meaning": "떠나는 사람을 배웅함",
+"gongmu": 0,
+"hanjaRefs": [
+"送",
+"別"
+]
+},
+{
+"surface": "進行",
+"reading": "진행",
+"meaning": "앞으로 향해 나아감",
+"gongmu": 0,
+"hanjaRefs": [
+"進",
+"行"
+]
+},
+{
+"surface": "郡守",
+"reading": "군수",
+"meaning": "고을의 행정을 이끄는 대장",
+"gongmu": 0,
+"hanjaRefs": [
+"郡",
+"守"
+]
+},
+{
+"surface": "醫師",
+"reading": "의사",
+"meaning": "아픈 사람을 치료하는 사람",
+"gongmu": 0,
+"hanjaRefs": [
+"醫",
+"師"
+]
+},
+{
+"surface": "任務",
+"reading": "임무",
+"meaning": "책임지고 해야 하는 일",
+"gongmu": 0,
+"hanjaRefs": [
+"任",
+"務"
+]
+},
+{
+"surface": "害毒",
+"reading": "해독",
+"meaning": "해롭고 독함",
+"gongmu": 0,
+"hanjaRefs": [
+"害",
+"毒"
+]
+},
+{
+"surface": "法律",
+"reading": "법률",
+"meaning": "나라에서 정한 사회의 규칙",
+"gongmu": 0,
+"hanjaRefs": [
+"法",
+"律"
+]
+},
+{
+"surface": "絶望",
+"reading": "절망",
+"meaning": "희망이 없어 포기한 마음",
+"gongmu": 0,
+"hanjaRefs": [
+"絶",
+"望"
+]
+},
+{
+"surface": "觀察",
+"reading": "관찰",
+"meaning": "자세히 살펴봄",
+"gongmu": 0,
+"hanjaRefs": [
+"觀",
+"察"
+]
+},
+{
+"surface": "令狀",
+"reading": "영장",
+"meaning": "수사를 허락하는 공식 문서",
+"gongmu": 0,
+"hanjaRefs": [
+"令",
+"狀"
+]
+},
+{
+"surface": "位置",
+"reading": "위치",
+"meaning": "사람이나 물건의 자리",
+"gongmu": 0,
+"hanjaRefs": [
+"位",
+"置"
+]
+},
+{
+"surface": "保健",
+"reading": "보건",
+"meaning": "건강을 잘 돌보고 지킴",
+"gongmu": 0,
+"hanjaRefs": [
+"保",
+"健"
+]
+},
+{
+"surface": "健康",
+"reading": "건강",
+"meaning": "몸과 마음이 튼튼함",
+"gongmu": 0,
+"hanjaRefs": [
+"健",
+"康"
+]
+},
+{
+"surface": "列島",
+"reading": "열도",
+"meaning": "줄지어 늘어서 있는 섬들",
+"gongmu": 0,
+"hanjaRefs": [
+"列",
+"島"
+]
+},
+{
+"surface": "加減",
+"reading": "가감",
+"meaning": "숫자를 더하고 빼는 일",
+"gongmu": 0,
+"hanjaRefs": [
+"加",
+"減"
+]
+},
+{
+"surface": "受賞",
+"reading": "수상",
+"meaning": "상을 받는 일",
+"gongmu": 0,
+"hanjaRefs": [
+"受",
+"賞"
+]
+},
+{
+"surface": "單位",
+"reading": "단위",
+"meaning": "수를 세거나 재는 기준",
+"gongmu": 0,
+"hanjaRefs": [
+"單",
+"位"
+]
+},
+{
+"surface": "增加",
+"reading": "증가",
+"meaning": "수나 양이 늘어남",
+"gongmu": 1,
+"hanjaRefs": [
+"增",
+"加"
+]
+},
+{
+"surface": "容許",
+"reading": "용허",
+"meaning": "받아들이고 허락함",
+"gongmu": 0,
+"hanjaRefs": [
+"容",
+"許"
+]
+},
+{
+"surface": "容量",
+"reading": "용량",
+"meaning": "담을 수 있는 크기나 양",
+"gongmu": 0,
+"hanjaRefs": [
+"容",
+"量"
+]
+},
+{
+"surface": "寫眞",
+"reading": "사진",
+"meaning": "카메라로 찍은 모습",
+"gongmu": 0,
+"hanjaRefs": [
+"寫",
+"眞"
+]
+},
+{
+"surface": "建設",
+"reading": "건설",
+"meaning": "건물이나 시설을 새로 지음",
+"gongmu": 0,
+"hanjaRefs": [
+"建",
+"設"
+]
+},
+{
+"surface": "志願",
+"reading": "지원",
+"meaning": "원하는 곳에 들어가기를 바람",
+"gongmu": 0,
+"hanjaRefs": [
+"志",
+"願"
+]
+},
+{
+"surface": "思想",
+"reading": "사상",
+"meaning": "어떤 사물에 대한 생각",
+"gongmu": 1,
+"hanjaRefs": [
+"思",
+"想"
+]
+},
+{
+"surface": "患難",
+"reading": "환난",
+"meaning": "걱정거리와 힘든 재난",
+"gongmu": 0,
+"hanjaRefs": [
+"患",
+"難"
+]
+},
+{
+"surface": "慶祝",
+"reading": "경축",
+"meaning": "기쁜 일을 함께 축하하는 일",
+"gongmu": 0,
+"hanjaRefs": [
+"慶",
+"祝"
+]
+},
+{
+"surface": "指示",
+"reading": "지시",
+"meaning": "가리켜 보여 줌",
+"gongmu": 0,
+"hanjaRefs": [
+"指",
+"示"
+]
+},
+{
+"surface": "提案",
+"reading": "제안",
+"meaning": "의견을 내놓음",
+"gongmu": 0,
+"hanjaRefs": [
+"提",
+"案"
+]
+},
+{
+"surface": "支給",
+"reading": "지급",
+"meaning": "돈이나 물건을 나누어 줌",
+"gongmu": 0,
+"hanjaRefs": [
+"支",
+"給"
+]
+},
+{
+"surface": "救助",
+"reading": "구조",
+"meaning": "위험에 빠진 사람을 구해 줌",
+"gongmu": 0,
+"hanjaRefs": [
+"救",
+"助"
+]
+},
+{
+"surface": "救濟",
+"reading": "구제",
+"meaning": "어려움에 처한 사람을 도와줌",
+"gongmu": 0,
+"hanjaRefs": [
+"救",
+"濟"
+]
+},
+{
+"surface": "救護",
+"reading": "구호",
+"meaning": "재난에서 사람을 도와 보호함",
+"gongmu": 0,
+"hanjaRefs": [
+"救",
+"護"
+]
+},
+{
+"surface": "暗示",
+"reading": "암시",
+"meaning": "넌지시 힌트를 주는 일",
+"gongmu": 1,
+"hanjaRefs": [
+"暗",
+"示"
+]
+},
+{
+"surface": "暗黑",
+"reading": "암흑",
+"meaning": "아무것도 안 보이는 캄캄함",
+"gongmu": 0,
+"hanjaRefs": [
+"暗",
+"黑"
+]
+},
+{
+"surface": "最低",
+"reading": "최저",
+"meaning": "가장 낮은 것",
+"gongmu": 0,
+"hanjaRefs": [
+"最",
+"低"
+]
+},
+{
+"surface": "檢査",
+"reading": "검사",
+"meaning": "상태를 자세히 조사해 봄",
+"gongmu": 0,
+"hanjaRefs": [
+"檢",
+"査"
+]
+},
+{
+"surface": "止血",
+"reading": "지혈",
+"meaning": "흘러나오는 피를 멈추게 함",
+"gongmu": 0,
+"hanjaRefs": [
+"止",
+"血"
+]
+},
+{
+"surface": "漁港",
+"reading": "어항",
+"meaning": "고기잡이배가 드나드는 항구",
+"gongmu": 0,
+"hanjaRefs": [
+"漁",
+"港"
+]
+},
+{
+"surface": "災難",
+"reading": "재난",
+"meaning": "뜻밖에 만난 큰 불행과 고난",
+"gongmu": 0,
+"hanjaRefs": [
+"災",
+"難"
+]
+},
+{
+"surface": "炭素",
+"reading": "탄소",
+"meaning": "숯과 석탄을 이루는 원소",
+"gongmu": 0,
+"hanjaRefs": [
+"炭",
+"素"
+]
+},
+{
+"surface": "無限",
+"reading": "무한",
+"meaning": "끝이나 한계가 없음",
+"gongmu": 0,
+"hanjaRefs": [
+"無",
+"限"
+]
+},
+{
+"surface": "牛肉",
+"reading": "우육",
+"meaning": "소고기",
+"gongmu": 0,
+"hanjaRefs": [
+"牛",
+"肉"
+]
+},
+{
+"surface": "祝祭",
+"reading": "축제",
+"meaning": "축하하며 벌이는 큰 잔치",
+"gongmu": 0,
+"hanjaRefs": [
+"祝",
+"祭"
+]
+},
+{
+"surface": "禁止",
+"reading": "금지",
+"meaning": "하지 못하도록 막음",
+"gongmu": 0,
+"hanjaRefs": [
+"禁",
+"止"
+]
+},
+{
+"surface": "競走",
+"reading": "경주",
+"meaning": "달려서 빠르기를 겨루는 시합",
+"gongmu": 0,
+"hanjaRefs": [
+"競",
+"走"
+]
+},
+{
+"surface": "經費",
+"reading": "경비",
+"meaning": "일을 하는 데 드는 돈",
+"gongmu": 0,
+"hanjaRefs": [
+"經",
+"費"
+]
+},
+{
+"surface": "考試",
+"reading": "고시",
+"meaning": "자격을 얻기 위한 시험",
+"gongmu": 0,
+"hanjaRefs": [
+"考",
+"試"
+]
+},
+{
+"surface": "船員",
+"reading": "선원",
+"meaning": "배에서 일하는 사람",
+"gongmu": 0,
+"hanjaRefs": [
+"船",
+"員"
+]
+},
+{
+"surface": "葉脈",
+"reading": "엽맥",
+"meaning": "나뭇잎 표면의 가느다란 줄",
+"gongmu": 0,
+"hanjaRefs": [
+"葉",
+"脈"
+]
+},
+{
+"surface": "謝罪",
+"reading": "사죄",
+"meaning": "잘못에 대해 용서를 비는 것",
+"gongmu": 0,
+"hanjaRefs": [
+"謝",
+"罪"
+]
+},
+{
+"surface": "貯蓄",
+"reading": "저축",
+"meaning": "돈을 아껴서 모아 둠",
+"gongmu": 0,
+"hanjaRefs": [
+"貯",
+"蓄"
+]
+},
+{
+"surface": "輕快",
+"reading": "경쾌",
+"meaning": "가볍고 상쾌함",
+"gongmu": 0,
+"hanjaRefs": [
+"輕",
+"快"
+]
+},
+{
+"surface": "輕視",
+"reading": "경시",
+"meaning": "가볍게 여기고 무시함",
+"gongmu": 0,
+"hanjaRefs": [
+"輕",
+"視"
+]
+},
+{
+"surface": "退院",
+"reading": "퇴원",
+"meaning": "치료가 끝나 병원을 나옴",
+"gongmu": 0,
+"hanjaRefs": [
+"退",
+"院"
+]
+},
+{
+"surface": "領收",
+"reading": "영수",
+"meaning": "돈이나 물건을 받아들임",
+"gongmu": 0,
+"hanjaRefs": [
+"領",
+"收"
+]
+},
+{
+"surface": "鼻息",
+"reading": "비식",
+"meaning": "코로 쉬는 숨",
+"gongmu": 0,
+"hanjaRefs": [
+"鼻",
+"息"
+]
+},
 {
 "surface": "一圓",
 "reading": "일원",
@@ -39160,16 +38037,6 @@
 "hanjaRefs": [
 "保",
 "全"
-]
-},
-{
-"surface": "保存",
-"reading": "보존",
-"meaning": "상하지 않게 잘 보관함",
-"gongmu": 0,
-"hanjaRefs": [
-"保",
-"存"
 ]
 },
 {
@@ -41719,16 +40586,6 @@
 ]
 },
 {
-"surface": "味覺",
-"reading": "미각",
-"meaning": "맛을 느끼는 감각",
-"gongmu": 0,
-"hanjaRefs": [
-"味",
-"覺"
-]
-},
-{
 "surface": "呼價",
 "reading": "호가",
 "meaning": "물건의 가격을 부름",
@@ -43258,16 +42115,6 @@
 ]
 },
 {
-"surface": "官吏",
-"reading": "관리",
-"meaning": "나랏일을 하는 관리",
-"gongmu": 0,
-"hanjaRefs": [
-"官",
-"吏"
-]
-},
-{
 "surface": "官員",
 "reading": "관원",
 "meaning": "관청에서 일하는 사람",
@@ -43388,16 +42235,6 @@
 "hanjaRefs": [
 "宮",
 "庭"
-]
-},
-{
-"surface": "宮殿",
-"reading": "궁전",
-"meaning": "왕이 살던 크고 화려한 집",
-"gongmu": 0,
-"hanjaRefs": [
-"宮",
-"殿"
 ]
 },
 {
@@ -43577,16 +42414,6 @@
 "hanjaRefs": [
 "富",
 "者"
-]
-},
-{
-"surface": "富裕",
-"reading": "부유",
-"meaning": "돈과 재물이 아주 넉넉함",
-"gongmu": 0,
-"hanjaRefs": [
-"富",
-"裕"
 ]
 },
 {
@@ -44291,16 +43118,6 @@
 "hanjaRefs": [
 "康",
 "健"
-]
-},
-{
-"surface": "康寧",
-"reading": "강녕",
-"meaning": "몸과 마음이 편안함",
-"gongmu": 0,
-"hanjaRefs": [
-"康",
-"寧"
 ]
 },
 {
@@ -45035,16 +43852,6 @@
 ]
 },
 {
-"surface": "想像",
-"reading": "상상",
-"meaning": "마음속으로 그려 보는 생각",
-"gongmu": 1,
-"hanjaRefs": [
-"想",
-"像"
-]
-},
-{
 "surface": "想起",
 "reading": "상기",
 "meaning": "지난 일을 다시 생각함",
@@ -45313,16 +44120,6 @@
 ]
 },
 {
-"surface": "拜謁",
-"reading": "배알",
-"meaning": "높은 사람을 찾아가 뵘",
-"gongmu": 0,
-"hanjaRefs": [
-"拜",
-"謁"
-]
-},
-{
 "surface": "指令",
 "reading": "지령",
 "meaning": "하라고 시키는 명령",
@@ -45452,16 +44249,6 @@
 "hanjaRefs": [
 "接",
 "續"
-]
-},
-{
-"surface": "推測",
-"reading": "추측",
-"meaning": "미루어 짐작하여 생각함",
-"gongmu": 1,
-"hanjaRefs": [
-"推",
-"測"
 ]
 },
 {
@@ -46527,16 +45314,6 @@
 ]
 },
 {
-"surface": "星座",
-"reading": "성좌",
-"meaning": "별들을 이어 만든 모양",
-"gongmu": 0,
-"hanjaRefs": [
-"星",
-"座"
-]
-},
-{
 "surface": "星雲",
 "reading": "성운",
 "meaning": "별과 가스가 모인 구름",
@@ -47315,16 +46092,6 @@
 ]
 },
 {
-"surface": "檀君",
-"reading": "단군",
-"meaning": "고조선을 세운 첫 임금",
-"gongmu": 0,
-"hanjaRefs": [
-"檀",
-"君"
-]
-},
-{
 "surface": "檀施",
 "reading": "단시",
 "meaning": "자비로운 마음으로 베풂",
@@ -47884,16 +46651,6 @@
 "hanjaRefs": [
 "毛",
 "蟲"
-]
-},
-{
-"surface": "毛髮",
-"reading": "모발",
-"meaning": "머리카락을 비롯한 몸의 털",
-"gongmu": 0,
-"hanjaRefs": [
-"毛",
-"髮"
 ]
 },
 {
@@ -49031,16 +47788,6 @@
 ]
 },
 {
-"surface": "狀況",
-"reading": "상황",
-"meaning": "일이 되어 가는 형편",
-"gongmu": 0,
-"hanjaRefs": [
-"狀",
-"況"
-]
-},
-{
 "surface": "玉人",
 "reading": "옥인",
 "meaning": "옥처럼 아름다운 사람",
@@ -49763,16 +48510,6 @@
 "hanjaRefs": [
 "眼",
 "識"
-]
-},
-{
-"surface": "督勵",
-"reading": "독려",
-"meaning": "일을 잘하도록 격려함",
-"gongmu": 0,
-"hanjaRefs": [
-"督",
-"勵"
 ]
 },
 {
@@ -51096,16 +49833,6 @@
 ]
 },
 {
-"surface": "續編",
-"reading": "속편",
-"meaning": "이어서 나오는 다음 편",
-"gongmu": 0,
-"hanjaRefs": [
-"續",
-"編"
-]
-},
-{
 "surface": "續續",
 "reading": "속속",
 "meaning": "자꾸 끊임없이 이어지는",
@@ -51636,16 +50363,6 @@
 ]
 },
 {
-"surface": "脈絡",
-"reading": "맥락",
-"meaning": "서로 이어져 있는 흐름",
-"gongmu": 0,
-"hanjaRefs": [
-"脈",
-"絡"
-]
-},
-{
 "surface": "自伐",
 "reading": "자벌",
 "meaning": "자신의 공을 스스로 자랑함",
@@ -51857,16 +50574,6 @@
 "hanjaRefs": [
 "舊",
 "態"
-]
-},
-{
-"surface": "舍廊",
-"reading": "사랑",
-"meaning": "바깥주인이 손님을 맞는 방",
-"gongmu": 0,
-"hanjaRefs": [
-"舍",
-"廊"
 ]
 },
 {
@@ -53761,16 +52468,6 @@
 ]
 },
 {
-"surface": "豆腐",
-"reading": "두부",
-"meaning": "콩을 갈아 만든 부드러운 음식",
-"gongmu": 0,
-"hanjaRefs": [
-"豆",
-"腐"
-]
-},
-{
 "surface": "豊富",
 "reading": "풍부",
 "meaning": "넉넉하고 많음",
@@ -54097,16 +52794,6 @@
 "hanjaRefs": [
 "起",
 "床"
-]
-},
-{
-"surface": "起源",
-"reading": "기원",
-"meaning": "사물이 처음으로 생김",
-"gongmu": 0,
-"hanjaRefs": [
-"起",
-"源"
 ]
 },
 {
@@ -54943,16 +53630,6 @@
 ]
 },
 {
-"surface": "銅錢",
-"reading": "동전",
-"meaning": "구리로 만든 동전",
-"gongmu": 0,
-"hanjaRefs": [
-"銅",
-"錢"
-]
-},
-{
 "surface": "錄音",
 "reading": "녹음",
 "meaning": "소리를 기계에 담는 것",
@@ -55327,16 +54004,6 @@
 "hanjaRefs": [
 "雄",
 "飛"
-]
-},
-{
-"surface": "難易",
-"reading": "난이",
-"meaning": "어렵고 쉬운 정도",
-"gongmu": 0,
-"hanjaRefs": [
-"難",
-"易"
 ]
 },
 {
@@ -56044,12 +54711,642 @@
 "齒",
 "藥"
 ]
+},
+{
+"surface": "感謝",
+"reading": "감사",
+"meaning": "고마운 마음을 나타내는 인사",
+"gongmu": 0,
+"hanjaRefs": [
+"感",
+"謝"
+]
 }
 ]
 },
 {
 "grade": "4급",
 "data": [
+{
+"surface": "姓氏",
+"reading": "성씨",
+"meaning": "사람의 성을 높여 부르는 말",
+"gongmu": 0,
+"hanjaRefs": [
+"姓",
+"氏"
+]
+},
+{
+"surface": "地域",
+"reading": "지역",
+"meaning": "일정한 범위의 땅",
+"gongmu": 0,
+"hanjaRefs": [
+"地",
+"域"
+]
+},
+{
+"surface": "夏季",
+"reading": "하계",
+"meaning": "더운 여름철",
+"gongmu": 0,
+"hanjaRefs": [
+"夏",
+"季"
+]
+},
+{
+"surface": "郵便",
+"reading": "우편",
+"meaning": "편지나 물건을 배달하는 일",
+"gongmu": 0,
+"hanjaRefs": [
+"郵",
+"便"
+]
+},
+{
+"surface": "面積",
+"reading": "면적",
+"meaning": "평평한 땅이나 물건의 넓이",
+"gongmu": 0,
+"hanjaRefs": [
+"面",
+"積"
+]
+},
+{
+"surface": "革命",
+"reading": "혁명",
+"meaning": "사회 제도를 완전히 뜯어고침",
+"gongmu": 1,
+"hanjaRefs": [
+"革",
+"命"
+]
+},
+{
+"surface": "弱點",
+"reading": "약점",
+"meaning": "남보다 부족하고 약한 부분",
+"gongmu": 0,
+"hanjaRefs": [
+"弱",
+"點"
+]
+},
+{
+"surface": "積雪",
+"reading": "적설",
+"meaning": "땅 위에 소복하게 쌓인 눈",
+"gongmu": 0,
+"hanjaRefs": [
+"積",
+"雪"
+]
+},
+{
+"surface": "儀式",
+"reading": "의식",
+"meaning": "정해진 순서대로 치르는 행사",
+"gongmu": 0,
+"hanjaRefs": [
+"儀",
+"式"
+]
+},
+{
+"surface": "優勝",
+"reading": "우승",
+"meaning": "경기나 시합에서 첫째로 이김",
+"gongmu": 0,
+"hanjaRefs": [
+"優",
+"勝"
+]
+},
+{
+"surface": "優美",
+"reading": "우미",
+"meaning": "우아하고 매우 아름다움",
+"gongmu": 0,
+"hanjaRefs": [
+"優",
+"美"
+]
+},
+{
+"surface": "區域",
+"reading": "구역",
+"meaning": "일정한 경계를 그어 나눈 지역",
+"gongmu": 0,
+"hanjaRefs": [
+"區",
+"域"
+]
+},
+{
+"surface": "多樣",
+"reading": "다양",
+"meaning": "여러 가지 모양이나 종류",
+"gongmu": 0,
+"hanjaRefs": [
+"多",
+"樣"
+]
+},
+{
+"surface": "存在",
+"reading": "존재",
+"meaning": "실제로 세상에 있음",
+"gongmu": 0,
+"hanjaRefs": [
+"存",
+"在"
+]
+},
+{
+"surface": "宣言",
+"reading": "선언",
+"meaning": "자신의 뜻을 널리 알림",
+"gongmu": 1,
+"hanjaRefs": [
+"宣",
+"言"
+]
+},
+{
+"surface": "座席",
+"reading": "좌석",
+"meaning": "앉을 수 있는 자리",
+"gongmu": 0,
+"hanjaRefs": [
+"座",
+"席"
+]
+},
+{
+"surface": "待機",
+"reading": "대기",
+"meaning": "준비하고 기다림",
+"gongmu": 0,
+"hanjaRefs": [
+"待",
+"機"
+]
+},
+{
+"surface": "待遇",
+"reading": "대우",
+"meaning": "사람을 대하는 태도나 대접",
+"gongmu": 0,
+"hanjaRefs": [
+"待",
+"遇"
+]
+},
+{
+"surface": "感激",
+"reading": "감격",
+"meaning": "크게 감동하며 기뻐함",
+"gongmu": 0,
+"hanjaRefs": [
+"感",
+"激"
+]
+},
+{
+"surface": "招待",
+"reading": "초대",
+"meaning": "잔치나 모임에 부름",
+"gongmu": 0,
+"hanjaRefs": [
+"招",
+"待"
+]
+},
+{
+"surface": "映畫",
+"reading": "영화",
+"meaning": "화면에 영상을 보여주는 예술",
+"gongmu": 0,
+"hanjaRefs": [
+"映",
+"畫"
+]
+},
+{
+"surface": "服從",
+"reading": "복종",
+"meaning": "시키는 대로 잘 따름",
+"gongmu": 0,
+"hanjaRefs": [
+"服",
+"從"
+]
+},
+{
+"surface": "根源",
+"reading": "근원",
+"meaning": "물줄기가 시작되는 곳",
+"gongmu": 0,
+"hanjaRefs": [
+"根",
+"源"
+]
+},
+{
+"surface": "溫泉",
+"reading": "온천",
+"meaning": "따뜻한 물이 솟는 샘",
+"gongmu": 0,
+"hanjaRefs": [
+"溫",
+"泉"
+]
+},
+{
+"surface": "目標",
+"reading": "목표",
+"meaning": "이루고자 하는 대상",
+"gongmu": 0,
+"hanjaRefs": [
+"目",
+"標"
+]
+},
+{
+"surface": "禮儀",
+"reading": "예의",
+"meaning": "지켜야 할 바른 태도",
+"gongmu": 0,
+"hanjaRefs": [
+"禮",
+"儀"
+]
+},
+{
+"surface": "米穀",
+"reading": "미곡",
+"meaning": "껍질을 벗겨 낸 쌀알",
+"gongmu": 0,
+"hanjaRefs": [
+"米",
+"穀"
+]
+},
+{
+"surface": "苦痛",
+"reading": "고통",
+"meaning": "몸이나 마음의 아픔",
+"gongmu": 0,
+"hanjaRefs": [
+"苦",
+"痛"
+]
+},
+{
+"surface": "機能",
+"reading": "기능",
+"meaning": "물건이 하는 역할",
+"gongmu": 0,
+"hanjaRefs": [
+"機",
+"能"
+]
+},
+{
+"surface": "冷靜",
+"reading": "냉정",
+"meaning": "흥분하지 않고 차분함",
+"gongmu": 0,
+"hanjaRefs": [
+"冷",
+"靜"
+]
+},
+{
+"surface": "去就",
+"reading": "거취",
+"meaning": "나아가거나 물러서는 행동",
+"gongmu": 0,
+"hanjaRefs": [
+"去",
+"就"
+]
+},
+{
+"surface": "嚴寒",
+"reading": "엄한",
+"meaning": "매우 매서운 추위",
+"gongmu": 0,
+"hanjaRefs": [
+"嚴",
+"寒"
+]
+},
+{
+"surface": "因緣",
+"reading": "인연",
+"meaning": "사람들 사이의 깊은 관계",
+"gongmu": 0,
+"hanjaRefs": [
+"因",
+"緣"
+]
+},
+{
+"surface": "孤島",
+"reading": "고도",
+"meaning": "홀로 멀리 떨어진 외로운 섬",
+"gongmu": 0,
+"hanjaRefs": [
+"孤",
+"島"
+]
+},
+{
+"surface": "打擊",
+"reading": "타격",
+"meaning": "세게 때리거나 치는 일",
+"gongmu": 0,
+"hanjaRefs": [
+"打",
+"擊"
+]
+},
+{
+"surface": "招致",
+"reading": "초치",
+"meaning": "불러서 오게 함",
+"gongmu": 0,
+"hanjaRefs": [
+"招",
+"致"
+]
+},
+{
+"surface": "改革",
+"reading": "개혁",
+"meaning": "제도나 조직을 새롭게 고침",
+"gongmu": 0,
+"hanjaRefs": [
+"改",
+"革"
+]
+},
+{
+"surface": "條件",
+"reading": "조건",
+"meaning": "일을 할 때 필요한 약속",
+"gongmu": 0,
+"hanjaRefs": [
+"條",
+"件"
+]
+},
+{
+"surface": "爭點",
+"reading": "쟁점",
+"meaning": "서로 다투는 핵심 내용",
+"gongmu": 0,
+"hanjaRefs": [
+"爭",
+"點"
+]
+},
+{
+"surface": "牛乳",
+"reading": "우유",
+"meaning": "소에서 짜낸 하얀 젖",
+"gongmu": 0,
+"hanjaRefs": [
+"牛",
+"乳"
+]
+},
+{
+"surface": "犯罪",
+"reading": "범죄",
+"meaning": "법을 어긴 나쁜 짓",
+"gongmu": 0,
+"hanjaRefs": [
+"犯",
+"罪"
+]
+},
+{
+"surface": "看板",
+"reading": "간판",
+"meaning": "가게 이름을 써서 붙인 판",
+"gongmu": 0,
+"hanjaRefs": [
+"看",
+"板"
+]
+},
+{
+"surface": "示範",
+"reading": "시범",
+"meaning": "모범을 직접 보여 줌",
+"gongmu": 0,
+"hanjaRefs": [
+"示",
+"範"
+]
+},
+{
+"surface": "紅葉",
+"reading": "홍엽",
+"meaning": "가을에 빨갛게 물든 잎",
+"gongmu": 0,
+"hanjaRefs": [
+"紅",
+"葉"
+]
+},
+{
+"surface": "考慮",
+"reading": "고려",
+"meaning": "이리저리 깊이 생각함",
+"gongmu": 1,
+"hanjaRefs": [
+"考",
+"慮"
+]
+},
+{
+"surface": "談判",
+"reading": "담판",
+"meaning": "이야기하여 결판을 지음",
+"gongmu": 0,
+"hanjaRefs": [
+"談",
+"判"
+]
+},
+{
+"surface": "資料",
+"reading": "자료",
+"meaning": "연구나 조사에 쓰이는 재료",
+"gongmu": 0,
+"hanjaRefs": [
+"資",
+"料"
+]
+},
+{
+"surface": "逃亡",
+"reading": "도망",
+"meaning": "피하거나 쫓겨서 달아남",
+"gongmu": 0,
+"hanjaRefs": [
+"逃",
+"亡"
+]
+},
+{
+"surface": "選擇",
+"reading": "선택",
+"meaning": "원하는 것을 골라 뽑음",
+"gongmu": 0,
+"hanjaRefs": [
+"選",
+"擇"
+]
+},
+{
+"surface": "雄壯",
+"reading": "웅장",
+"meaning": "규모가 크고 당당함",
+"gongmu": 0,
+"hanjaRefs": [
+"雄",
+"壯"
+]
+},
+{
+"surface": "領域",
+"reading": "영역",
+"meaning": "힘이나 법이 미치는 구역",
+"gongmu": 0,
+"hanjaRefs": [
+"領",
+"域"
+]
+},
+{
+"surface": "鼻孔",
+"reading": "비공",
+"meaning": "콧구멍",
+"gongmu": 0,
+"hanjaRefs": [
+"鼻",
+"孔"
+]
+},
+{
+"surface": "保存",
+"reading": "보존",
+"meaning": "상하지 않게 잘 보관함",
+"gongmu": 0,
+"hanjaRefs": [
+"保",
+"存"
+]
+},
+{
+"surface": "味覺",
+"reading": "미각",
+"meaning": "맛을 느끼는 감각",
+"gongmu": 0,
+"hanjaRefs": [
+"味",
+"覺"
+]
+},
+{
+"surface": "推測",
+"reading": "추측",
+"meaning": "미루어 짐작하여 생각함",
+"gongmu": 1,
+"hanjaRefs": [
+"推",
+"測"
+]
+},
+{
+"surface": "星座",
+"reading": "성좌",
+"meaning": "별들을 이어 만든 모양",
+"gongmu": 0,
+"hanjaRefs": [
+"星",
+"座"
+]
+},
+{
+"surface": "檀君",
+"reading": "단군",
+"meaning": "고조선을 세운 첫 임금",
+"gongmu": 0,
+"hanjaRefs": [
+"檀",
+"君"
+]
+},
+{
+"surface": "毛髮",
+"reading": "모발",
+"meaning": "머리카락을 비롯한 몸의 털",
+"gongmu": 0,
+"hanjaRefs": [
+"毛",
+"髮"
+]
+},
+{
+"surface": "狀況",
+"reading": "상황",
+"meaning": "일이 되어 가는 형편",
+"gongmu": 0,
+"hanjaRefs": [
+"狀",
+"況"
+]
+},
+{
+"surface": "起源",
+"reading": "기원",
+"meaning": "사물이 처음으로 생김",
+"gongmu": 0,
+"hanjaRefs": [
+"起",
+"源"
+]
+},
+{
+"surface": "銅錢",
+"reading": "동전",
+"meaning": "구리로 만든 동전",
+"gongmu": 0,
+"hanjaRefs": [
+"銅",
+"錢"
+]
+},
+{
+"surface": "難易",
+"reading": "난이",
+"meaning": "어렵고 쉬운 정도",
+"gongmu": 0,
+"hanjaRefs": [
+"難",
+"易"
+]
+},
 {
 "surface": "一段落",
 "reading": "일단락",
@@ -56069,16 +55366,6 @@
 "hanjaRefs": [
 "一",
 "環"
-]
-},
-{
-"surface": "丁寧",
-"reading": "정녕",
-"meaning": "친절하고 정성을 다함",
-"gongmu": 0,
-"hanjaRefs": [
-"丁",
-"寧"
 ]
 },
 {
@@ -56296,17 +55583,6 @@
 "hanjaRefs": [
 "主",
 "管"
-]
-},
-{
-"surface": "乘車券",
-"reading": "승차권",
-"meaning": "버스나 열차를 타는 표",
-"gongmu": 0,
-"hanjaRefs": [
-"乘",
-"車",
-"券"
 ]
 },
 {
@@ -56867,26 +56143,6 @@
 ]
 },
 {
-"surface": "倉庫",
-"reading": "창고",
-"meaning": "물건을 넣어 두는 건물",
-"gongmu": 0,
-"hanjaRefs": [
-"倉",
-"庫"
-]
-},
-{
-"surface": "候補",
-"reading": "후보",
-"meaning": "선거에 뽑히려고 나선 사람",
-"gongmu": 0,
-"hanjaRefs": [
-"候",
-"補"
-]
-},
-{
 "surface": "候鳥",
 "reading": "후조",
 "meaning": "계절에 따라 이동하는 새",
@@ -57008,16 +56264,6 @@
 "傾",
 "向",
 "性"
-]
-},
-{
-"surface": "傾斜",
-"reading": "경사",
-"meaning": "비스듬히 기울어진 상태",
-"gongmu": 0,
-"hanjaRefs": [
-"傾",
-"斜"
 ]
 },
 {
@@ -57861,16 +57107,6 @@
 ]
 },
 {
-"surface": "刺激",
-"reading": "자극",
-"meaning": "느낌이나 반응을 일으킴",
-"gongmu": 0,
-"hanjaRefs": [
-"刺",
-"激"
-]
-},
-{
 "surface": "刻印",
 "reading": "각인",
 "meaning": "기억이나 마음에 깊이 새김",
@@ -58189,16 +57425,6 @@
 "告",
 "辭",
 "職"
-]
-},
-{
-"surface": "勸誘",
-"reading": "권유",
-"meaning": "어떤 일을 하라고 권함",
-"gongmu": 0,
-"hanjaRefs": [
-"勸",
-"誘"
 ]
 },
 {
@@ -58536,16 +57762,6 @@
 "hanjaRefs": [
 "厚",
 "生"
-]
-},
-{
-"surface": "厚薄",
-"reading": "후박",
-"meaning": "두껍고 얇음",
-"gongmu": 0,
-"hanjaRefs": [
-"厚",
-"薄"
 ]
 },
 {
@@ -59270,16 +58486,6 @@
 ]
 },
 {
-"surface": "困惑",
-"reading": "곤혹",
-"meaning": "곤란하고 당황함",
-"gongmu": 0,
-"hanjaRefs": [
-"困",
-"惑"
-]
-},
-{
 "surface": "困窮",
 "reading": "곤궁",
 "meaning": "가난해서 살기 어려움",
@@ -59430,16 +58636,6 @@
 "hanjaRefs": [
 "均",
 "等"
-]
-},
-{
-"surface": "均衡",
-"reading": "균형",
-"meaning": "한쪽으로 기울지 않은 상태",
-"gongmu": 0,
-"hanjaRefs": [
-"均",
-"衡"
 ]
 },
 {
@@ -60005,16 +59201,6 @@
 ]
 },
 {
-"surface": "妨礙",
-"reading": "방애",
-"meaning": "방해하고 가로막음",
-"gongmu": 0,
-"hanjaRefs": [
-"妨",
-"礙"
-]
-},
-{
 "surface": "妹兄",
 "reading": "매형",
 "meaning": "누나의 남편",
@@ -60188,16 +59374,6 @@
 "hanjaRefs": [
 "威",
 "嚴"
-]
-},
-{
-"surface": "婚姻",
-"reading": "혼인",
-"meaning": "부부의 인연을 맺음",
-"gongmu": 0,
-"hanjaRefs": [
-"婚",
-"姻"
 ]
 },
 {
@@ -60517,26 +59693,6 @@
 "hanjaRefs": [
 "寄",
 "與"
-]
-},
-{
-"surface": "寄贈",
-"reading": "기증",
-"meaning": "선물로 물건을 거저 줌",
-"gongmu": 0,
-"hanjaRefs": [
-"寄",
-"贈"
-]
-},
-{
-"surface": "寄附",
-"reading": "기부",
-"meaning": "남을 돕기 위해 거저 내놓음",
-"gongmu": 1,
-"hanjaRefs": [
-"寄",
-"附"
 ]
 },
 {
@@ -61059,16 +60215,6 @@
 ]
 },
 {
-"surface": "屈辱",
-"reading": "굴욕",
-"meaning": "억눌려 부끄러움을 당함",
-"gongmu": 0,
-"hanjaRefs": [
-"屈",
-"辱"
-]
-},
-{
 "surface": "層次",
 "reading": "층차",
 "meaning": "층층이 쌓인 차례",
@@ -61403,16 +60549,6 @@
 ]
 },
 {
-"surface": "帳簿",
-"reading": "장부",
-"meaning": "돈과 물건을 적는 책",
-"gongmu": 0,
-"hanjaRefs": [
-"帳",
-"簿"
-]
-},
-{
 "surface": "干支",
 "reading": "간지",
 "meaning": "해와 날을 세는 순서",
@@ -61420,16 +60556,6 @@
 "hanjaRefs": [
 "干",
 "支"
-]
-},
-{
-"surface": "干涉",
-"reading": "간섭",
-"meaning": "남의 일에 참견하는 것",
-"gongmu": 1,
-"hanjaRefs": [
-"干",
-"涉"
 ]
 },
 {
@@ -61640,16 +60766,6 @@
 ]
 },
 {
-"surface": "彈丸",
-"reading": "탄환",
-"meaning": "총이나 대포에서 쏘는 총알",
-"gongmu": 0,
-"hanjaRefs": [
-"彈",
-"丸"
-]
-},
-{
 "surface": "彈力",
 "reading": "탄력",
 "meaning": "용수철처럼 튕기는 힘",
@@ -61677,16 +60793,6 @@
 "hanjaRefs": [
 "彈",
 "藥"
-]
-},
-{
-"surface": "彫刻",
-"reading": "조각",
-"meaning": "나무나 돌을 깎아 입체로 만듦",
-"gongmu": 0,
-"hanjaRefs": [
-"彫",
-"刻"
 ]
 },
 {
@@ -61985,16 +61091,6 @@
 ]
 },
 {
-"surface": "恐龍",
-"reading": "공룡",
-"meaning": "아주 옛날에 살던 거대한 동물",
-"gongmu": 0,
-"hanjaRefs": [
-"恐",
-"龍"
-]
-},
-{
 "surface": "恨歎",
 "reading": "한탄",
 "meaning": "속상하거나 후회하며 쉬는 한숨",
@@ -62171,16 +61267,6 @@
 ]
 },
 {
-"surface": "感謝",
-"reading": "감사",
-"meaning": "고마운 마음을 나타내는 인사",
-"gongmu": 0,
-"hanjaRefs": [
-"感",
-"謝"
-]
-},
-{
 "surface": "慰勞",
 "reading": "위로",
 "meaning": "따뜻한 말로 슬픔을 달래 줌",
@@ -62261,16 +61347,6 @@
 "憤",
 "怒",
 "心"
-]
-},
-{
-"surface": "憤慨",
-"reading": "분개",
-"meaning": "몹시 분하고 억울해함",
-"gongmu": 0,
-"hanjaRefs": [
-"憤",
-"慨"
 ]
 },
 {
@@ -63823,16 +62899,6 @@
 ]
 },
 {
-"surface": "普及",
-"reading": "보급",
-"meaning": "널리 알려 골고루 나누어 줌",
-"gongmu": 0,
-"hanjaRefs": [
-"普",
-"及"
-]
-},
-{
 "surface": "普賢山",
 "reading": "보현산",
 "meaning": "영천과 청송 사이에 있는 산",
@@ -63851,16 +62917,6 @@
 "hanjaRefs": [
 "普",
 "通"
-]
-},
-{
-"surface": "智慧",
-"reading": "지혜",
-"meaning": "사물의 이치를 잘 깨닫는 능력",
-"gongmu": 0,
-"hanjaRefs": [
-"智",
-"慧"
 ]
 },
 {
@@ -64327,16 +63383,6 @@
 ]
 },
 {
-"surface": "楊柳",
-"reading": "양류",
-"meaning": "버드나무 종류",
-"gongmu": 0,
-"hanjaRefs": [
-"楊",
-"柳"
-]
-},
-{
 "surface": "業績",
 "reading": "업적",
 "meaning": "일해서 남긴 큰 성과",
@@ -64543,16 +63589,6 @@
 ]
 },
 {
-"surface": "模型",
-"reading": "모형",
-"meaning": "똑같이 만들기 위한 틀",
-"gongmu": 0,
-"hanjaRefs": [
-"模",
-"型"
-]
-},
-{
 "surface": "模樣",
 "reading": "모양",
 "meaning": "겉으로 보이는 모습",
@@ -64640,16 +63676,6 @@
 "hanjaRefs": [
 "機",
 "會"
-]
-},
-{
-"surface": "機械",
-"reading": "기계",
-"meaning": "전기나 힘으로 움직이는 장치",
-"gongmu": 0,
-"hanjaRefs": [
-"機",
-"械"
 ]
 },
 {
@@ -65826,16 +64852,6 @@
 ]
 },
 {
-"surface": "燃燒",
-"reading": "연소",
-"meaning": "물질이 산소와 만나 타는 것",
-"gongmu": 0,
-"hanjaRefs": [
-"燃",
-"燒"
-]
-},
-{
 "surface": "燈火管制",
 "reading": "등화관제",
 "meaning": "전쟁 때 불빛을 끄는 일",
@@ -66680,16 +65696,6 @@
 "hanjaRefs": [
 "痛",
 "烈"
-]
-},
-{
-"surface": "痛症",
-"reading": "통증",
-"meaning": "몸이 아픈 느낌",
-"gongmu": 0,
-"hanjaRefs": [
-"痛",
-"症"
 ]
 },
 {
@@ -67828,16 +66834,6 @@
 ]
 },
 {
-"surface": "管轄",
-"reading": "관할",
-"meaning": "책임지고 관리하는 구역",
-"gongmu": 0,
-"hanjaRefs": [
-"管",
-"轄"
-]
-},
-{
 "surface": "節候",
 "reading": "절후",
 "meaning": "계절의 기준이 되는 절기",
@@ -67978,16 +66974,6 @@
 "簡",
 "體",
 "字"
-]
-},
-{
-"surface": "籍貫",
-"reading": "적관",
-"meaning": "문서에 등록된 고향",
-"gongmu": 0,
-"hanjaRefs": [
-"籍",
-"貫"
 ]
 },
 {
@@ -68181,16 +67167,6 @@
 "hanjaRefs": [
 "納",
 "稅"
-]
-},
-{
-"surface": "紛亂",
-"reading": "분란",
-"meaning": "어수선하고 시끄러움",
-"gongmu": 0,
-"hanjaRefs": [
-"紛",
-"亂"
 ]
 },
 {
@@ -68873,16 +67849,6 @@
 ]
 },
 {
-"surface": "腸胃",
-"reading": "장위",
-"meaning": "소화 기관인 창자와 위",
-"gongmu": 0,
-"hanjaRefs": [
-"腸",
-"胃"
-]
-},
-{
 "surface": "自招",
 "reading": "자초",
 "meaning": "나쁜 결과를 스스로 불러옴",
@@ -69002,36 +67968,6 @@
 "hanjaRefs": [
 "舌",
 "根"
-]
-},
-{
-"surface": "舞臺",
-"reading": "무대",
-"meaning": "공연을 위해 만든 높은 단",
-"gongmu": 0,
-"hanjaRefs": [
-"舞",
-"臺"
-]
-},
-{
-"surface": "舞踊",
-"reading": "무용",
-"meaning": "음악에 맞춰 춤을 추는 예술",
-"gongmu": 0,
-"hanjaRefs": [
-"舞",
-"踊"
-]
-},
-{
-"surface": "舞蹈",
-"reading": "무도",
-"meaning": "음악에 맞춰 춤을 춤",
-"gongmu": 0,
-"hanjaRefs": [
-"舞",
-"蹈"
 ]
 },
 {
@@ -69231,16 +68167,6 @@
 ]
 },
 {
-"surface": "衝擊",
-"reading": "충격",
-"meaning": "갑자기 세게 부딪쳐 받는 힘",
-"gongmu": 0,
-"hanjaRefs": [
-"衝",
-"擊"
-]
-},
-{
 "surface": "裝備",
 "reading": "장비",
 "meaning": "일에 필요한 도구와 장치",
@@ -69268,16 +68194,6 @@
 "hanjaRefs": [
 "裝",
 "置"
-]
-},
-{
-"surface": "裝飾",
-"reading": "장식",
-"meaning": "예쁘게 꾸미거나 치장함",
-"gongmu": 0,
-"hanjaRefs": [
-"裝",
-"飾"
 ]
 },
 {
@@ -69486,16 +68402,6 @@
 ]
 },
 {
-"surface": "覺悟",
-"reading": "각오",
-"meaning": "마음속으로 굳게 결심함",
-"gongmu": 1,
-"hanjaRefs": [
-"覺",
-"悟"
-]
-},
-{
 "surface": "覺書",
 "reading": "각서",
 "meaning": "약속을 적어 남긴 종이",
@@ -69503,16 +68409,6 @@
 "hanjaRefs": [
 "覺",
 "書"
-]
-},
-{
-"surface": "覺醒",
-"reading": "각성",
-"meaning": "정신을 똑바로 차려 깨어남",
-"gongmu": 0,
-"hanjaRefs": [
-"覺",
-"醒"
 ]
 },
 {
@@ -69965,26 +68861,6 @@
 "形",
 "文",
 "字"
-]
-},
-{
-"surface": "象徵",
-"reading": "상징",
-"meaning": "생각을 물건으로 표현함",
-"gongmu": 0,
-"hanjaRefs": [
-"象",
-"徵"
-]
-},
-{
-"surface": "豪傑",
-"reading": "호걸",
-"meaning": "지혜롭고 용감한 사람",
-"gongmu": 0,
-"hanjaRefs": [
-"豪",
-"傑"
 ]
 },
 {
@@ -70491,16 +69367,6 @@
 ]
 },
 {
-"surface": "輪廓",
-"reading": "윤곽",
-"meaning": "테두리나 대강의 모양",
-"gongmu": 0,
-"hanjaRefs": [
-"輪",
-"廓"
-]
-},
-{
 "surface": "輪番",
 "reading": "윤번",
 "meaning": "돌아가며 맡는 차례",
@@ -70538,16 +69404,6 @@
 "hanjaRefs": [
 "轉",
 "寫"
-]
-},
-{
-"surface": "轉換",
-"reading": "전환",
-"meaning": "방향이나 상태를 바꿈",
-"gongmu": 0,
-"hanjaRefs": [
-"轉",
-"換"
 ]
 },
 {
@@ -71514,16 +70370,6 @@
 ]
 },
 {
-"surface": "鏡臺",
-"reading": "경대",
-"meaning": "거울이 달린 화장대",
-"gongmu": 0,
-"hanjaRefs": [
-"鏡",
-"臺"
-]
-},
-{
 "surface": "鏡面",
 "reading": "경면",
 "meaning": "거울의 비치는 면",
@@ -71665,16 +70511,6 @@
 "閉",
 "經",
 "期"
-]
-},
-{
-"surface": "閉鎖",
-"reading": "폐쇄",
-"meaning": "문이나 통로를 닫거나 막아버림",
-"gongmu": 0,
-"hanjaRefs": [
-"閉",
-"鎖"
 ]
 },
 {
@@ -71976,16 +70812,6 @@
 ]
 },
 {
-"surface": "隔離",
-"reading": "격리",
-"meaning": "따로 떨어뜨려 놓는 것",
-"gongmu": 0,
-"hanjaRefs": [
-"隔",
-"離"
-]
-},
-{
 "surface": "險惡",
 "reading": "험악",
 "meaning": "분위기가 험하고 무서움",
@@ -72231,16 +71057,6 @@
 ]
 },
 {
-"surface": "靜寂",
-"reading": "정적",
-"meaning": "아주 조용하고 고요함",
-"gongmu": 0,
-"hanjaRefs": [
-"靜",
-"寂"
-]
-},
-{
 "surface": "靜止",
 "reading": "정지",
 "meaning": "움직이지 않고 멈춤",
@@ -72439,16 +71255,6 @@
 ]
 },
 {
-"surface": "顯著",
-"reading": "현저",
-"meaning": "눈에 아주 띄게 뚜렷함",
-"gongmu": 0,
-"hanjaRefs": [
-"顯",
-"著"
-]
-},
-{
 "surface": "風姿",
 "reading": "풍자",
 "meaning": "겉으로 보이는 사람의 모습",
@@ -72563,16 +71369,6 @@
 "hanjaRefs": [
 "餘",
 "暇"
-]
-},
-{
-"surface": "驚愕",
-"reading": "경악",
-"meaning": "안 좋은 일로 깜짝 놀람",
-"gongmu": 0,
-"hanjaRefs": [
-"驚",
-"愕"
 ]
 },
 {
@@ -72771,16 +71567,6 @@
 "hanjaRefs": [
 "髮",
 "毛"
-]
-},
-{
-"surface": "髮膚",
-"reading": "발부",
-"meaning": "머리털과 몸의 살갗",
-"gongmu": 0,
-"hanjaRefs": [
-"髮",
-"膚"
 ]
 },
 {
@@ -73018,6 +71804,920 @@
 {
 "grade": "3급II",
 "data": [
+{
+"surface": "率直",
+"reading": "솔직",
+"meaning": "거짓 없이 솔직한 마음",
+"gongmu": 0,
+"hanjaRefs": [
+"率",
+"直"
+]
+},
+{
+"surface": "丈夫",
+"reading": "장부",
+"meaning": "다 자란 씩씩한 남자",
+"gongmu": 0,
+"hanjaRefs": [
+"丈",
+"夫"
+]
+},
+{
+"surface": "冬眠",
+"reading": "동면",
+"meaning": "동물이 겨울 동안 자는 잠",
+"gongmu": 0,
+"hanjaRefs": [
+"冬",
+"眠"
+]
+},
+{
+"surface": "森林",
+"reading": "삼림",
+"meaning": "나무가 빽빽하게 우거진 숲",
+"gongmu": 0,
+"hanjaRefs": [
+"森",
+"林"
+]
+},
+{
+"surface": "色彩",
+"reading": "색채",
+"meaning": "물체가 가지는 고유한 색깔",
+"gongmu": 0,
+"hanjaRefs": [
+"色",
+"彩"
+]
+},
+{
+"surface": "企業",
+"reading": "기업",
+"meaning": "돈을 벌기 위해 운영하는 회사",
+"gongmu": 0,
+"hanjaRefs": [
+"企",
+"業"
+]
+},
+{
+"surface": "圖書館",
+"reading": "도서관",
+"meaning": "책을 모아 두고 읽는 곳",
+"gongmu": 0,
+"hanjaRefs": [
+"圖",
+"書",
+"館"
+]
+},
+{
+"surface": "成功率",
+"reading": "성공률",
+"meaning": "성공하는 비율",
+"gongmu": 0,
+"hanjaRefs": [
+"成",
+"功",
+"率"
+]
+},
+{
+"surface": "久遠",
+"reading": "구원",
+"meaning": "시간이 아주 오래고 아득함",
+"gongmu": 0,
+"hanjaRefs": [
+"久",
+"遠"
+]
+},
+{
+"surface": "交換",
+"reading": "교환",
+"meaning": "서로 주고받으며 바꿈",
+"gongmu": 0,
+"hanjaRefs": [
+"交",
+"換"
+]
+},
+{
+"surface": "京畿",
+"reading": "경기",
+"meaning": "서울 주변의 가까운 지역",
+"gongmu": 0,
+"hanjaRefs": [
+"京",
+"畿"
+]
+},
+{
+"surface": "付近",
+"reading": "부근",
+"meaning": "주변의 가까운 곳",
+"gongmu": 0,
+"hanjaRefs": [
+"付",
+"近"
+]
+},
+{
+"surface": "朝刊",
+"reading": "조간",
+"meaning": "아침에 나오는 신문",
+"gongmu": 0,
+"hanjaRefs": [
+"朝",
+"刊"
+]
+},
+{
+"surface": "永久",
+"reading": "영구",
+"meaning": "끝없이 오래감",
+"gongmu": 0,
+"hanjaRefs": [
+"永",
+"久"
+]
+},
+{
+"surface": "玄米",
+"reading": "현미",
+"meaning": "겉껍질만 벗겨 낸 누런 쌀",
+"gongmu": 0,
+"hanjaRefs": [
+"玄",
+"米"
+]
+},
+{
+"surface": "疏通",
+"reading": "소통",
+"meaning": "막히지 않고 서로 잘 통함",
+"gongmu": 0,
+"hanjaRefs": [
+"疏",
+"通"
+]
+},
+{
+"surface": "疾病",
+"reading": "질병",
+"meaning": "몸에 생기는 온갖 병",
+"gongmu": 0,
+"hanjaRefs": [
+"疾",
+"病"
+]
+},
+{
+"surface": "習慣",
+"reading": "습관",
+"meaning": "늘 해서 몸에 밴 버릇",
+"gongmu": 0,
+"hanjaRefs": [
+"習",
+"慣"
+]
+},
+{
+"surface": "項目",
+"reading": "항목",
+"meaning": "구분하여 나눈 갈래",
+"gongmu": 0,
+"hanjaRefs": [
+"項",
+"目"
+]
+},
+{
+"surface": "頭腦",
+"reading": "두뇌",
+"meaning": "생각하고 기억하는 뇌",
+"gongmu": 0,
+"hanjaRefs": [
+"頭",
+"腦"
+]
+},
+{
+"surface": "率直性",
+"reading": "솔직성",
+"meaning": "꾸밈없이 솔직한 성질",
+"gongmu": 0,
+"hanjaRefs": [
+"率",
+"直",
+"性"
+]
+},
+{
+"surface": "要塞",
+"reading": "요새",
+"meaning": "적의 공격을 막는 튼튼한 성",
+"gongmu": 0,
+"hanjaRefs": [
+"要",
+"塞"
+]
+},
+{
+"surface": "供給",
+"reading": "공급",
+"meaning": "필요한 물건을 대어 줌",
+"gongmu": 0,
+"hanjaRefs": [
+"供",
+"給"
+]
+},
+{
+"surface": "倍率",
+"reading": "배율",
+"meaning": "몇 배인지 나타내는 수",
+"gongmu": 0,
+"hanjaRefs": [
+"倍",
+"率"
+]
+},
+{
+"surface": "冷淡",
+"reading": "냉담",
+"meaning": "태도가 차갑고 쌀쌀맞음",
+"gongmu": 0,
+"hanjaRefs": [
+"冷",
+"淡"
+]
+},
+{
+"surface": "卓越",
+"reading": "탁월",
+"meaning": "남들보다 훨씬 뛰어남",
+"gongmu": 0,
+"hanjaRefs": [
+"卓",
+"越"
+]
+},
+{
+"surface": "司令",
+"reading": "사령",
+"meaning": "부하를 지휘하고 명령함",
+"gongmu": 0,
+"hanjaRefs": [
+"司",
+"令"
+]
+},
+{
+"surface": "固執",
+"reading": "고집",
+"meaning": "자기 의견만 끝까지 우김",
+"gongmu": 0,
+"hanjaRefs": [
+"固",
+"執"
+]
+},
+{
+"surface": "審査",
+"reading": "심사",
+"meaning": "자세히 살펴 합격을 결정함",
+"gongmu": 0,
+"hanjaRefs": [
+"審",
+"査"
+]
+},
+{
+"surface": "序幕",
+"reading": "서막",
+"meaning": "시작을 알리는 첫 부분",
+"gongmu": 0,
+"hanjaRefs": [
+"序",
+"幕"
+]
+},
+{
+"surface": "思索",
+"reading": "사색",
+"meaning": "깊이 생각하여 뜻을 찾음",
+"gongmu": 0,
+"hanjaRefs": [
+"思",
+"索"
+]
+},
+{
+"surface": "憂患",
+"reading": "우환",
+"meaning": "집안의 걱정과 아픈 일",
+"gongmu": 0,
+"hanjaRefs": [
+"憂",
+"患"
+]
+},
+{
+"surface": "懸賞",
+"reading": "현상",
+"meaning": "돈이나 상품을 내거는 일",
+"gongmu": 0,
+"hanjaRefs": [
+"懸",
+"賞"
+]
+},
+{
+"surface": "枝葉",
+"reading": "지엽",
+"meaning": "식물의 나뭇가지와 잎",
+"gongmu": 0,
+"hanjaRefs": [
+"枝",
+"葉"
+]
+},
+{
+"surface": "橋梁",
+"reading": "교량",
+"meaning": "강이나 바다를 건너는 다리",
+"gongmu": 0,
+"hanjaRefs": [
+"橋",
+"梁"
+]
+},
+{
+"surface": "比率",
+"reading": "비율",
+"meaning": "둘을 견주어 나타낸 비율",
+"gongmu": 0,
+"hanjaRefs": [
+"比",
+"率"
+]
+},
+{
+"surface": "比較",
+"reading": "비교",
+"meaning": "둘을 견주어 차이를 살피는 일",
+"gongmu": 0,
+"hanjaRefs": [
+"比",
+"較"
+]
+},
+{
+"surface": "滅亡",
+"reading": "멸망",
+"meaning": "망해서 완전히 사라짐",
+"gongmu": 0,
+"hanjaRefs": [
+"滅",
+"亡"
+]
+},
+{
+"surface": "祈願",
+"reading": "기원",
+"meaning": "소원이 이루어지길 바람",
+"gongmu": 1,
+"hanjaRefs": [
+"祈",
+"願"
+]
+},
+{
+"surface": "祝賀",
+"reading": "축하",
+"meaning": "남의 기쁜 일을 축하함",
+"gongmu": 1,
+"hanjaRefs": [
+"祝",
+"賀"
+]
+},
+{
+"surface": "腐敗",
+"reading": "부패",
+"meaning": "정치나 생각이 썩고 나빠짐",
+"gongmu": 0,
+"hanjaRefs": [
+"腐",
+"敗"
+]
+},
+{
+"surface": "臨終",
+"reading": "임종",
+"meaning": "죽음을 맞이하는 순간",
+"gongmu": 0,
+"hanjaRefs": [
+"臨",
+"終"
+]
+},
+{
+"surface": "許諾",
+"reading": "허락",
+"meaning": "부탁이나 청을 들어줌",
+"gongmu": 0,
+"hanjaRefs": [
+"許",
+"諾"
+]
+},
+{
+"surface": "誘致",
+"reading": "유치",
+"meaning": "달래거나 꾀어서 데려옴",
+"gongmu": 0,
+"hanjaRefs": [
+"誘",
+"致"
+]
+},
+{
+"surface": "貯藏",
+"reading": "저장",
+"meaning": "물건을 모아 잘 보관함",
+"gongmu": 0,
+"hanjaRefs": [
+"貯",
+"藏"
+]
+},
+{
+"surface": "選拔",
+"reading": "선발",
+"meaning": "많은 사람 중에서 골라 뽑음",
+"gongmu": 0,
+"hanjaRefs": [
+"選",
+"拔"
+]
+},
+{
+"surface": "鋼鐵",
+"reading": "강철",
+"meaning": "아주 단단하고 질긴 철",
+"gongmu": 0,
+"hanjaRefs": [
+"鋼",
+"鐵"
+]
+},
+{
+"surface": "官吏",
+"reading": "관리",
+"meaning": "나랏일을 하는 관리",
+"gongmu": 0,
+"hanjaRefs": [
+"官",
+"吏"
+]
+},
+{
+"surface": "宮殿",
+"reading": "궁전",
+"meaning": "왕이 살던 크고 화려한 집",
+"gongmu": 0,
+"hanjaRefs": [
+"宮",
+"殿"
+]
+},
+{
+"surface": "富裕",
+"reading": "부유",
+"meaning": "돈과 재물이 아주 넉넉함",
+"gongmu": 0,
+"hanjaRefs": [
+"富",
+"裕"
+]
+},
+{
+"surface": "康寧",
+"reading": "강녕",
+"meaning": "몸과 마음이 편안함",
+"gongmu": 0,
+"hanjaRefs": [
+"康",
+"寧"
+]
+},
+{
+"surface": "想像",
+"reading": "상상",
+"meaning": "마음속으로 그려 보는 생각",
+"gongmu": 1,
+"hanjaRefs": [
+"想",
+"像"
+]
+},
+{
+"surface": "督勵",
+"reading": "독려",
+"meaning": "일을 잘하도록 격려함",
+"gongmu": 0,
+"hanjaRefs": [
+"督",
+"勵"
+]
+},
+{
+"surface": "續編",
+"reading": "속편",
+"meaning": "이어서 나오는 다음 편",
+"gongmu": 0,
+"hanjaRefs": [
+"續",
+"編"
+]
+},
+{
+"surface": "脈絡",
+"reading": "맥락",
+"meaning": "서로 이어져 있는 흐름",
+"gongmu": 0,
+"hanjaRefs": [
+"脈",
+"絡"
+]
+},
+{
+"surface": "舍廊",
+"reading": "사랑",
+"meaning": "바깥주인이 손님을 맞는 방",
+"gongmu": 0,
+"hanjaRefs": [
+"舍",
+"廊"
+]
+},
+{
+"surface": "豆腐",
+"reading": "두부",
+"meaning": "콩을 갈아 만든 부드러운 음식",
+"gongmu": 0,
+"hanjaRefs": [
+"豆",
+"腐"
+]
+},
+{
+"surface": "丁寧",
+"reading": "정녕",
+"meaning": "친절하고 정성을 다함",
+"gongmu": 0,
+"hanjaRefs": [
+"丁",
+"寧"
+]
+},
+{
+"surface": "乘車券",
+"reading": "승차권",
+"meaning": "버스나 열차를 타는 표",
+"gongmu": 0,
+"hanjaRefs": [
+"乘",
+"車",
+"券"
+]
+},
+{
+"surface": "倉庫",
+"reading": "창고",
+"meaning": "물건을 넣어 두는 건물",
+"gongmu": 0,
+"hanjaRefs": [
+"倉",
+"庫"
+]
+},
+{
+"surface": "候補",
+"reading": "후보",
+"meaning": "선거에 뽑히려고 나선 사람",
+"gongmu": 0,
+"hanjaRefs": [
+"候",
+"補"
+]
+},
+{
+"surface": "傾斜",
+"reading": "경사",
+"meaning": "비스듬히 기울어진 상태",
+"gongmu": 0,
+"hanjaRefs": [
+"傾",
+"斜"
+]
+},
+{
+"surface": "刺激",
+"reading": "자극",
+"meaning": "느낌이나 반응을 일으킴",
+"gongmu": 0,
+"hanjaRefs": [
+"刺",
+"激"
+]
+},
+{
+"surface": "勸誘",
+"reading": "권유",
+"meaning": "어떤 일을 하라고 권함",
+"gongmu": 0,
+"hanjaRefs": [
+"勸",
+"誘"
+]
+},
+{
+"surface": "厚薄",
+"reading": "후박",
+"meaning": "두껍고 얇음",
+"gongmu": 0,
+"hanjaRefs": [
+"厚",
+"薄"
+]
+},
+{
+"surface": "困惑",
+"reading": "곤혹",
+"meaning": "곤란하고 당황함",
+"gongmu": 0,
+"hanjaRefs": [
+"困",
+"惑"
+]
+},
+{
+"surface": "均衡",
+"reading": "균형",
+"meaning": "한쪽으로 기울지 않은 상태",
+"gongmu": 0,
+"hanjaRefs": [
+"均",
+"衡"
+]
+},
+{
+"surface": "寄附",
+"reading": "기부",
+"meaning": "남을 돕기 위해 거저 내놓음",
+"gongmu": 1,
+"hanjaRefs": [
+"寄",
+"附"
+]
+},
+{
+"surface": "屈辱",
+"reading": "굴욕",
+"meaning": "억눌려 부끄러움을 당함",
+"gongmu": 0,
+"hanjaRefs": [
+"屈",
+"辱"
+]
+},
+{
+"surface": "帳簿",
+"reading": "장부",
+"meaning": "돈과 물건을 적는 책",
+"gongmu": 0,
+"hanjaRefs": [
+"帳",
+"簿"
+]
+},
+{
+"surface": "恐龍",
+"reading": "공룡",
+"meaning": "아주 옛날에 살던 거대한 동물",
+"gongmu": 0,
+"hanjaRefs": [
+"恐",
+"龍"
+]
+},
+{
+"surface": "普及",
+"reading": "보급",
+"meaning": "널리 알려 골고루 나누어 줌",
+"gongmu": 0,
+"hanjaRefs": [
+"普",
+"及"
+]
+},
+{
+"surface": "智慧",
+"reading": "지혜",
+"meaning": "사물의 이치를 잘 깨닫는 능력",
+"gongmu": 0,
+"hanjaRefs": [
+"智",
+"慧"
+]
+},
+{
+"surface": "機械",
+"reading": "기계",
+"meaning": "전기나 힘으로 움직이는 장치",
+"gongmu": 0,
+"hanjaRefs": [
+"機",
+"械"
+]
+},
+{
+"surface": "燃燒",
+"reading": "연소",
+"meaning": "물질이 산소와 만나 타는 것",
+"gongmu": 0,
+"hanjaRefs": [
+"燃",
+"燒"
+]
+},
+{
+"surface": "痛症",
+"reading": "통증",
+"meaning": "몸이 아픈 느낌",
+"gongmu": 0,
+"hanjaRefs": [
+"痛",
+"症"
+]
+},
+{
+"surface": "籍貫",
+"reading": "적관",
+"meaning": "문서에 등록된 고향",
+"gongmu": 0,
+"hanjaRefs": [
+"籍",
+"貫"
+]
+},
+{
+"surface": "紛亂",
+"reading": "분란",
+"meaning": "어수선하고 시끄러움",
+"gongmu": 0,
+"hanjaRefs": [
+"紛",
+"亂"
+]
+},
+{
+"surface": "腸胃",
+"reading": "장위",
+"meaning": "소화 기관인 창자와 위",
+"gongmu": 0,
+"hanjaRefs": [
+"腸",
+"胃"
+]
+},
+{
+"surface": "舞臺",
+"reading": "무대",
+"meaning": "공연을 위해 만든 높은 단",
+"gongmu": 0,
+"hanjaRefs": [
+"舞",
+"臺"
+]
+},
+{
+"surface": "衝擊",
+"reading": "충격",
+"meaning": "갑자기 세게 부딪쳐 받는 힘",
+"gongmu": 0,
+"hanjaRefs": [
+"衝",
+"擊"
+]
+},
+{
+"surface": "裝飾",
+"reading": "장식",
+"meaning": "예쁘게 꾸미거나 치장함",
+"gongmu": 0,
+"hanjaRefs": [
+"裝",
+"飾"
+]
+},
+{
+"surface": "覺悟",
+"reading": "각오",
+"meaning": "마음속으로 굳게 결심함",
+"gongmu": 1,
+"hanjaRefs": [
+"覺",
+"悟"
+]
+},
+{
+"surface": "象徵",
+"reading": "상징",
+"meaning": "생각을 물건으로 표현함",
+"gongmu": 0,
+"hanjaRefs": [
+"象",
+"徵"
+]
+},
+{
+"surface": "豪傑",
+"reading": "호걸",
+"meaning": "지혜롭고 용감한 사람",
+"gongmu": 0,
+"hanjaRefs": [
+"豪",
+"傑"
+]
+},
+{
+"surface": "轉換",
+"reading": "전환",
+"meaning": "방향이나 상태를 바꿈",
+"gongmu": 0,
+"hanjaRefs": [
+"轉",
+"換"
+]
+},
+{
+"surface": "鏡臺",
+"reading": "경대",
+"meaning": "거울이 달린 화장대",
+"gongmu": 0,
+"hanjaRefs": [
+"鏡",
+"臺"
+]
+},
+{
+"surface": "閉鎖",
+"reading": "폐쇄",
+"meaning": "문이나 통로를 닫거나 막아버림",
+"gongmu": 0,
+"hanjaRefs": [
+"閉",
+"鎖"
+]
+},
+{
+"surface": "隔離",
+"reading": "격리",
+"meaning": "따로 떨어뜨려 놓는 것",
+"gongmu": 0,
+"hanjaRefs": [
+"隔",
+"離"
+]
+},
+{
+"surface": "靜寂",
+"reading": "정적",
+"meaning": "아주 조용하고 고요함",
+"gongmu": 0,
+"hanjaRefs": [
+"靜",
+"寂"
+]
+},
+{
+"surface": "顯著",
+"reading": "현저",
+"meaning": "눈에 아주 띄게 뚜렷함",
+"gongmu": 0,
+"hanjaRefs": [
+"顯",
+"著"
+]
+},
 {
 "surface": "一旦",
 "reading": "일단",
@@ -73486,16 +73186,6 @@
 "hanjaRefs": [
 "乾",
 "板"
-]
-},
-{
-"surface": "乾燥",
-"reading": "건조",
-"meaning": "물기가 없이 바짝 마름",
-"gongmu": 0,
-"hanjaRefs": [
-"乾",
-"燥"
 ]
 },
 {
@@ -78924,16 +78614,6 @@
 ]
 },
 {
-"surface": "恐怖",
-"reading": "공포",
-"meaning": "몹시 두렵고 무서운 마음",
-"gongmu": 0,
-"hanjaRefs": [
-"恐",
-"怖"
-]
-},
-{
 "surface": "恐水病",
 "reading": "공수병",
 "meaning": "물을 몹시 두려워하는 병",
@@ -82403,16 +82083,6 @@
 ]
 },
 {
-"surface": "漏洩",
-"reading": "누설",
-"meaning": "비밀이나 정보가 새어 나감",
-"gongmu": 0,
-"hanjaRefs": [
-"漏",
-"洩"
-]
-},
-{
 "surface": "演奏",
 "reading": "연주",
 "meaning": "악기로 음악을 연주함",
@@ -83223,16 +82893,6 @@
 "hanjaRefs": [
 "球",
 "菌"
-]
-},
-{
-"surface": "琴瑟",
-"reading": "금슬",
-"meaning": "거문고와 비파",
-"gongmu": 0,
-"hanjaRefs": [
-"琴",
-"瑟"
 ]
 },
 {
@@ -84144,16 +83804,6 @@
 ]
 },
 {
-"surface": "祿俸",
-"reading": "녹봉",
-"meaning": "일한 대가로 받는 월급",
-"gongmu": 0,
-"hanjaRefs": [
-"祿",
-"俸"
-]
-},
-{
 "surface": "禁慾",
 "reading": "금욕",
 "meaning": "하고 싶은 욕심을 참음",
@@ -84727,16 +84377,6 @@
 "hanjaRefs": [
 "組",
 "版"
-]
-},
-{
-"surface": "絡繹",
-"reading": "낙역",
-"meaning": "끊어지지 않고 계속 이어짐",
-"gongmu": 0,
-"hanjaRefs": [
-"絡",
-"繹"
 ]
 },
 {
@@ -87066,16 +86706,6 @@
 ]
 },
 {
-"surface": "謙遜",
-"reading": "겸손",
-"meaning": "나를 낮추고 남을 존중함",
-"gongmu": 0,
-"hanjaRefs": [
-"謙",
-"遜"
-]
-},
-{
 "surface": "警察署",
 "reading": "경찰서",
 "meaning": "경찰들이 근무하는 곳",
@@ -88685,16 +88315,6 @@
 ]
 },
 {
-"surface": "錦繡",
-"reading": "금수",
-"meaning": "아름답게 수놓은 비단",
-"gongmu": 0,
-"hanjaRefs": [
-"錦",
-"繡"
-]
-},
-{
 "surface": "錦衣",
 "reading": "금의",
 "meaning": "비단으로 만든 옷",
@@ -88989,16 +88609,6 @@
 ]
 },
 {
-"surface": "閣僚",
-"reading": "각료",
-"meaning": "정부를 구성하는 장관들",
-"gongmu": 0,
-"hanjaRefs": [
-"閣",
-"僚"
-]
-},
-{
 "surface": "關聯",
 "reading": "관련",
 "meaning": "서로 관계를 맺고 연결됨",
@@ -89201,16 +88811,6 @@
 "hanjaRefs": [
 "陶",
 "潛"
-]
-},
-{
-"surface": "陶磁",
-"reading": "도자",
-"meaning": "흙을 구워 만든 그릇들",
-"gongmu": 0,
-"hanjaRefs": [
-"陶",
-"磁"
 ]
 },
 {
@@ -90449,6 +90049,146 @@
 "grade": "3급",
 "data": [
 {
+"surface": "分析",
+"reading": "분석",
+"meaning": "복잡한 걸 쪼개어 살펴봄",
+"gongmu": 0,
+"hanjaRefs": [
+"分",
+"析"
+]
+},
+{
+"surface": "添加",
+"reading": "첨가",
+"meaning": "원래 있던 것에 더함",
+"gongmu": 1,
+"hanjaRefs": [
+"添",
+"加"
+]
+},
+{
+"surface": "終了",
+"reading": "종료",
+"meaning": "하던 일이나 행동을 끝마침",
+"gongmu": 0,
+"hanjaRefs": [
+"終",
+"了"
+]
+},
+{
+"surface": "販賣",
+"reading": "판매",
+"meaning": "돈을 받고 물건을 파는 것",
+"gongmu": 0,
+"hanjaRefs": [
+"販",
+"賣"
+]
+},
+{
+"surface": "貴賓",
+"reading": "귀빈",
+"meaning": "매우 귀한 손님",
+"gongmu": 0,
+"hanjaRefs": [
+"貴",
+"賓"
+]
+},
+{
+"surface": "拜謁",
+"reading": "배알",
+"meaning": "높은 사람을 찾아가 뵘",
+"gongmu": 0,
+"hanjaRefs": [
+"拜",
+"謁"
+]
+},
+{
+"surface": "婚姻",
+"reading": "혼인",
+"meaning": "부부의 인연을 맺음",
+"gongmu": 0,
+"hanjaRefs": [
+"婚",
+"姻"
+]
+},
+{
+"surface": "寄贈",
+"reading": "기증",
+"meaning": "선물로 물건을 거저 줌",
+"gongmu": 0,
+"hanjaRefs": [
+"寄",
+"贈"
+]
+},
+{
+"surface": "干涉",
+"reading": "간섭",
+"meaning": "남의 일에 참견하는 것",
+"gongmu": 1,
+"hanjaRefs": [
+"干",
+"涉"
+]
+},
+{
+"surface": "彈丸",
+"reading": "탄환",
+"meaning": "총이나 대포에서 쏘는 총알",
+"gongmu": 0,
+"hanjaRefs": [
+"彈",
+"丸"
+]
+},
+{
+"surface": "憤慨",
+"reading": "분개",
+"meaning": "몹시 분하고 억울해함",
+"gongmu": 0,
+"hanjaRefs": [
+"憤",
+"慨"
+]
+},
+{
+"surface": "楊柳",
+"reading": "양류",
+"meaning": "버드나무 종류",
+"gongmu": 0,
+"hanjaRefs": [
+"楊",
+"柳"
+]
+},
+{
+"surface": "乾燥",
+"reading": "건조",
+"meaning": "물기가 없이 바짝 마름",
+"gongmu": 0,
+"hanjaRefs": [
+"乾",
+"燥"
+]
+},
+{
+"surface": "閣僚",
+"reading": "각료",
+"meaning": "정부를 구성하는 장관들",
+"gongmu": 0,
+"hanjaRefs": [
+"閣",
+"僚"
+]
+},
+{
 "surface": "丁酉再亂",
 "reading": "정유재란",
 "meaning": "일본군이 다시 쳐들어온 전쟁",
@@ -90950,16 +90690,6 @@
 "hanjaRefs": [
 "伯",
 "爵"
-]
-},
-{
-"surface": "伴侶",
-"reading": "반려",
-"meaning": "평생을 함께하는 짝",
-"gongmu": 0,
-"hanjaRefs": [
-"伴",
-"侶"
 ]
 },
 {
@@ -92266,16 +91996,6 @@
 ]
 },
 {
-"surface": "叫喚",
-"reading": "규환",
-"meaning": "큰 소리로 부름",
-"gongmu": 0,
-"hanjaRefs": [
-"叫",
-"喚"
-]
-},
-{
 "surface": "召募",
 "reading": "소모",
 "meaning": "의병 등을 불러 모음",
@@ -92551,16 +92271,6 @@
 ]
 },
 {
-"surface": "嗚咽",
-"reading": "오열",
-"meaning": "목이 메어 슬프게 우는 것",
-"gongmu": 0,
-"hanjaRefs": [
-"嗚",
-"咽"
-]
-},
-{
 "surface": "嘗藥",
 "reading": "상약",
 "meaning": "약을 맛봄",
@@ -92799,16 +92509,6 @@
 "hanjaRefs": [
 "塊",
 "石"
-]
-},
-{
-"surface": "塗抹",
-"reading": "도말",
-"meaning": "칠해서 바름",
-"gongmu": 0,
-"hanjaRefs": [
-"塗",
-"抹"
 ]
 },
 {
@@ -94182,16 +93882,6 @@
 "hanjaRefs": [
 "忌",
 "日"
-]
-},
-{
-"surface": "忌諱",
-"reading": "기휘",
-"meaning": "꺼리고 싫어함",
-"gongmu": 0,
-"hanjaRefs": [
-"忌",
-"諱"
 ]
 },
 {
@@ -96704,16 +96394,6 @@
 ]
 },
 {
-"surface": "欺瞞",
-"reading": "기만",
-"meaning": "남을 속여 넘김",
-"gongmu": 0,
-"hanjaRefs": [
-"欺",
-"瞞"
-]
-},
-{
 "surface": "欺罔",
 "reading": "기망",
 "meaning": "거짓으로 남을 속임",
@@ -97196,16 +96876,6 @@
 ]
 },
 {
-"surface": "淚痕",
-"reading": "누흔",
-"meaning": "눈물이 흘러내린 자국",
-"gongmu": 0,
-"hanjaRefs": [
-"淚",
-"痕"
-]
-},
-{
 "surface": "混濁",
 "reading": "혼탁",
 "meaning": "찌꺼기가 섞여 물이 흐림",
@@ -97448,16 +97118,6 @@
 "hanjaRefs": [
 "濁",
 "酒"
-]
-},
-{
-"surface": "濃霧",
-"reading": "농무",
-"meaning": "매우 짙게 낀 안개",
-"gongmu": 0,
-"hanjaRefs": [
-"濃",
-"霧"
 ]
 },
 {
@@ -97759,16 +97419,6 @@
 "hanjaRefs": [
 "狗",
 "肉"
-]
-},
-{
-"surface": "狩獵",
-"reading": "수렵",
-"meaning": "동물을 잡는 사냥",
-"gongmu": 0,
-"hanjaRefs": [
-"狩",
-"獵"
 ]
 },
 {
@@ -98309,16 +97959,6 @@
 "hanjaRefs": [
 "祝",
 "杯"
-]
-},
-{
-"surface": "祥瑞",
-"reading": "상서",
-"meaning": "기쁜 일이 일어날 좋은 징조",
-"gongmu": 0,
-"hanjaRefs": [
-"祥",
-"瑞"
 ]
 },
 {
@@ -99027,16 +98667,6 @@
 "hanjaRefs": [
 "繫",
 "留"
-]
-},
-{
-"surface": "繫縛",
-"reading": "계박",
-"meaning": "움직이지 못하게 꽁꽁 묶음",
-"gongmu": 0,
-"hanjaRefs": [
-"繫",
-"縛"
 ]
 },
 {
@@ -102115,16 +101745,6 @@
 ]
 },
 {
-"surface": "鹿茸",
-"reading": "녹용",
-"meaning": "어린 사슴의 보드라운 뿔",
-"gongmu": 0,
-"hanjaRefs": [
-"鹿",
-"茸"
-]
-},
-{
 "surface": "鹿角",
 "reading": "녹각",
 "meaning": "다 자란 사슴의 딱딱한 뿔",
@@ -102190,6 +101810,156 @@
 {
 "grade": "2급",
 "data": [
+{
+"surface": "典型",
+"reading": "전형",
+"meaning": "가장 대표가 되는 본보기",
+"gongmu": 0,
+"hanjaRefs": [
+"典",
+"型"
+]
+},
+{
+"surface": "沐浴",
+"reading": "목욕",
+"meaning": "머리를 감고 온몸을 씻는 일",
+"gongmu": 0,
+"hanjaRefs": [
+"沐",
+"浴"
+]
+},
+{
+"surface": "船舶",
+"reading": "선박",
+"meaning": "물 위에 떠다니는 큰 배",
+"gongmu": 0,
+"hanjaRefs": [
+"船",
+"舶"
+]
+},
+{
+"surface": "購買",
+"reading": "구매",
+"meaning": "물건을 사는 일",
+"gongmu": 0,
+"hanjaRefs": [
+"購",
+"買"
+]
+},
+{
+"surface": "酷寒",
+"reading": "혹한",
+"meaning": "몹시 심한 추위",
+"gongmu": 0,
+"hanjaRefs": [
+"酷",
+"寒"
+]
+},
+{
+"surface": "妨礙",
+"reading": "방애",
+"meaning": "방해하고 가로막음",
+"gongmu": 0,
+"hanjaRefs": [
+"妨",
+"礙"
+]
+},
+{
+"surface": "彫刻",
+"reading": "조각",
+"meaning": "나무나 돌을 깎아 입체로 만듦",
+"gongmu": 0,
+"hanjaRefs": [
+"彫",
+"刻"
+]
+},
+{
+"surface": "模型",
+"reading": "모형",
+"meaning": "똑같이 만들기 위한 틀",
+"gongmu": 0,
+"hanjaRefs": [
+"模",
+"型"
+]
+},
+{
+"surface": "髮膚",
+"reading": "발부",
+"meaning": "머리털과 몸의 살갗",
+"gongmu": 0,
+"hanjaRefs": [
+"髮",
+"膚"
+]
+},
+{
+"surface": "恐怖",
+"reading": "공포",
+"meaning": "몹시 두렵고 무서운 마음",
+"gongmu": 0,
+"hanjaRefs": [
+"恐",
+"怖"
+]
+},
+{
+"surface": "琴瑟",
+"reading": "금슬",
+"meaning": "거문고와 비파",
+"gongmu": 0,
+"hanjaRefs": [
+"琴",
+"瑟"
+]
+},
+{
+"surface": "祿俸",
+"reading": "녹봉",
+"meaning": "일한 대가로 받는 월급",
+"gongmu": 0,
+"hanjaRefs": [
+"祿",
+"俸"
+]
+},
+{
+"surface": "陶磁",
+"reading": "도자",
+"meaning": "흙을 구워 만든 그릇들",
+"gongmu": 0,
+"hanjaRefs": [
+"陶",
+"磁"
+]
+},
+{
+"surface": "濃霧",
+"reading": "농무",
+"meaning": "매우 짙게 낀 안개",
+"gongmu": 0,
+"hanjaRefs": [
+"濃",
+"霧"
+]
+},
+{
+"surface": "祥瑞",
+"reading": "상서",
+"meaning": "기쁜 일이 일어날 좋은 징조",
+"gongmu": 0,
+"hanjaRefs": [
+"祥",
+"瑞"
+]
+},
 {
 "surface": "一蹴",
 "reading": "일축",
@@ -102845,16 +102615,6 @@
 "察",
 "衛",
 "星"
-]
-},
-{
-"surface": "傀儡",
-"reading": "괴뢰",
-"meaning": "꼭두각시놀음에 쓰이는 인형",
-"gongmu": 0,
-"hanjaRefs": [
-"傀",
-"儡"
 ]
 },
 {
@@ -105264,16 +105024,6 @@
 ]
 },
 {
-"surface": "彌勒",
-"reading": "미륵",
-"meaning": "불교에서 말하는 미래의 부처",
-"gongmu": 0,
-"hanjaRefs": [
-"彌",
-"勒"
-]
-},
-{
 "surface": "彌時坡嶺",
 "reading": "미시파령",
 "meaning": "미시령 고개의 옛 이름",
@@ -105843,16 +105593,6 @@
 ]
 },
 {
-"surface": "掘鑿",
-"reading": "굴착",
-"meaning": "구멍을 파서 뚫음",
-"gongmu": 0,
-"hanjaRefs": [
-"掘",
-"鑿"
-]
-},
-{
 "surface": "推戴",
 "reading": "추대",
 "meaning": "윗사람으로 높여 모심",
@@ -106029,16 +105769,6 @@
 "摩",
 "尼",
 "山"
-]
-},
-{
-"surface": "摩擦",
-"reading": "마찰",
-"meaning": "서로 맞닿아 비벼짐",
-"gongmu": 0,
-"hanjaRefs": [
-"摩",
-"擦"
 ]
 },
 {
@@ -106822,16 +106552,6 @@
 "hanjaRefs": [
 "桀",
 "王"
-]
-},
-{
-"surface": "桀紂",
-"reading": "걸주",
-"meaning": "하나라 걸왕과 은나라 주왕",
-"gongmu": 0,
-"hanjaRefs": [
-"桀",
-"紂"
 ]
 },
 {
@@ -108747,16 +108467,6 @@
 ]
 },
 {
-"surface": "玲瓏",
-"reading": "영롱",
-"meaning": "옥이 부딪치는 맑은 소리",
-"gongmu": 0,
-"hanjaRefs": [
-"玲",
-"瓏"
-]
-},
-{
 "surface": "珪素",
 "reading": "규소",
 "meaning": "유리와 전자기기를 만드는 물질",
@@ -109044,16 +108754,6 @@
 ]
 },
 {
-"surface": "痲痺",
-"reading": "마비",
-"meaning": "몸이 굳어서 움직이지 못함",
-"gongmu": 0,
-"hanjaRefs": [
-"痲",
-"痺"
-]
-},
-{
 "surface": "痲藥",
 "reading": "마약",
 "meaning": "중독성이 매우 강한 위험한 약",
@@ -109102,16 +108802,6 @@
 "療",
 "養",
 "所"
-]
-},
-{
-"surface": "癌腫",
-"reading": "암종",
-"meaning": "몸에 생기는 암 덩어리",
-"gongmu": 0,
-"hanjaRefs": [
-"癌",
-"腫"
 ]
 },
 {
@@ -109323,16 +109013,6 @@
 "hanjaRefs": [
 "盧",
 "氏"
-]
-},
-{
-"surface": "盾牌",
-"reading": "순패",
-"meaning": "공격을 막는 방패",
-"gongmu": 0,
-"hanjaRefs": [
-"盾",
-"牌"
 ]
 },
 {
@@ -109922,16 +109602,6 @@
 "hanjaRefs": [
 "箱",
 "子"
-]
-},
-{
-"surface": "箱櫃",
-"reading": "상궤",
-"meaning": "상자와 궤짝",
-"gongmu": 0,
-"hanjaRefs": [
-"箱",
-"櫃"
 ]
 },
 {
@@ -111329,16 +110999,6 @@
 "hanjaRefs": [
 "藍",
 "色"
-]
-},
-{
-"surface": "藤蔓",
-"reading": "등만",
-"meaning": "길게 뻗은 등나무 줄기",
-"gongmu": 0,
-"hanjaRefs": [
-"藤",
-"蔓"
 ]
 },
 {
@@ -114450,6 +114110,346 @@
 {
 "grade": "1급",
 "data": [
+{
+"surface": "墜落",
+"reading": "추락",
+"meaning": "높은 곳에서 떨어짐",
+"gongmu": 1,
+"hanjaRefs": [
+"墜",
+"落"
+]
+},
+{
+"surface": "描寫",
+"reading": "묘사",
+"meaning": "그림이나 글로 표현함",
+"gongmu": 1,
+"hanjaRefs": [
+"描",
+"寫"
+]
+},
+{
+"surface": "湖畔",
+"reading": "호반",
+"meaning": "호수 주변이나 호숫가",
+"gongmu": 0,
+"hanjaRefs": [
+"湖",
+"畔"
+]
+},
+{
+"surface": "管轄",
+"reading": "관할",
+"meaning": "책임지고 관리하는 구역",
+"gongmu": 0,
+"hanjaRefs": [
+"管",
+"轄"
+]
+},
+{
+"surface": "舞踊",
+"reading": "무용",
+"meaning": "음악에 맞춰 춤을 추는 예술",
+"gongmu": 0,
+"hanjaRefs": [
+"舞",
+"踊"
+]
+},
+{
+"surface": "舞蹈",
+"reading": "무도",
+"meaning": "음악에 맞춰 춤을 춤",
+"gongmu": 0,
+"hanjaRefs": [
+"舞",
+"蹈"
+]
+},
+{
+"surface": "覺醒",
+"reading": "각성",
+"meaning": "정신을 똑바로 차려 깨어남",
+"gongmu": 0,
+"hanjaRefs": [
+"覺",
+"醒"
+]
+},
+{
+"surface": "輪廓",
+"reading": "윤곽",
+"meaning": "테두리나 대강의 모양",
+"gongmu": 0,
+"hanjaRefs": [
+"輪",
+"廓"
+]
+},
+{
+"surface": "驚愕",
+"reading": "경악",
+"meaning": "안 좋은 일로 깜짝 놀람",
+"gongmu": 0,
+"hanjaRefs": [
+"驚",
+"愕"
+]
+},
+{
+"surface": "漏洩",
+"reading": "누설",
+"meaning": "비밀이나 정보가 새어 나감",
+"gongmu": 0,
+"hanjaRefs": [
+"漏",
+"洩"
+]
+},
+{
+"surface": "絡繹",
+"reading": "낙역",
+"meaning": "끊어지지 않고 계속 이어짐",
+"gongmu": 0,
+"hanjaRefs": [
+"絡",
+"繹"
+]
+},
+{
+"surface": "謙遜",
+"reading": "겸손",
+"meaning": "나를 낮추고 남을 존중함",
+"gongmu": 0,
+"hanjaRefs": [
+"謙",
+"遜"
+]
+},
+{
+"surface": "錦繡",
+"reading": "금수",
+"meaning": "아름답게 수놓은 비단",
+"gongmu": 0,
+"hanjaRefs": [
+"錦",
+"繡"
+]
+},
+{
+"surface": "伴侶",
+"reading": "반려",
+"meaning": "평생을 함께하는 짝",
+"gongmu": 0,
+"hanjaRefs": [
+"伴",
+"侶"
+]
+},
+{
+"surface": "叫喚",
+"reading": "규환",
+"meaning": "큰 소리로 부름",
+"gongmu": 0,
+"hanjaRefs": [
+"叫",
+"喚"
+]
+},
+{
+"surface": "嗚咽",
+"reading": "오열",
+"meaning": "목이 메어 슬프게 우는 것",
+"gongmu": 0,
+"hanjaRefs": [
+"嗚",
+"咽"
+]
+},
+{
+"surface": "塗抹",
+"reading": "도말",
+"meaning": "칠해서 바름",
+"gongmu": 0,
+"hanjaRefs": [
+"塗",
+"抹"
+]
+},
+{
+"surface": "忌諱",
+"reading": "기휘",
+"meaning": "꺼리고 싫어함",
+"gongmu": 0,
+"hanjaRefs": [
+"忌",
+"諱"
+]
+},
+{
+"surface": "欺瞞",
+"reading": "기만",
+"meaning": "남을 속여 넘김",
+"gongmu": 0,
+"hanjaRefs": [
+"欺",
+"瞞"
+]
+},
+{
+"surface": "淚痕",
+"reading": "누흔",
+"meaning": "눈물이 흘러내린 자국",
+"gongmu": 0,
+"hanjaRefs": [
+"淚",
+"痕"
+]
+},
+{
+"surface": "狩獵",
+"reading": "수렵",
+"meaning": "동물을 잡는 사냥",
+"gongmu": 0,
+"hanjaRefs": [
+"狩",
+"獵"
+]
+},
+{
+"surface": "繫縛",
+"reading": "계박",
+"meaning": "움직이지 못하게 꽁꽁 묶음",
+"gongmu": 0,
+"hanjaRefs": [
+"繫",
+"縛"
+]
+},
+{
+"surface": "鹿茸",
+"reading": "녹용",
+"meaning": "어린 사슴의 보드라운 뿔",
+"gongmu": 0,
+"hanjaRefs": [
+"鹿",
+"茸"
+]
+},
+{
+"surface": "傀儡",
+"reading": "괴뢰",
+"meaning": "꼭두각시놀음에 쓰이는 인형",
+"gongmu": 0,
+"hanjaRefs": [
+"傀",
+"儡"
+]
+},
+{
+"surface": "彌勒",
+"reading": "미륵",
+"meaning": "불교에서 말하는 미래의 부처",
+"gongmu": 0,
+"hanjaRefs": [
+"彌",
+"勒"
+]
+},
+{
+"surface": "掘鑿",
+"reading": "굴착",
+"meaning": "구멍을 파서 뚫음",
+"gongmu": 0,
+"hanjaRefs": [
+"掘",
+"鑿"
+]
+},
+{
+"surface": "摩擦",
+"reading": "마찰",
+"meaning": "서로 맞닿아 비벼짐",
+"gongmu": 0,
+"hanjaRefs": [
+"摩",
+"擦"
+]
+},
+{
+"surface": "桀紂",
+"reading": "걸주",
+"meaning": "하나라 걸왕과 은나라 주왕",
+"gongmu": 0,
+"hanjaRefs": [
+"桀",
+"紂"
+]
+},
+{
+"surface": "玲瓏",
+"reading": "영롱",
+"meaning": "옥이 부딪치는 맑은 소리",
+"gongmu": 0,
+"hanjaRefs": [
+"玲",
+"瓏"
+]
+},
+{
+"surface": "痲痺",
+"reading": "마비",
+"meaning": "몸이 굳어서 움직이지 못함",
+"gongmu": 0,
+"hanjaRefs": [
+"痲",
+"痺"
+]
+},
+{
+"surface": "癌腫",
+"reading": "암종",
+"meaning": "몸에 생기는 암 덩어리",
+"gongmu": 0,
+"hanjaRefs": [
+"癌",
+"腫"
+]
+},
+{
+"surface": "盾牌",
+"reading": "순패",
+"meaning": "공격을 막는 방패",
+"gongmu": 0,
+"hanjaRefs": [
+"盾",
+"牌"
+]
+},
+{
+"surface": "箱櫃",
+"reading": "상궤",
+"meaning": "상자와 궤짝",
+"gongmu": 0,
+"hanjaRefs": [
+"箱",
+"櫃"
+]
+},
+{
+"surface": "藤蔓",
+"reading": "등만",
+"meaning": "길게 뻗은 등나무 줄기",
+"gongmu": 0,
+"hanjaRefs": [
+"藤",
+"蔓"
+]
+},
 {
 "surface": "丁字形葯",
 "reading": "정자형약",
