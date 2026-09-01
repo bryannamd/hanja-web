@@ -89973,6 +89973,36 @@
           "鶴",
           "鷄"
         ]
+      },
+      {
+        "surface": "令娘",
+        "reading": "영랑",
+        "meaning": "윗사람의 딸을 높여 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "令",
+          "娘"
+        ]
+      },
+      {
+        "surface": "楓林",
+        "reading": "풍림",
+        "meaning": "단풍나무가 많은 숲",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "林",
+          "楓"
+        ]
+      },
+      {
+        "surface": "殆半",
+        "reading": "태반",
+        "meaning": "거의 절반",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "半",
+          "殆"
+        ]
       }
     ]
   },
@@ -102040,6 +102070,190 @@
           "夫",
           "遞",
           "郵"
+        ]
+      },
+      {
+        "surface": "僅僅扶持",
+        "reading": "근근부지",
+        "meaning": "겨우겨우 견디어 나감",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "僅",
+          "扶",
+          "持"
+        ]
+      },
+      {
+        "surface": "幾死僅生",
+        "reading": "기사근생",
+        "meaning": "거의 죽을 뻔하다가 겨우 살아남",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "僅",
+          "幾",
+          "死",
+          "生"
+        ]
+      },
+      {
+        "surface": "吾兄",
+        "reading": "오형",
+        "meaning": "편지에서 벗을 친근하게 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "兄",
+          "吾"
+        ]
+      },
+      {
+        "surface": "別乾坤",
+        "reading": "별건곤",
+        "meaning": "특별히 경치가 좋거나 분위기가 좋은 곳",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "乾",
+          "別",
+          "坤"
+        ]
+      },
+      {
+        "surface": "尤物",
+        "reading": "우물",
+        "meaning": "가장 좋은 물건",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "尤",
+          "物"
+        ]
+      },
+      {
+        "surface": "慙色",
+        "reading": "참색",
+        "meaning": "얼굴에 나타나는 부끄러워하는 기색",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "慙",
+          "色"
+        ]
+      },
+      {
+        "surface": "驚懼",
+        "reading": "경구",
+        "meaning": "놀라고 두려워함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "懼",
+          "驚"
+        ]
+      },
+      {
+        "surface": "戒懼",
+        "reading": "계구",
+        "meaning": "조심하고 두려워함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "懼",
+          "戒"
+        ]
+      },
+      {
+        "surface": "畏懼",
+        "reading": "외구",
+        "meaning": "무서워하고 두려워함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "懼",
+          "畏"
+        ]
+      },
+      {
+        "surface": "朋輩",
+        "reading": "붕배",
+        "meaning": "지위나 나이가 서로 비슷한 벗",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "朋",
+          "輩"
+        ]
+      },
+      {
+        "surface": "朋比",
+        "reading": "붕비",
+        "meaning": "붕당을 지어서 자기편을 두둔함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "朋",
+          "比"
+        ]
+      },
+      {
+        "surface": "梨熟",
+        "reading": "이숙",
+        "meaning": "배에 통후추를 박아 설탕물에 끓인 음료",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "梨",
+          "熟"
+        ]
+      },
+      {
+        "surface": "粟麥",
+        "reading": "속맥",
+        "meaning": "조와 보리 따위의 잡곡을 통틀어 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "粟",
+          "麥"
+        ]
+      },
+      {
+        "surface": "聘母",
+        "reading": "빙모",
+        "meaning": "다른 사람의 장모를 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "母",
+          "聘"
+        ]
+      },
+      {
+        "surface": "聘父",
+        "reading": "빙부",
+        "meaning": "다른 사람의 장인을 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "父",
+          "聘"
+        ]
+      },
+      {
+        "surface": "諒恕",
+        "reading": "양서",
+        "meaning": "사정을 헤아려 용서함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "恕",
+          "諒"
+        ]
+      },
+      {
+        "surface": "諒知",
+        "reading": "양지",
+        "meaning": "살피어 앎",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "知",
+          "諒"
+        ]
+      },
+      {
+        "surface": "跳梁",
+        "reading": "도량",
+        "meaning": "거리낌없이 함부로 날뛰어 다님",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "梁",
+          "跳"
         ]
       }
     ]
@@ -115802,6 +116016,509 @@
         "hanjaRefs": [
           "寶",
           "鼎"
+        ]
+      },
+      {
+        "surface": "丕業",
+        "reading": "비업",
+        "meaning": "나라를 세우는 큰 사업",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "丕",
+          "業"
+        ]
+      },
+      {
+        "surface": "丕績",
+        "reading": "비적",
+        "meaning": "훌륭하게 여길 만한 큰 공적",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "丕",
+          "績"
+        ]
+      },
+      {
+        "surface": "亢龍",
+        "reading": "항룡",
+        "meaning": "아주 높은 지위",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "亢",
+          "龍"
+        ]
+      },
+      {
+        "surface": "伊太利",
+        "reading": "이태리",
+        "meaning": "유럽 남부에 있는 나라",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "伊",
+          "利",
+          "太"
+        ]
+      },
+      {
+        "surface": "傅粉",
+        "reading": "부분",
+        "meaning": "분을 바름",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "傅",
+          "粉"
+        ]
+      },
+      {
+        "surface": "傅育",
+        "reading": "부육",
+        "meaning": "애지중지하며 기름",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "傅",
+          "育"
+        ]
+      },
+      {
+        "surface": "兌換",
+        "reading": "태환",
+        "meaning": "지폐를 정화와 바꿈",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "兌",
+          "換"
+        ]
+      },
+      {
+        "surface": "兢懼",
+        "reading": "긍구",
+        "meaning": "삼가고 두려워함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "兢",
+          "懼"
+        ]
+      },
+      {
+        "surface": "兢兢業業",
+        "reading": "긍긍업업",
+        "meaning": "항상 조심하여 삼감",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "兢",
+          "業"
+        ]
+      },
+      {
+        "surface": "冕服",
+        "reading": "면복",
+        "meaning": "면류관과 곤룡포를 아울러 이르던 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "冕",
+          "服"
+        ]
+      },
+      {
+        "surface": "埃塵",
+        "reading": "애진",
+        "meaning": "티끌과 먼지를 통틀어 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "埃",
+          "塵"
+        ]
+      },
+      {
+        "surface": "妖姬",
+        "reading": "요희",
+        "meaning": "요사스러운 계집",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "妖",
+          "姬"
+        ]
+      },
+      {
+        "surface": "案內孃",
+        "reading": "안내양",
+        "meaning": "손님을 안내하는 젊은 여성",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "內",
+          "孃",
+          "案"
+        ]
+      },
+      {
+        "surface": "丘岡",
+        "reading": "구강",
+        "meaning": "땅이 비탈지고 조금 높은 곳",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "丘",
+          "岡"
+        ]
+      },
+      {
+        "surface": "鼎峙",
+        "reading": "정치",
+        "meaning": "세 사람 또는 세 세력이 솥발과 같이 벌여 섬",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "峙",
+          "鼎"
+        ]
+      },
+      {
+        "surface": "峙立",
+        "reading": "치립",
+        "meaning": "높이 솟아 우뚝 섬",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "峙",
+          "立"
+        ]
+      },
+      {
+        "surface": "諸彦",
+        "reading": "제언",
+        "meaning": "여러 점잖은 분들",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "彦",
+          "諸"
+        ]
+      },
+      {
+        "surface": "俊彦",
+        "reading": "준언",
+        "meaning": "재주와 슬기가 매우 뛰어남",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "俊",
+          "彦"
+        ]
+      },
+      {
+        "surface": "怡悅",
+        "reading": "이열",
+        "meaning": "즐겁고 기쁨",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "怡",
+          "悅"
+        ]
+      },
+      {
+        "surface": "私憾",
+        "reading": "사감",
+        "meaning": "사사로운 일로 언짢게 여기는 마음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "憾",
+          "私"
+        ]
+      },
+      {
+        "surface": "宿憾",
+        "reading": "숙감",
+        "meaning": "오래된 원한이나 좋지 못한 감정",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "宿",
+          "憾"
+        ]
+      },
+      {
+        "surface": "餘憾",
+        "reading": "여감",
+        "meaning": "마음에 차지 않아 섭섭하게 남아 있는 느낌",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "憾",
+          "餘"
+        ]
+      },
+      {
+        "surface": "旌旗",
+        "reading": "정기",
+        "meaning": "정과 기를 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "旌",
+          "旗"
+        ]
+      },
+      {
+        "surface": "旌表",
+        "reading": "정표",
+        "meaning": "착한 행실을 세상에 드러내어 널리 알림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "旌",
+          "表"
+        ]
+      },
+      {
+        "surface": "盛旺",
+        "reading": "성왕",
+        "meaning": "한창 성함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "旺",
+          "盛"
+        ]
+      },
+      {
+        "surface": "柴門",
+        "reading": "시문",
+        "meaning": "사립짝을 달아서 만든 문",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "柴",
+          "門"
+        ]
+      },
+      {
+        "surface": "汀岸",
+        "reading": "정안",
+        "meaning": "바다, 강, 못 따위와 같이 물이 있는 곳의 가장자리",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "岸",
+          "汀"
+        ]
+      },
+      {
+        "surface": "汀洲",
+        "reading": "정주",
+        "meaning": "물이 얕아서 흙이나 모래가 드러난 곳",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "汀",
+          "洲"
+        ]
+      },
+      {
+        "surface": "蘆汀",
+        "reading": "노정",
+        "meaning": "갈대가 우거진 물가",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "汀",
+          "蘆"
+        ]
+      },
+      {
+        "surface": "急湍",
+        "reading": "급단",
+        "meaning": "물살이 매우 센 여울",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "急",
+          "湍"
+        ]
+      },
+      {
+        "surface": "濬哲",
+        "reading": "준철",
+        "meaning": "뛰어나게 지혜가 깊음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "哲",
+          "濬"
+        ]
+      },
+      {
+        "surface": "獐皮",
+        "reading": "장피",
+        "meaning": "노루의 가죽",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "獐",
+          "皮"
+        ]
+      },
+      {
+        "surface": "瞻拜",
+        "reading": "첨배",
+        "meaning": "선조 혹은 선현의 묘소나 사당에 우러러 절함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "拜",
+          "瞻"
+        ]
+      },
+      {
+        "surface": "社稷神",
+        "reading": "사직신",
+        "meaning": "사직단에 모신 토신과 곡신",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "社",
+          "神",
+          "稷"
+        ]
+      },
+      {
+        "surface": "舟筏",
+        "reading": "주벌",
+        "meaning": "배와 뗏목을 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "筏",
+          "舟"
+        ]
+      },
+      {
+        "surface": "竹筏",
+        "reading": "죽벌",
+        "meaning": "큰 대를 배처럼 엮은 떼",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "竹",
+          "筏"
+        ]
+      },
+      {
+        "surface": "耆宿",
+        "reading": "기숙",
+        "meaning": "나이가 많아 덕망이 높고 경험이 풍부한 사람",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "宿",
+          "耆"
+        ]
+      },
+      {
+        "surface": "茅亭",
+        "reading": "모정",
+        "meaning": "짚이나 새 따위로 지붕을 인 정자",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "亭",
+          "茅"
+        ]
+      },
+      {
+        "surface": "蓬門",
+        "reading": "봉문",
+        "meaning": "가난한 사람이나 숨어 사는 사람의 집",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "蓬",
+          "門"
+        ]
+      },
+      {
+        "surface": "蓬髮",
+        "reading": "봉발",
+        "meaning": "텁수룩하게 흐트러진 머리털",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "蓬",
+          "髮"
+        ]
+      },
+      {
+        "surface": "蓬首",
+        "reading": "봉수",
+        "meaning": "머리털이 마구 흐트러져 어지럽게 된 머리",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "蓬",
+          "首"
+        ]
+      },
+      {
+        "surface": "良賈",
+        "reading": "양고",
+        "meaning": "큰 상인",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "良",
+          "賈"
+        ]
+      },
+      {
+        "surface": "醴酒",
+        "reading": "예주",
+        "meaning": "맛이 좋은 술",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "酒",
+          "醴"
+        ]
+      },
+      {
+        "surface": "丘阜",
+        "reading": "구부",
+        "meaning": "땅이 비탈지고 조금 높은 곳",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "丘",
+          "阜"
+        ]
+      },
+      {
+        "surface": "鄒魯",
+        "reading": "추로",
+        "meaning": "공자와 맹자를 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "鄒",
+          "魯"
+        ]
+      },
+      {
+        "surface": "魯魚",
+        "reading": "노어",
+        "meaning": "모양이 비슷한 글자를 잘못 쓰기 쉬움",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "魚",
+          "魯"
+        ]
+      },
+      {
+        "surface": "養鷹",
+        "reading": "양응",
+        "meaning": "매를 기름",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "養",
+          "鷹"
+        ]
+      },
+      {
+        "surface": "鷹視",
+        "reading": "응시",
+        "meaning": "매처럼 날카롭게 노려봄",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "視",
+          "鷹"
+        ]
+      },
+      {
+        "surface": "鷹揚",
+        "reading": "응양",
+        "meaning": "위엄이나 무력을 세상에 크게 드날림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "揚",
+          "鷹"
+        ]
+      },
+      {
+        "surface": "蒼鷹",
+        "reading": "창응",
+        "meaning": "털색이 푸르고 흰 큰 매",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "蒼",
+          "鷹"
         ]
       }
     ]
@@ -139986,6 +140703,5688 @@
         "hanjaRefs": [
           "殺",
           "鼠"
+        ]
+      },
+      {
+        "surface": "些事",
+        "reading": "사사",
+        "meaning": "조그마하거나 하찮은 일",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "事",
+          "些"
+        ]
+      },
+      {
+        "surface": "些末的",
+        "reading": "사말적",
+        "meaning": "자질구레하여 중요하지 아니한 것",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "些",
+          "末",
+          "的"
+        ]
+      },
+      {
+        "surface": "佚民",
+        "reading": "일민",
+        "meaning": "세상을 등지고 숨어 사는 백성",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "佚",
+          "民"
+        ]
+      },
+      {
+        "surface": "玉佩",
+        "reading": "옥패",
+        "meaning": "옥으로 만든 패물",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "佩",
+          "玉"
+        ]
+      },
+      {
+        "surface": "佩劍",
+        "reading": "패검",
+        "meaning": "차는 칼",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "佩",
+          "劍"
+        ]
+      },
+      {
+        "surface": "佩刀",
+        "reading": "패도",
+        "meaning": "차는 칼",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "佩",
+          "刀"
+        ]
+      },
+      {
+        "surface": "俄語",
+        "reading": "아어",
+        "meaning": "인도·유럽 어족 슬라브 어파에 속한 언어",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "俄",
+          "語"
+        ]
+      },
+      {
+        "surface": "俚俗",
+        "reading": "이속",
+        "meaning": "상스럽고 속됨",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "俗",
+          "俚"
+        ]
+      },
+      {
+        "surface": "俚語",
+        "reading": "이어",
+        "meaning": "항간에 떠돌며 쓰이는 속된 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "俚",
+          "語"
+        ]
+      },
+      {
+        "surface": "俚諺",
+        "reading": "이언",
+        "meaning": "항간에 퍼져 있는 속담",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "俚",
+          "諺"
+        ]
+      },
+      {
+        "surface": "倡義",
+        "reading": "창의",
+        "meaning": "국난을 당하였을 때 나라를 위하여 의병을 일으킴",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "倡",
+          "義"
+        ]
+      },
+      {
+        "surface": "倡義隊",
+        "reading": "창의대",
+        "meaning": "의병으로 궐기하여 모인 부대나 대오",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "倡",
+          "義",
+          "隊"
+        ]
+      },
+      {
+        "surface": "倡義文",
+        "reading": "창의문",
+        "meaning": "의병으로 일어날 것을 널리 호소하는 글",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "倡",
+          "文",
+          "義"
+        ]
+      },
+      {
+        "surface": "做作",
+        "reading": "주작",
+        "meaning": "없는 사실을 꾸며 만듦",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "作",
+          "做"
+        ]
+      },
+      {
+        "surface": "僉意",
+        "reading": "첨의",
+        "meaning": "여러 사람의 의견",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "僉",
+          "意"
+        ]
+      },
+      {
+        "surface": "僉議",
+        "reading": "첨의",
+        "meaning": "여러 사람의 의논",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "僉",
+          "議"
+        ]
+      },
+      {
+        "surface": "冶容",
+        "reading": "야용",
+        "meaning": "얼굴을 예쁘게 단장함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "冶",
+          "容"
+        ]
+      },
+      {
+        "surface": "冶遊",
+        "reading": "야유",
+        "meaning": "주색에 빠져 방탕하게 놂",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "冶",
+          "遊"
+        ]
+      },
+      {
+        "surface": "冶匠",
+        "reading": "야장",
+        "meaning": "대장일을 하는 기술직 노동자",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "冶",
+          "匠"
+        ]
+      },
+      {
+        "surface": "凄切",
+        "reading": "처절",
+        "meaning": "몹시 처량함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "凄",
+          "切"
+        ]
+      },
+      {
+        "surface": "凄風苦雨",
+        "reading": "처풍고우",
+        "meaning": "궂은 날씨나 몹시 비참한 처지",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "凄",
+          "苦",
+          "雨",
+          "風"
+        ]
+      },
+      {
+        "surface": "凋零",
+        "reading": "조령",
+        "meaning": "초목의 잎 따위가 시들어 떨어짐",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "凋",
+          "零"
+        ]
+      },
+      {
+        "surface": "凌蔑",
+        "reading": "능멸",
+        "meaning": "업신여기어 깔봄",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "凌",
+          "蔑"
+        ]
+      },
+      {
+        "surface": "凸狀",
+        "reading": "철상",
+        "meaning": "가운데가 볼록하게 나온 형태",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "凸",
+          "狀"
+        ]
+      },
+      {
+        "surface": "凸凹",
+        "reading": "철요",
+        "meaning": "오목함과 볼록함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "凸",
+          "凹"
+        ]
+      },
+      {
+        "surface": "凸形",
+        "reading": "철형",
+        "meaning": "가운데가 도도록한 모양",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "凸",
+          "形"
+        ]
+      },
+      {
+        "surface": "凸角",
+        "reading": "철각",
+        "meaning": "180도보다 작은 각",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "凸",
+          "角"
+        ]
+      },
+      {
+        "surface": "剪伐",
+        "reading": "전벌",
+        "meaning": "나무 따위를 자르거나 벰",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "伐",
+          "剪"
+        ]
+      },
+      {
+        "surface": "剪裁",
+        "reading": "전재",
+        "meaning": "옷감이나 재목 따위를 치수에 맞도록 재거나 자르는 일",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "剪",
+          "裁"
+        ]
+      },
+      {
+        "surface": "剪除",
+        "reading": "전제",
+        "meaning": "불필요한 것을 잘라서 없애 버림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "剪",
+          "除"
+        ]
+      },
+      {
+        "surface": "被劾",
+        "reading": "피핵",
+        "meaning": "탄핵을 당함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "劾",
+          "被"
+        ]
+      },
+      {
+        "surface": "揷匙",
+        "reading": "삽시",
+        "meaning": "제사 지낼 때 숟가락을 메에 꽂음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "匙",
+          "揷"
+        ]
+      },
+      {
+        "surface": "一匙",
+        "reading": "일시",
+        "meaning": "한 숟가락",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "一",
+          "匙"
+        ]
+      },
+      {
+        "surface": "茶匙",
+        "reading": "다시",
+        "meaning": "차를 마실 때에 쓰는 작은 숟가락",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "匙",
+          "茶"
+        ]
+      },
+      {
+        "surface": "異卉",
+        "reading": "이훼",
+        "meaning": "진귀한 풀",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "卉",
+          "異"
+        ]
+      },
+      {
+        "surface": "卍字窓",
+        "reading": "만자창",
+        "meaning": "창살이 ‘卍’ 자 모양으로 된 창",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "卍",
+          "字",
+          "窓"
+        ]
+      },
+      {
+        "surface": "吝嗇家",
+        "reading": "인색가",
+        "meaning": "몹시 인색한 사람",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "吝",
+          "嗇",
+          "家"
+        ]
+      },
+      {
+        "surface": "吝嗇漢",
+        "reading": "인색한",
+        "meaning": "몹시 인색한 사내",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "吝",
+          "嗇",
+          "漢"
+        ]
+      },
+      {
+        "surface": "怒吼",
+        "reading": "노후",
+        "meaning": "성내어 으르렁거림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "吼",
+          "怒"
+        ]
+      },
+      {
+        "surface": "癡呆症",
+        "reading": "치매증",
+        "meaning": "뇌 손상으로 지능과 기억력을 잃는 병",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "呆",
+          "症",
+          "癡"
+        ]
+      },
+      {
+        "surface": "呑食",
+        "reading": "탄식",
+        "meaning": "통째로 먹음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "呑",
+          "食"
+        ]
+      },
+      {
+        "surface": "呑吐",
+        "reading": "탄토",
+        "meaning": "삼킴과 뱉음을 통틀어 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "吐",
+          "呑"
+        ]
+      },
+      {
+        "surface": "一氣呵成",
+        "reading": "일기가성",
+        "meaning": "일을 단숨에 몰아쳐 해냄",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "一",
+          "呵",
+          "成",
+          "氣"
+        ]
+      },
+      {
+        "surface": "呵呵大笑",
+        "reading": "가가대소",
+        "meaning": "소리를 내어 크게 웃음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "呵",
+          "大",
+          "笑"
+        ]
+      },
+      {
+        "surface": "咬創",
+        "reading": "교창",
+        "meaning": "동물에게 물린 상처",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "創",
+          "咬"
+        ]
+      },
+      {
+        "surface": "咬牙切齒",
+        "reading": "교아절치",
+        "meaning": "몹시 분하여 이를 갊",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "切",
+          "咬",
+          "牙",
+          "齒"
+        ]
+      },
+      {
+        "surface": "哄然大笑",
+        "reading": "홍연대소",
+        "meaning": "크게 껄껄 웃음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "哄",
+          "大",
+          "然",
+          "笑"
+        ]
+      },
+      {
+        "surface": "唾棄",
+        "reading": "타기",
+        "meaning": "업신여기거나 더럽게 여겨 내버림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "唾",
+          "棄"
+        ]
+      },
+      {
+        "surface": "唾罵",
+        "reading": "타매",
+        "meaning": "아주 더럽게 생각하고 경멸히 여겨 욕함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "唾",
+          "罵"
+        ]
+      },
+      {
+        "surface": "啼聲",
+        "reading": "제성",
+        "meaning": "크게 소리 내어 우는 소리",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "啼",
+          "聲"
+        ]
+      },
+      {
+        "surface": "啼泣",
+        "reading": "제읍",
+        "meaning": "소리를 높여 욺",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "啼",
+          "泣"
+        ]
+      },
+      {
+        "surface": "啼鳥",
+        "reading": "제조",
+        "meaning": "우는 새",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "啼",
+          "鳥"
+        ]
+      },
+      {
+        "surface": "啼號",
+        "reading": "제호",
+        "meaning": "큰 소리로 울부짖음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "啼",
+          "號"
+        ]
+      },
+      {
+        "surface": "殘喘",
+        "reading": "잔천",
+        "meaning": "아주 끊어지지 아니하고 겨우 붙어 있는 숨",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "喘",
+          "殘"
+        ]
+      },
+      {
+        "surface": "喧擾",
+        "reading": "훤요",
+        "meaning": "시끄럽게 떠듦",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "喧",
+          "擾"
+        ]
+      },
+      {
+        "surface": "喧傳",
+        "reading": "훤전",
+        "meaning": "여러 사람의 입으로 퍼져서 왁자하게 됨",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "傳",
+          "喧"
+        ]
+      },
+      {
+        "surface": "嗅覺器",
+        "reading": "후각기",
+        "meaning": "냄새를 맡는 기능을 하는 코점막 부위",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "嗅",
+          "器",
+          "覺"
+        ]
+      },
+      {
+        "surface": "嗅細胞",
+        "reading": "후세포",
+        "meaning": "코점막에 있는 방추형 신경 세포",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "嗅",
+          "細",
+          "胞"
+        ]
+      },
+      {
+        "surface": "嗔恨",
+        "reading": "진한",
+        "meaning": "성내며 원망함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "嗔",
+          "恨"
+        ]
+      },
+      {
+        "surface": "叱嗟",
+        "reading": "질차",
+        "meaning": "잘못을 나무람",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "叱",
+          "嗟"
+        ]
+      },
+      {
+        "surface": "一嚬一笑",
+        "reading": "일빈일소",
+        "meaning": "찡그리고 웃는 표정이나 감정의 변화",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "一",
+          "嚬",
+          "笑"
+        ]
+      },
+      {
+        "surface": "藥圃",
+        "reading": "약포",
+        "meaning": "약초를 심어 가꾸는 밭",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "圃",
+          "藥"
+        ]
+      },
+      {
+        "surface": "園圃",
+        "reading": "원포",
+        "meaning": "과실나무와 채소 따위를 심어 가꾸는 뒤란이나 밭",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "圃",
+          "園"
+        ]
+      },
+      {
+        "surface": "田圃",
+        "reading": "전포",
+        "meaning": "채소를 심어 가꾸는 밭",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "圃",
+          "田"
+        ]
+      },
+      {
+        "surface": "菜圃",
+        "reading": "채포",
+        "meaning": "전문적으로 채소를 심어 가꾸는 규모가 큰 밭",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "圃",
+          "菜"
+        ]
+      },
+      {
+        "surface": "白堊質",
+        "reading": "백악질",
+        "meaning": "백악이 지닌 성질",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "堊",
+          "白",
+          "質"
+        ]
+      },
+      {
+        "surface": "白堊",
+        "reading": "백악",
+        "meaning": "백악계에서 나는 백색이나 담황색의 부드러운 석회질 암석",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "堊",
+          "白"
+        ]
+      },
+      {
+        "surface": "白堊紀",
+        "reading": "백악기",
+        "meaning": "중생대를 3기로 나누었을 때 마지막 지질 시대",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "堊",
+          "白",
+          "紀"
+        ]
+      },
+      {
+        "surface": "河口堰",
+        "reading": "하구언",
+        "meaning": "바닷물 유입을 막으려 강어귀에 쌓은 댐",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "口",
+          "堰",
+          "河"
+        ]
+      },
+      {
+        "surface": "堤堰",
+        "reading": "제언",
+        "meaning": "물을 가두기 위해 강이나 바다에 쌓은 둑",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "堤",
+          "堰"
+        ]
+      },
+      {
+        "surface": "塡補",
+        "reading": "전보",
+        "meaning": "부족한 것을 메워서 채움",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "塡",
+          "補"
+        ]
+      },
+      {
+        "surface": "壅蔽",
+        "reading": "옹폐",
+        "meaning": "윗사람의 총명을 막아서 가림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "壅",
+          "蔽"
+        ]
+      },
+      {
+        "surface": "壟斷",
+        "reading": "농단",
+        "meaning": "깎아 세운 듯한 높은 언덕",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "壟",
+          "斷"
+        ]
+      },
+      {
+        "surface": "孫壻",
+        "reading": "손서",
+        "meaning": "손녀의 남편",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "壻",
+          "孫"
+        ]
+      },
+      {
+        "surface": "夙宵",
+        "reading": "숙소",
+        "meaning": "이른 아침과 깊은 밤",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "夙",
+          "宵"
+        ]
+      },
+      {
+        "surface": "夙夜",
+        "reading": "숙야",
+        "meaning": "이른 아침과 깊은 밤",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "夙",
+          "夜"
+        ]
+      },
+      {
+        "surface": "夭歿",
+        "reading": "요몰",
+        "meaning": "젊은 나이에 죽음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "夭",
+          "歿"
+        ]
+      },
+      {
+        "surface": "夭死",
+        "reading": "요사",
+        "meaning": "젊은 나이에 죽음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "夭",
+          "死"
+        ]
+      },
+      {
+        "surface": "夭逝",
+        "reading": "요서",
+        "meaning": "젊은 나이에 죽음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "夭",
+          "逝"
+        ]
+      },
+      {
+        "surface": "語套",
+        "reading": "어투",
+        "meaning": "말에 드러나는 기분이나 말을 하는 버릇",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "套",
+          "語"
+        ]
+      },
+      {
+        "surface": "常套的",
+        "reading": "상투적",
+        "meaning": "자주 사용해서 새롭게 느껴지지 않는 것",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "套",
+          "常",
+          "的"
+        ]
+      },
+      {
+        "surface": "常套語",
+        "reading": "상투어",
+        "meaning": "자주 사용해서 버릇처럼 쓰게 되는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "套",
+          "常",
+          "語"
+        ]
+      },
+      {
+        "surface": "文套",
+        "reading": "문투",
+        "meaning": "글을 짓는 법식",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "套",
+          "文"
+        ]
+      },
+      {
+        "surface": "釋奠",
+        "reading": "석전",
+        "meaning": "문묘에서 공자에게 지내는 제사",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "奠",
+          "釋"
+        ]
+      },
+      {
+        "surface": "祖妣",
+        "reading": "조비",
+        "meaning": "돌아가신 할머니를 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "妣",
+          "祖"
+        ]
+      },
+      {
+        "surface": "顯妣",
+        "reading": "현비",
+        "meaning": "남에게 돌아가신 자기 어머니를 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "妣",
+          "顯"
+        ]
+      },
+      {
+        "surface": "高祖妣",
+        "reading": "고조비",
+        "meaning": "돌아가신 고조모",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "妣",
+          "祖",
+          "高"
+        ]
+      },
+      {
+        "surface": "寵姬",
+        "reading": "총희",
+        "meaning": "특별한 귀염과 사랑을 받는 여자",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "姬",
+          "寵"
+        ]
+      },
+      {
+        "surface": "妊娠線",
+        "reading": "임신선",
+        "meaning": "임신부 피부에 생기는 붉고 가는 선",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "妊",
+          "娠",
+          "線"
+        ]
+      },
+      {
+        "surface": "繼娶",
+        "reading": "계취",
+        "meaning": "아내와 사별하거나 이혼한 뒤 다시 장가듦",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "娶",
+          "繼"
+        ]
+      },
+      {
+        "surface": "私娼",
+        "reading": "사창",
+        "meaning": "관청의 허가 없이 비밀히 매음하는 창녀",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "娼",
+          "私"
+        ]
+      },
+      {
+        "surface": "公娼",
+        "reading": "공창",
+        "meaning": "관청의 허가를 받고 매음 행위를 하는 여자",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "公",
+          "娼"
+        ]
+      },
+      {
+        "surface": "娼家",
+        "reading": "창가",
+        "meaning": "창기의 집",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "娼",
+          "家"
+        ]
+      },
+      {
+        "surface": "娼館",
+        "reading": "창관",
+        "meaning": "창기나 창녀들이 있는 집",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "娼",
+          "館"
+        ]
+      },
+      {
+        "surface": "婉辭",
+        "reading": "완사",
+        "meaning": "완곡하게 말함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "婉",
+          "辭"
+        ]
+      },
+      {
+        "surface": "媚態",
+        "reading": "미태",
+        "meaning": "아양을 부리는 태도",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "媚",
+          "態"
+        ]
+      },
+      {
+        "surface": "邪媚",
+        "reading": "사미",
+        "meaning": "마음이 바르지 못하여 아첨함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "媚",
+          "邪"
+        ]
+      },
+      {
+        "surface": "嫡男",
+        "reading": "적남",
+        "meaning": "정실이 낳은 아들",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "嫡",
+          "男"
+        ]
+      },
+      {
+        "surface": "嫡女",
+        "reading": "적녀",
+        "meaning": "정실이 낳은 딸",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "女",
+          "嫡"
+        ]
+      },
+      {
+        "surface": "嫡流",
+        "reading": "적류",
+        "meaning": "적가의 계통",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "嫡",
+          "流"
+        ]
+      },
+      {
+        "surface": "世子嬪",
+        "reading": "세자빈",
+        "meaning": "세자의 아내",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "世",
+          "嬪",
+          "子"
+        ]
+      },
+      {
+        "surface": "退嬰",
+        "reading": "퇴영",
+        "meaning": "뒤로 물러나서 가만히 틀어박혀 있음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "嬰",
+          "退"
+        ]
+      },
+      {
+        "surface": "嬰兒期",
+        "reading": "영아기",
+        "meaning": "젖을 먹는 어린아이 시기",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "兒",
+          "嬰",
+          "期"
+        ]
+      },
+      {
+        "surface": "孀婦",
+        "reading": "상부",
+        "meaning": "남편이 죽어서 혼자 사는 젊은 여자",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "婦",
+          "孀"
+        ]
+      },
+      {
+        "surface": "孕婦",
+        "reading": "잉부",
+        "meaning": "아이를 밴 여자",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "婦",
+          "孕"
+        ]
+      },
+      {
+        "surface": "宥免",
+        "reading": "유면",
+        "meaning": "잘못을 용서하고 풀어 줌",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "免",
+          "宥"
+        ]
+      },
+      {
+        "surface": "宥罪",
+        "reading": "유죄",
+        "meaning": "죄를 너그러이 용서함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "宥",
+          "罪"
+        ]
+      },
+      {
+        "surface": "良宵",
+        "reading": "양소",
+        "meaning": "달이 밝고 바람이 없는 밤",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "宵",
+          "良"
+        ]
+      },
+      {
+        "surface": "連宵",
+        "reading": "연소",
+        "meaning": "여러 날 밤을 계속함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "宵",
+          "連"
+        ]
+      },
+      {
+        "surface": "元宵",
+        "reading": "원소",
+        "meaning": "음력 정월 보름날 밤",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "元",
+          "宵"
+        ]
+      },
+      {
+        "surface": "邊寇",
+        "reading": "변구",
+        "meaning": "국경 지역에 침입하는 외적",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "寇",
+          "邊"
+        ]
+      },
+      {
+        "surface": "外寇",
+        "reading": "외구",
+        "meaning": "외국으로부터 쳐들어오는 적",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "外",
+          "寇"
+        ]
+      },
+      {
+        "surface": "流寇",
+        "reading": "유구",
+        "meaning": "떠돌아다니며 사람을 해치고 재물을 빼앗는 도둑",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "寇",
+          "流"
+        ]
+      },
+      {
+        "surface": "入寇",
+        "reading": "입구",
+        "meaning": "외국의 군대나 적도 떼가 쳐들어옴",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "入",
+          "寇"
+        ]
+      },
+      {
+        "surface": "寓目",
+        "reading": "우목",
+        "meaning": "눈여겨보거나 주목함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "寓",
+          "目"
+        ]
+      },
+      {
+        "surface": "寓舍",
+        "reading": "우사",
+        "meaning": "임시로 거주하는 집",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "寓",
+          "舍"
+        ]
+      },
+      {
+        "surface": "寥廓",
+        "reading": "요확",
+        "meaning": "텅 비고 끝없이 넓음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "寥",
+          "廓"
+        ]
+      },
+      {
+        "surface": "不屑",
+        "reading": "불설",
+        "meaning": "탐탁하게 여기지 아니함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "不",
+          "屑"
+        ]
+      },
+      {
+        "surface": "墨帖",
+        "reading": "묵첩",
+        "meaning": "이름난 사람의 글씨나 매우 잘 쓴 글씨를 모아 만든 책",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "墨",
+          "帖"
+        ]
+      },
+      {
+        "surface": "法帖",
+        "reading": "법첩",
+        "meaning": "체법이 될 만한 명필의 서첩",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "帖",
+          "法"
+        ]
+      },
+      {
+        "surface": "碑帖",
+        "reading": "비첩",
+        "meaning": "비석에 새긴 글이나 그림을 종이에 떠낸 것",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "帖",
+          "碑"
+        ]
+      },
+      {
+        "surface": "揭帖",
+        "reading": "게첩",
+        "meaning": "내어 걸어 붙임",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "帖",
+          "揭"
+        ]
+      },
+      {
+        "surface": "書帖",
+        "reading": "서첩",
+        "meaning": "이름난 사람의 글씨나 매우 잘 쓴 글씨를 모아 만든 책",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "帖",
+          "書"
+        ]
+      },
+      {
+        "surface": "缺帙",
+        "reading": "결질",
+        "meaning": "한 질을 이루는 여러 권의 책 중에서 빠진 권이 있음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "帙",
+          "缺"
+        ]
+      },
+      {
+        "surface": "完帙",
+        "reading": "완질",
+        "meaning": "모든 권수가 온전하게 다 갖추어진 책",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "完",
+          "帙"
+        ]
+      },
+      {
+        "surface": "帛書",
+        "reading": "백서",
+        "meaning": "비단에 쓴 글",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "帛",
+          "書"
+        ]
+      },
+      {
+        "surface": "裂帛",
+        "reading": "열백",
+        "meaning": "비단을 찢음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "帛",
+          "裂"
+        ]
+      },
+      {
+        "surface": "玉帛",
+        "reading": "옥백",
+        "meaning": "옥과 비단을 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "帛",
+          "玉"
+        ]
+      },
+      {
+        "surface": "幇助犯",
+        "reading": "방조범",
+        "meaning": "형법에서, 남의 범죄 행위를 도움으로써 성립하는 범죄",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "助",
+          "幇",
+          "犯"
+        ]
+      },
+      {
+        "surface": "幇助罪",
+        "reading": "방조죄",
+        "meaning": "남의 범죄 행위를 도움으로써 성립하는 범죄",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "助",
+          "幇",
+          "罪"
+        ]
+      },
+      {
+        "surface": "四人幇",
+        "reading": "사인방",
+        "meaning": "마오쩌둥 사후 정권을 노리다 실각한 네 사람",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "人",
+          "四",
+          "幇"
+        ]
+      },
+      {
+        "surface": "庖丁",
+        "reading": "포정",
+        "meaning": "소나 개, 돼지 따위를 잡는 일을 직업으로 하는 사람",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "丁",
+          "庖"
+        ]
+      },
+      {
+        "surface": "庖廚",
+        "reading": "포주",
+        "meaning": "‘푸주’의 원말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "庖",
+          "廚"
+        ]
+      },
+      {
+        "surface": "米廛",
+        "reading": "미전",
+        "meaning": "쌀과 그 밖의 곡식을 파는 가게",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "廛",
+          "米"
+        ]
+      },
+      {
+        "surface": "藥廛",
+        "reading": "약전",
+        "meaning": "한약재를 파는 가게",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "廛",
+          "藥"
+        ]
+      },
+      {
+        "surface": "弧狀",
+        "reading": "호상",
+        "meaning": "활등처럼 굽은 모양",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "弧",
+          "狀"
+        ]
+      },
+      {
+        "surface": "彎曲部",
+        "reading": "만곡부",
+        "meaning": "활 모양으로 굽은 부분",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "彎",
+          "曲",
+          "部"
+        ]
+      },
+      {
+        "surface": "三徙",
+        "reading": "삼사",
+        "meaning": "맹자의 어머니가 교육을 위해 세 번 이사함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "三",
+          "徙"
+        ]
+      },
+      {
+        "surface": "轉徙",
+        "reading": "전사",
+        "meaning": "사는 곳을 다른 데로 옮김",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "徙",
+          "轉"
+        ]
+      },
+      {
+        "surface": "衆忿",
+        "reading": "중분",
+        "meaning": "많은 사람의 분노",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "忿",
+          "衆"
+        ]
+      },
+      {
+        "surface": "恙蟲病",
+        "reading": "양충병",
+        "meaning": "털진드기의 유충에 물려 옮는 전염병",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "恙",
+          "病",
+          "蟲"
+        ]
+      },
+      {
+        "surface": "詳悉",
+        "reading": "상실",
+        "meaning": "내용을 빠짐없이 자세히 앎",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "悉",
+          "詳"
+        ]
+      },
+      {
+        "surface": "熟悉",
+        "reading": "숙실",
+        "meaning": "어떤 사정이나 형편, 상대의 의사 따위를 자세히 앎",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "悉",
+          "熟"
+        ]
+      },
+      {
+        "surface": "悉皆",
+        "reading": "실개",
+        "meaning": "모두 다",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "悉",
+          "皆"
+        ]
+      },
+      {
+        "surface": "恐惶",
+        "reading": "공황",
+        "meaning": "두려워서 어찌할 바를 모름",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "恐",
+          "惶"
+        ]
+      },
+      {
+        "surface": "惶感",
+        "reading": "황감",
+        "meaning": "황송하고 감격스러움",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "惶",
+          "感"
+        ]
+      },
+      {
+        "surface": "惶怯",
+        "reading": "황겁",
+        "meaning": "겁이 나서 얼떨떨함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "怯",
+          "惶"
+        ]
+      },
+      {
+        "surface": "駭愕",
+        "reading": "해악",
+        "meaning": "몹시 놀람",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "愕",
+          "駭"
+        ]
+      },
+      {
+        "surface": "恐慄",
+        "reading": "공률",
+        "meaning": "몹시 무섭거나 두려워 몸이 벌벌 떨림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "恐",
+          "慄"
+        ]
+      },
+      {
+        "surface": "震慄",
+        "reading": "진율",
+        "meaning": "무섭고 두려워서 몸을 떪",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "慄",
+          "震"
+        ]
+      },
+      {
+        "surface": "畏憚",
+        "reading": "외탄",
+        "meaning": "두려워하고 꺼림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "憚",
+          "畏"
+        ]
+      },
+      {
+        "surface": "無忌憚",
+        "reading": "무기탄",
+        "meaning": "아무 꺼릴 바가 없음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "忌",
+          "憚",
+          "無"
+        ]
+      },
+      {
+        "surface": "懈怠",
+        "reading": "해태",
+        "meaning": "행동이 느리고 움직이거나 일하기를 싫어하는 태도나 버릇",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "怠",
+          "懈"
+        ]
+      },
+      {
+        "surface": "懦夫",
+        "reading": "나부",
+        "meaning": "겁이 유난히 많은 사내",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "夫",
+          "懦"
+        ]
+      },
+      {
+        "surface": "戍樓",
+        "reading": "수루",
+        "meaning": "적군의 동정을 살피려고 성 위에 만든 누각",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "戍",
+          "樓"
+        ]
+      },
+      {
+        "surface": "戍兵",
+        "reading": "수병",
+        "meaning": "수비하는 군사",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "兵",
+          "戍"
+        ]
+      },
+      {
+        "surface": "戍守",
+        "reading": "수수",
+        "meaning": "국경을 지킴",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "守",
+          "戍"
+        ]
+      },
+      {
+        "surface": "戮力",
+        "reading": "육력",
+        "meaning": "서로 힘을 모음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "力",
+          "戮"
+        ]
+      },
+      {
+        "surface": "柴扉",
+        "reading": "시비",
+        "meaning": "사립짝을 달아서 만든 문",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "扉",
+          "柴"
+        ]
+      },
+      {
+        "surface": "鐵扉",
+        "reading": "철비",
+        "meaning": "쇠로 만든 문짝",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "扉",
+          "鐵"
+        ]
+      },
+      {
+        "surface": "誘拐者",
+        "reading": "유괴자",
+        "meaning": "사람을 속여서 꾀어낸 자",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "拐",
+          "者",
+          "誘"
+        ]
+      },
+      {
+        "surface": "誘拐罪",
+        "reading": "유괴죄",
+        "meaning": "사람을 속여서 꾀어냄으로써 성립하는 죄",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "拐",
+          "罪",
+          "誘"
+        ]
+      },
+      {
+        "surface": "拱揖",
+        "reading": "공읍",
+        "meaning": "두 손을 마주 모아 잡고 인사함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "拱",
+          "揖"
+        ]
+      },
+      {
+        "surface": "挺身",
+        "reading": "정신",
+        "meaning": "무슨 일에 앞장서서 나아감",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "挺",
+          "身"
+        ]
+      },
+      {
+        "surface": "捏造說",
+        "reading": "날조설",
+        "meaning": "거짓으로 꾸며 낸 학설",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "捏",
+          "說",
+          "造"
+        ]
+      },
+      {
+        "surface": "捐軀",
+        "reading": "연구",
+        "meaning": "정의를 위하여 목숨이나 몸을 버림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "捐",
+          "軀"
+        ]
+      },
+      {
+        "surface": "捐金",
+        "reading": "연금",
+        "meaning": "사회적 공익이나 자선을 위하여 내는 돈",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "捐",
+          "金"
+        ]
+      },
+      {
+        "surface": "捐棄",
+        "reading": "연기",
+        "meaning": "옳은 일에 보태어서 버림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "捐",
+          "棄"
+        ]
+      },
+      {
+        "surface": "捐命",
+        "reading": "연명",
+        "meaning": "생목숨을 버림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "命",
+          "捐"
+        ]
+      },
+      {
+        "surface": "捧納",
+        "reading": "봉납",
+        "meaning": "물품 따위를 바침",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "捧",
+          "納"
+        ]
+      },
+      {
+        "surface": "長揖",
+        "reading": "장읍",
+        "meaning": "두 손을 마주 잡아 눈높이만큼 들어서 허리를 굽히는 예",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "揖",
+          "長"
+        ]
+      },
+      {
+        "surface": "搏戰",
+        "reading": "박전",
+        "meaning": "서로 맞붙어 치고받으며 싸움",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "戰",
+          "搏"
+        ]
+      },
+      {
+        "surface": "搏鬪",
+        "reading": "박투",
+        "meaning": "서로 맞닥뜨려 치고 때리며 싸움",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "搏",
+          "鬪"
+        ]
+      },
+      {
+        "surface": "心搏計",
+        "reading": "심박계",
+        "meaning": "심장의 박동을 재는 기계",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "心",
+          "搏",
+          "計"
+        ]
+      },
+      {
+        "surface": "搔癢感",
+        "reading": "소양감",
+        "meaning": "아프고 가려운 느낌",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "感",
+          "搔",
+          "癢"
+        ]
+      },
+      {
+        "surface": "搗精業",
+        "reading": "도정업",
+        "meaning": "남의 곡식을 찧거나 쓿어 주는 직업",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "搗",
+          "業",
+          "精"
+        ]
+      },
+      {
+        "surface": "撒水",
+        "reading": "살수",
+        "meaning": "물을 흩어서 뿌림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "撒",
+          "水"
+        ]
+      },
+      {
+        "surface": "新撰",
+        "reading": "신찬",
+        "meaning": "새로 책을 펴내거나 편집함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "撰",
+          "新"
+        ]
+      },
+      {
+        "surface": "自撰",
+        "reading": "자찬",
+        "meaning": "손수 책을 편찬함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "撰",
+          "自"
+        ]
+      },
+      {
+        "surface": "撰錄",
+        "reading": "찬록",
+        "meaning": "학문이나 문예 따위의 글을 짓거나 골라 모아서 기록함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "撰",
+          "錄"
+        ]
+      },
+      {
+        "surface": "撰文",
+        "reading": "찬문",
+        "meaning": "글을 지음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "撰",
+          "文"
+        ]
+      },
+      {
+        "surface": "撻楚",
+        "reading": "달초",
+        "meaning": "자식이나 제자를 훈계하려 회초리로 때림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "撻",
+          "楚"
+        ]
+      },
+      {
+        "surface": "擅權",
+        "reading": "천권",
+        "meaning": "권력을 마음대로 부림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "擅",
+          "權"
+        ]
+      },
+      {
+        "surface": "擅斷",
+        "reading": "천단",
+        "meaning": "제 마음대로 처단함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "擅",
+          "斷"
+        ]
+      },
+      {
+        "surface": "擅動",
+        "reading": "천동",
+        "meaning": "함부로 행동함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "動",
+          "擅"
+        ]
+      },
+      {
+        "surface": "擅離",
+        "reading": "천리",
+        "meaning": "상부의 지시 없이 자리를 함부로 떠남",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "擅",
+          "離"
+        ]
+      },
+      {
+        "surface": "擅名",
+        "reading": "천명",
+        "meaning": "이름을 드날림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "名",
+          "擅"
+        ]
+      },
+      {
+        "surface": "擒縛",
+        "reading": "금박",
+        "meaning": "사로잡아서 묶음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "擒",
+          "縛"
+        ]
+      },
+      {
+        "surface": "擒縱",
+        "reading": "금종",
+        "meaning": "포로로 사로잡음과 용서하여 놓아줌",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "擒",
+          "縱"
+        ]
+      },
+      {
+        "surface": "擒捉",
+        "reading": "금착",
+        "meaning": "산 채로 붙잡음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "捉",
+          "擒"
+        ]
+      },
+      {
+        "surface": "昇擢",
+        "reading": "승탁",
+        "meaning": "인재를 뽑아서 씀",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "擢",
+          "昇"
+        ]
+      },
+      {
+        "surface": "抽擢",
+        "reading": "추탁",
+        "meaning": "여럿 가운데에서 뽑아 올려 씀",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "抽",
+          "擢"
+        ]
+      },
+      {
+        "surface": "擢拔",
+        "reading": "탁발",
+        "meaning": "여러 사람 가운데서 쓸 사람을 뽑음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "拔",
+          "擢"
+        ]
+      },
+      {
+        "surface": "攀附",
+        "reading": "반부",
+        "meaning": "어떤 연줄을 타고 섬기어 따름",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "攀",
+          "附"
+        ]
+      },
+      {
+        "surface": "攀援",
+        "reading": "반원",
+        "meaning": "휘어잡고 의지하거나 기어 올라감",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "援",
+          "攀"
+        ]
+      },
+      {
+        "surface": "登攀客",
+        "reading": "등반객",
+        "meaning": "험한 산이나 높은 곳을 오르는 사람",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "客",
+          "攀",
+          "登"
+        ]
+      },
+      {
+        "surface": "登攀隊",
+        "reading": "등반대",
+        "meaning": "험한 산이나 높은 곳에 오르기 위하여 조직한 무리",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "攀",
+          "登",
+          "隊"
+        ]
+      },
+      {
+        "surface": "攘外",
+        "reading": "양외",
+        "meaning": "외세를 배척함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "外",
+          "攘"
+        ]
+      },
+      {
+        "surface": "攘夷",
+        "reading": "양이",
+        "meaning": "외국 사람을 오랑캐로 얕보고 배척함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "夷",
+          "攘"
+        ]
+      },
+      {
+        "surface": "攘除",
+        "reading": "양제",
+        "meaning": "물리쳐 없앰",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "攘",
+          "除"
+        ]
+      },
+      {
+        "surface": "斃死率",
+        "reading": "폐사율",
+        "meaning": "전체에 대비하여 쓰러져 죽은 비율",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "斃",
+          "死",
+          "率"
+        ]
+      },
+      {
+        "surface": "斧斤",
+        "reading": "부근",
+        "meaning": "큰 도끼와 작은 도끼를 통틀어 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "斤",
+          "斧"
+        ]
+      },
+      {
+        "surface": "手斧",
+        "reading": "수부",
+        "meaning": "한 손으로 쓸 수 있게 만든 작은 도끼",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "手",
+          "斧"
+        ]
+      },
+      {
+        "surface": "昂揚",
+        "reading": "앙양",
+        "meaning": "정신이나 사기 따위를 드높이고 북돋움",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "揚",
+          "昂"
+        ]
+      },
+      {
+        "surface": "低昂",
+        "reading": "저앙",
+        "meaning": "낮아졌다 높아졌다 함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "低",
+          "昂"
+        ]
+      },
+      {
+        "surface": "月暈",
+        "reading": "월운",
+        "meaning": "달 언저리에 둥그렇게 생기는 구름 같은 허연 테",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "暈",
+          "月"
+        ]
+      },
+      {
+        "surface": "日暈",
+        "reading": "일운",
+        "meaning": "해 둘레에 둥글게 나타나는 빛의 테두리",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "日",
+          "暈"
+        ]
+      },
+      {
+        "surface": "晴曇",
+        "reading": "청담",
+        "meaning": "날씨의 맑음과 흐림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "晴",
+          "曇"
+        ]
+      },
+      {
+        "surface": "曙色",
+        "reading": "서색",
+        "meaning": "날이 새려고 먼동이 트는 빛",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "曙",
+          "色"
+        ]
+      },
+      {
+        "surface": "被曝",
+        "reading": "피폭",
+        "meaning": "인체가 방사능에 노출됨",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "曝",
+          "被"
+        ]
+      },
+      {
+        "surface": "朞年",
+        "reading": "기년",
+        "meaning": "일 년 동안 입는 상복",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "年",
+          "朞"
+        ]
+      },
+      {
+        "surface": "朞服",
+        "reading": "기복",
+        "meaning": "일 년 동안 입는 상복",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "服",
+          "朞"
+        ]
+      },
+      {
+        "surface": "机上論",
+        "reading": "궤상론",
+        "meaning": "현실성이 없는 허황한 이론이나 논의",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "上",
+          "机",
+          "論"
+        ]
+      },
+      {
+        "surface": "机上肉",
+        "reading": "궤상육",
+        "meaning": "어찌할 수 없게 된 처지나 운명",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "上",
+          "机",
+          "肉"
+        ]
+      },
+      {
+        "surface": "喪杖",
+        "reading": "상장",
+        "meaning": "상제가 상례나 제사 때 짚는 지팡이",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "喪",
+          "杖"
+        ]
+      },
+      {
+        "surface": "柚子酒",
+        "reading": "유자주",
+        "meaning": "유자를 넣고 담근 술",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "子",
+          "柚",
+          "酒"
+        ]
+      },
+      {
+        "surface": "柚子汁",
+        "reading": "유자즙",
+        "meaning": "유자에서 짜낸 물",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "子",
+          "柚",
+          "汁"
+        ]
+      },
+      {
+        "surface": "柚子淸",
+        "reading": "유자청",
+        "meaning": "정과의 하나",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "子",
+          "柚",
+          "淸"
+        ]
+      },
+      {
+        "surface": "城柵",
+        "reading": "성책",
+        "meaning": "성에 둘러친 울짱",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "城",
+          "柵"
+        ]
+      },
+      {
+        "surface": "竹柵",
+        "reading": "죽책",
+        "meaning": "대나무를 엮거나 심어서 만든 울타리",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "柵",
+          "竹"
+        ]
+      },
+      {
+        "surface": "雲梯",
+        "reading": "운제",
+        "meaning": "높은 사다리",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "梯",
+          "雲"
+        ]
+      },
+      {
+        "surface": "梳洗",
+        "reading": "소세",
+        "meaning": "머리를 빗고 낯을 씻음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "梳",
+          "洗"
+        ]
+      },
+      {
+        "surface": "棗卵",
+        "reading": "조란",
+        "meaning": "세실과의 한 가지",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "卵",
+          "棗"
+        ]
+      },
+      {
+        "surface": "棗栗",
+        "reading": "조율",
+        "meaning": "대추와 밤을 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "栗",
+          "棗"
+        ]
+      },
+      {
+        "surface": "棧閣",
+        "reading": "잔각",
+        "meaning": "험한 벼랑 같은 곳에 낸 길",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "棧",
+          "閣"
+        ]
+      },
+      {
+        "surface": "棧道",
+        "reading": "잔도",
+        "meaning": "험한 벼랑 같은 곳에 낸 길",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "棧",
+          "道"
+        ]
+      },
+      {
+        "surface": "附椽",
+        "reading": "부연",
+        "meaning": "처마 서까래의 끝에 덧얹는 네모지고 짧은 서까래",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "椽",
+          "附"
+        ]
+      },
+      {
+        "surface": "楷書",
+        "reading": "해서",
+        "meaning": "한자 서체의 하나",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "書",
+          "楷"
+        ]
+      },
+      {
+        "surface": "涅槃圖",
+        "reading": "열반도",
+        "meaning": "석가모니가 입적할 때의 광경을 묘사한 그림이나 조각",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "圖",
+          "槃",
+          "涅"
+        ]
+      },
+      {
+        "surface": "涅槃像",
+        "reading": "열반상",
+        "meaning": "석가모니가 입적할 때의 광경을 묘사한 그림이나 조각",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "像",
+          "槃",
+          "涅"
+        ]
+      },
+      {
+        "surface": "木槌",
+        "reading": "목퇴",
+        "meaning": "나무로 만든 몽치",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "木",
+          "槌"
+        ]
+      },
+      {
+        "surface": "樵歌",
+        "reading": "초가",
+        "meaning": "나무꾼들이 부르는 노래",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "樵",
+          "歌"
+        ]
+      },
+      {
+        "surface": "樵童",
+        "reading": "초동",
+        "meaning": "땔나무를 하는 아이",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "樵",
+          "童"
+        ]
+      },
+      {
+        "surface": "酒樽",
+        "reading": "주준",
+        "meaning": "술을 담아 두는 큰 통",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "樽",
+          "酒"
+        ]
+      },
+      {
+        "surface": "傳檄",
+        "reading": "전격",
+        "meaning": "격문을 전함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "傳",
+          "檄"
+        ]
+      },
+      {
+        "surface": "櫛齒",
+        "reading": "즐치",
+        "meaning": "빗의 가늘게 갈라진 낱낱의 살",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "櫛",
+          "齒"
+        ]
+      },
+      {
+        "surface": "欠席",
+        "reading": "흠석",
+        "meaning": "나가야 할 자리에 나가지 않음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "席",
+          "欠"
+        ]
+      },
+      {
+        "surface": "欠損",
+        "reading": "흠손",
+        "meaning": "어느 부분이 없거나 잘못되어서 불완전함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "損",
+          "欠"
+        ]
+      },
+      {
+        "surface": "欣悅",
+        "reading": "흔열",
+        "meaning": "기뻐하고 즐거워함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "悅",
+          "欣"
+        ]
+      },
+      {
+        "surface": "歇價",
+        "reading": "헐가",
+        "meaning": "그 물건의 원래 가격보다 훨씬 싼 값",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "價",
+          "歇"
+        ]
+      },
+      {
+        "surface": "歿後",
+        "reading": "몰후",
+        "meaning": "죽고 난 이후",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "後",
+          "歿"
+        ]
+      },
+      {
+        "surface": "病歿",
+        "reading": "병몰",
+        "meaning": "병으로 죽음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "歿",
+          "病"
+        ]
+      },
+      {
+        "surface": "死歿",
+        "reading": "사몰",
+        "meaning": "사람이 죽음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "死",
+          "歿"
+        ]
+      },
+      {
+        "surface": "生歿",
+        "reading": "생몰",
+        "meaning": "태어나고 죽음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "歿",
+          "生"
+        ]
+      },
+      {
+        "surface": "殮具",
+        "reading": "염구",
+        "meaning": "염습할 때에, 사용하는 여러 가지 기구",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "具",
+          "殮"
+        ]
+      },
+      {
+        "surface": "殮襲",
+        "reading": "염습",
+        "meaning": "시신을 씻긴 뒤 수의를 갈아입히고 염포로 묶는 일",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "殮",
+          "襲"
+        ]
+      },
+      {
+        "surface": "成殯",
+        "reading": "성빈",
+        "meaning": "빈소를 차림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "成",
+          "殯"
+        ]
+      },
+      {
+        "surface": "草殯",
+        "reading": "초빈",
+        "meaning": "장사를 치르기 전 관을 짚 등으로 덮어 둠",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "殯",
+          "草"
+        ]
+      },
+      {
+        "surface": "毆傷",
+        "reading": "구상",
+        "meaning": "때려서 상처를 냄",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "傷",
+          "毆"
+        ]
+      },
+      {
+        "surface": "氈帳",
+        "reading": "전장",
+        "meaning": "모전으로 만든 장막",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "帳",
+          "氈"
+        ]
+      },
+      {
+        "surface": "汲引",
+        "reading": "급인",
+        "meaning": "물을 길어 올림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "引",
+          "汲"
+        ]
+      },
+      {
+        "surface": "飛沫",
+        "reading": "비말",
+        "meaning": "날아 흩어지거나 튀어 오르는 물방울",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "沫",
+          "飛"
+        ]
+      },
+      {
+        "surface": "水沫",
+        "reading": "수말",
+        "meaning": "물이 다른 물이나 물체에 부딪쳐서 생기는 거품",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "水",
+          "沫"
+        ]
+      },
+      {
+        "surface": "泛論",
+        "reading": "범론",
+        "meaning": "데면데면하게 들띄워 놓고 하는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "泛",
+          "論"
+        ]
+      },
+      {
+        "surface": "泛舟",
+        "reading": "범주",
+        "meaning": "배를 물에 띄움",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "泛",
+          "舟"
+        ]
+      },
+      {
+        "surface": "大洑",
+        "reading": "대보",
+        "meaning": "큰 물둑",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "大",
+          "洑"
+        ]
+      },
+      {
+        "surface": "取水洑",
+        "reading": "취수보",
+        "meaning": "끌어 들인 물을 막아 놓기 위하여 만든 둑",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "取",
+          "水",
+          "洑"
+        ]
+      },
+      {
+        "surface": "河川洑",
+        "reading": "하천보",
+        "meaning": "물을 끌어들이거나 수위를 높이는 구조물",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "川",
+          "河",
+          "洑"
+        ]
+      },
+      {
+        "surface": "涕淚",
+        "reading": "체루",
+        "meaning": "슬프거나 감동하여 흐르는 눈물",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "涕",
+          "淚"
+        ]
+      },
+      {
+        "surface": "涕泗",
+        "reading": "체사",
+        "meaning": "울어서 흐르는 눈물이나 콧물",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "泗",
+          "涕"
+        ]
+      },
+      {
+        "surface": "淘汰期",
+        "reading": "도태기",
+        "meaning": "도태되는 시기",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "期",
+          "汰",
+          "淘"
+        ]
+      },
+      {
+        "surface": "游泳力",
+        "reading": "유영력",
+        "meaning": "헤엄을 칠 수 있는 힘",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "力",
+          "泳",
+          "游"
+        ]
+      },
+      {
+        "surface": "滄溟",
+        "reading": "창명",
+        "meaning": "넓고 큰 바다",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "溟",
+          "滄"
+        ]
+      },
+      {
+        "surface": "滲入",
+        "reading": "삼입",
+        "meaning": "물 따위의 액체가 스며듦",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "入",
+          "滲"
+        ]
+      },
+      {
+        "surface": "漕運船",
+        "reading": "조운선",
+        "meaning": "물건을 실어 나르는 데 쓰는 배",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "漕",
+          "船",
+          "運"
+        ]
+      },
+      {
+        "surface": "漲溢",
+        "reading": "창일",
+        "meaning": "물이 불어 넘침",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "溢",
+          "漲"
+        ]
+      },
+      {
+        "surface": "乳漿",
+        "reading": "유장",
+        "meaning": "젖 성분에서 단백질과 지방을 빼고 남은 부분",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "乳",
+          "漿"
+        ]
+      },
+      {
+        "surface": "潑墨",
+        "reading": "발묵",
+        "meaning": "글씨나 그림에서, 먹물이 번져 퍼지는 일",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "墨",
+          "潑"
+        ]
+      },
+      {
+        "surface": "澁味",
+        "reading": "삽미",
+        "meaning": "설익은 감의 맛처럼 거세고 텁텁한 맛",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "味",
+          "澁"
+        ]
+      },
+      {
+        "surface": "澁滯",
+        "reading": "삽체",
+        "meaning": "일이 잘 진행되지 아니하고 늦어짐",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "滯",
+          "澁"
+        ]
+      },
+      {
+        "surface": "下澣",
+        "reading": "하한",
+        "meaning": "한 달 가운데 21일에서 말일까지의 동안",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "下",
+          "澣"
+        ]
+      },
+      {
+        "surface": "澣衣",
+        "reading": "한의",
+        "meaning": "옷을 빪",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "澣",
+          "衣"
+        ]
+      },
+      {
+        "surface": "澣滌",
+        "reading": "한척",
+        "meaning": "때 묻은 옷을 빪",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "滌",
+          "澣"
+        ]
+      },
+      {
+        "surface": "澣濯",
+        "reading": "한탁",
+        "meaning": "때 묻은 옷을 빪",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "澣",
+          "濯"
+        ]
+      },
+      {
+        "surface": "瀆職",
+        "reading": "독직",
+        "meaning": "어떤 직책에 있는 사람이 그 직책을 더럽힘",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "瀆",
+          "職"
+        ]
+      },
+      {
+        "surface": "狂瀾",
+        "reading": "광란",
+        "meaning": "미친 듯이 날뛰는 사나운 물결",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "瀾",
+          "狂"
+        ]
+      },
+      {
+        "surface": "灸士",
+        "reading": "구사",
+        "meaning": "뜸질을 하여 병을 고치는 사람",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "士",
+          "灸"
+        ]
+      },
+      {
+        "surface": "灼痛",
+        "reading": "작통",
+        "meaning": "불로 지지는 듯한 아픔",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "灼",
+          "痛"
+        ]
+      },
+      {
+        "surface": "烙刑",
+        "reading": "낙형",
+        "meaning": "불에 달군 쇠로 몸을 지지는 일",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "刑",
+          "烙"
+        ]
+      },
+      {
+        "surface": "烽煙",
+        "reading": "봉연",
+        "meaning": "봉화를 올리는 연기",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "烽",
+          "煙"
+        ]
+      },
+      {
+        "surface": "煎茶",
+        "reading": "전다",
+        "meaning": "차를 달임",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "煎",
+          "茶"
+        ]
+      },
+      {
+        "surface": "灰燼化",
+        "reading": "회신화",
+        "meaning": "모두 타 버려 재만 남음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "化",
+          "灰",
+          "燼"
+        ]
+      },
+      {
+        "surface": "牙爪",
+        "reading": "아조",
+        "meaning": "적을 막기 위한 수단과 도구",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "爪",
+          "牙"
+        ]
+      },
+      {
+        "surface": "爪角",
+        "reading": "조각",
+        "meaning": "적으로부터 자신을 지켜 주는 물건",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "爪",
+          "角"
+        ]
+      },
+      {
+        "surface": "爪甲",
+        "reading": "조갑",
+        "meaning": "손톱과 발톱을 통틀어 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "爪",
+          "甲"
+        ]
+      },
+      {
+        "surface": "爬蟲",
+        "reading": "파충",
+        "meaning": "파충강의 동물을 일상적으로 통틀어 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "爬",
+          "蟲"
+        ]
+      },
+      {
+        "surface": "爬行",
+        "reading": "파행",
+        "meaning": "벌레나 짐승 따위가 기어다님",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "爬",
+          "行"
+        ]
+      },
+      {
+        "surface": "搔爬",
+        "reading": "소파",
+        "meaning": "‘긁어냄’의 전 용어",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "搔",
+          "爬"
+        ]
+      },
+      {
+        "surface": "爾來",
+        "reading": "이래",
+        "meaning": "가까운 요마적",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "來",
+          "爾"
+        ]
+      },
+      {
+        "surface": "狐疑",
+        "reading": "호의",
+        "meaning": "매사에 지나치게 의심함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "狐",
+          "疑"
+        ]
+      },
+      {
+        "surface": "狡詐",
+        "reading": "교사",
+        "meaning": "교활하게 남을 속임",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "狡",
+          "詐"
+        ]
+      },
+      {
+        "surface": "狡智",
+        "reading": "교지",
+        "meaning": "교활한 재주와 꾀",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "智",
+          "狡"
+        ]
+      },
+      {
+        "surface": "狩獵圖",
+        "reading": "수렵도",
+        "meaning": "사냥하는 모습을 그린 그림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "圖",
+          "狩",
+          "獵"
+        ]
+      },
+      {
+        "surface": "狩獵物",
+        "reading": "수렵물",
+        "meaning": "사냥하여 잡은 것",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "物",
+          "狩",
+          "獵"
+        ]
+      },
+      {
+        "surface": "猜疑",
+        "reading": "시의",
+        "meaning": "시기하고 의심함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "猜",
+          "疑"
+        ]
+      },
+      {
+        "surface": "犬猫",
+        "reading": "견묘",
+        "meaning": "개와 고양이를 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "犬",
+          "猫"
+        ]
+      },
+      {
+        "surface": "家猫",
+        "reading": "가묘",
+        "meaning": "집에서 기르는 고양이",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "家",
+          "猫"
+        ]
+      },
+      {
+        "surface": "琵琶行",
+        "reading": "비파행",
+        "meaning": "중국 중당의 시인 백거이가 지은 시",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "琵",
+          "琶",
+          "行"
+        ]
+      },
+      {
+        "surface": "唐琵琶",
+        "reading": "당비파",
+        "meaning": "비파의 하나",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "唐",
+          "琵",
+          "琶"
+        ]
+      },
+      {
+        "surface": "疵瑕",
+        "reading": "자하",
+        "meaning": "어떤 사물의 모자라거나 잘못된 부분",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "瑕",
+          "疵"
+        ]
+      },
+      {
+        "surface": "瑕累",
+        "reading": "하루",
+        "meaning": "옥의 얼룩진 흔적이라는 뜻으로, ‘흠03’을 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "瑕",
+          "累"
+        ]
+      },
+      {
+        "surface": "璽書",
+        "reading": "새서",
+        "meaning": "옥새가 찍혀 있는 문서",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "書",
+          "璽"
+        ]
+      },
+      {
+        "surface": "甥姪女",
+        "reading": "생질녀",
+        "meaning": "누이의 딸을 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "女",
+          "姪",
+          "甥"
+        ]
+      },
+      {
+        "surface": "江畔",
+        "reading": "강반",
+        "meaning": "강가의 판판한 땅",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "江",
+          "畔"
+        ]
+      },
+      {
+        "surface": "疋木",
+        "reading": "필목",
+        "meaning": "필로 된 무명, 광목, 당목 따위를 통틀어 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "木",
+          "疋"
+        ]
+      },
+      {
+        "surface": "疝痛",
+        "reading": "산통",
+        "meaning": "‘급경련통’의 전 용어",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "疝",
+          "痛"
+        ]
+      },
+      {
+        "surface": "血痰",
+        "reading": "혈담",
+        "meaning": "피가 섞여 나오는 가래",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "痰",
+          "血"
+        ]
+      },
+      {
+        "surface": "痛癢",
+        "reading": "통양",
+        "meaning": "가려움과 아픔을 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "痛",
+          "癢"
+        ]
+      },
+      {
+        "surface": "技癢",
+        "reading": "기양",
+        "meaning": "지닌 재주를 쓰지 못해 안달함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "技",
+          "癢"
+        ]
+      },
+      {
+        "surface": "飯盒",
+        "reading": "반합",
+        "meaning": "직접 밥을 지을 수 있게 된, 알루미늄으로 만든 밥그릇",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "盒",
+          "飯"
+        ]
+      },
+      {
+        "surface": "欺瞞劇",
+        "reading": "기만극",
+        "meaning": "남을 속이기 위해 거짓으로 꾸며 낸 행동",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "劇",
+          "欺",
+          "瞞"
+        ]
+      },
+      {
+        "surface": "欺瞞性",
+        "reading": "기만성",
+        "meaning": "남을 속여 넘기려는 성질",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "性",
+          "欺",
+          "瞞"
+        ]
+      },
+      {
+        "surface": "欺瞞術",
+        "reading": "기만술",
+        "meaning": "남을 속여 넘기는 술책",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "欺",
+          "瞞",
+          "術"
+        ]
+      },
+      {
+        "surface": "一瞥",
+        "reading": "일별",
+        "meaning": "한 번 흘낏 봄",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "一",
+          "瞥"
+        ]
+      },
+      {
+        "surface": "散瞳",
+        "reading": "산동",
+        "meaning": "동공이 비정상적으로 크게 확대되는 일",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "散",
+          "瞳"
+        ]
+      },
+      {
+        "surface": "矩度",
+        "reading": "구도",
+        "meaning": "국가의 강제력을 수반하는 사회 규범",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "度",
+          "矩"
+        ]
+      },
+      {
+        "surface": "矮短",
+        "reading": "왜단",
+        "meaning": "키가 작음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "短",
+          "矮"
+        ]
+      },
+      {
+        "surface": "矮林",
+        "reading": "왜림",
+        "meaning": "키가 작은 나무들로 이루어진 숲",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "林",
+          "矮"
+        ]
+      },
+      {
+        "surface": "矮馬",
+        "reading": "왜마",
+        "meaning": "몸집이 작은 종자의 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "矮",
+          "馬"
+        ]
+      },
+      {
+        "surface": "矮松",
+        "reading": "왜송",
+        "meaning": "가지가 많아 다보록한 어린 솔",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "松",
+          "矮"
+        ]
+      },
+      {
+        "surface": "碎骨",
+        "reading": "쇄골",
+        "meaning": "뼈를 부숨",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "碎",
+          "骨"
+        ]
+      },
+      {
+        "surface": "碎務",
+        "reading": "쇄무",
+        "meaning": "자질구레한 일",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "務",
+          "碎"
+        ]
+      },
+      {
+        "surface": "白礬水",
+        "reading": "백반수",
+        "meaning": "백반을 물에 풀어 녹인 액체",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "水",
+          "白",
+          "礬"
+        ]
+      },
+      {
+        "surface": "禿山",
+        "reading": "독산",
+        "meaning": "나무가 없어 헐벗은 산",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "山",
+          "禿"
+        ]
+      },
+      {
+        "surface": "禿筆",
+        "reading": "독필",
+        "meaning": "끝이 거의 다 닳아서 없어진 붓",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "禿",
+          "筆"
+        ]
+      },
+      {
+        "surface": "移秧機",
+        "reading": "이앙기",
+        "meaning": "모를 내는 데에 쓰는 기계",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "機",
+          "秧",
+          "移"
+        ]
+      },
+      {
+        "surface": "稗官",
+        "reading": "패관",
+        "meaning": "민간에서 떠도는 이야기를 주제로 한 소설",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "官",
+          "稗"
+        ]
+      },
+      {
+        "surface": "稗史",
+        "reading": "패사",
+        "meaning": "패관이 소설과 같은 형식으로 꾸며서 쓴 역사 이야기",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "史",
+          "稗"
+        ]
+      },
+      {
+        "surface": "耕稼",
+        "reading": "경가",
+        "meaning": "땅을 갈아서 농사를 지음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "稼",
+          "耕"
+        ]
+      },
+      {
+        "surface": "稼得",
+        "reading": "가득",
+        "meaning": "일이나 작업을 통해 결과를 얻음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "得",
+          "稼"
+        ]
+      },
+      {
+        "surface": "穗波",
+        "reading": "수파",
+        "meaning": "이삭이 바람에 물결치듯 흔들리는 모양",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "波",
+          "穗"
+        ]
+      },
+      {
+        "surface": "穢氣",
+        "reading": "예기",
+        "meaning": "더러운 냄새",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "氣",
+          "穢"
+        ]
+      },
+      {
+        "surface": "穢德",
+        "reading": "예덕",
+        "meaning": "좋지 아니한 행실",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "德",
+          "穢"
+        ]
+      },
+      {
+        "surface": "穢物",
+        "reading": "예물",
+        "meaning": "더러운 물건",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "物",
+          "穢"
+        ]
+      },
+      {
+        "surface": "穢汚",
+        "reading": "예오",
+        "meaning": "지저분하고 더러움",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "汚",
+          "穢"
+        ]
+      },
+      {
+        "surface": "狹窄症",
+        "reading": "협착증",
+        "meaning": "심장 또는 혈관의 판막이나 관이 좁아지는 병",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "狹",
+          "症",
+          "窄"
+        ]
+      },
+      {
+        "surface": "窘境",
+        "reading": "군경",
+        "meaning": "살기가 몹시 어려운 지경",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "境",
+          "窘"
+        ]
+      },
+      {
+        "surface": "炭窯",
+        "reading": "탄요",
+        "meaning": "숯을 구워 내는 가마",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "炭",
+          "窯"
+        ]
+      },
+      {
+        "surface": "竪琴",
+        "reading": "수금",
+        "meaning": "줄을 세로로 걸어 손으로 뜯는 현악기",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "琴",
+          "竪"
+        ]
+      },
+      {
+        "surface": "白笠",
+        "reading": "백립",
+        "meaning": "흰 베로 만든 갓",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "白",
+          "笠"
+        ]
+      },
+      {
+        "surface": "箴規",
+        "reading": "잠규",
+        "meaning": "잘못을 바로잡게 하는 경계",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "箴",
+          "規"
+        ]
+      },
+      {
+        "surface": "銀匙箸",
+        "reading": "은시저",
+        "meaning": "은으로 만든 숟가락과 젓가락",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "匙",
+          "箸",
+          "銀"
+        ]
+      },
+      {
+        "surface": "篆刻",
+        "reading": "전각",
+        "meaning": "나무, 돌, 금옥 따위에 인장을 새김",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "刻",
+          "篆"
+        ]
+      },
+      {
+        "surface": "篆文",
+        "reading": "전문",
+        "meaning": "전자체의 문자",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "文",
+          "篆"
+        ]
+      },
+      {
+        "surface": "鳳簪",
+        "reading": "봉잠",
+        "meaning": "봉황의 모양을 대가리에 새긴 큼직한 비녀",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "簪",
+          "鳳"
+        ]
+      },
+      {
+        "surface": "玉簪",
+        "reading": "옥잠",
+        "meaning": "옥으로 만든 비녀",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "玉",
+          "簪"
+        ]
+      },
+      {
+        "surface": "龍簪",
+        "reading": "용잠",
+        "meaning": "용의 머리 형상을 새기어 만든 비녀",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "簪",
+          "龍"
+        ]
+      },
+      {
+        "surface": "水簾",
+        "reading": "수렴",
+        "meaning": "물이 발처럼 드리워진 아름다운 폭포",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "水",
+          "簾"
+        ]
+      },
+      {
+        "surface": "籬落",
+        "reading": "이락",
+        "meaning": "풀이나 나무를 엮어서 만든 울타리",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "籬",
+          "落"
+        ]
+      },
+      {
+        "surface": "竹籬",
+        "reading": "죽리",
+        "meaning": "대나무를 엮거나 심어서 만든 울타리",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "竹",
+          "籬"
+        ]
+      },
+      {
+        "surface": "油粕",
+        "reading": "유박",
+        "meaning": "기름을 짜내고 남은 깨의 찌꺼기",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "油",
+          "粕"
+        ]
+      },
+      {
+        "surface": "酒粕",
+        "reading": "주박",
+        "meaning": "재강에 물을 타서 모주를 짜내고 남은 찌꺼기",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "粕",
+          "酒"
+        ]
+      },
+      {
+        "surface": "粗糖",
+        "reading": "조당",
+        "meaning": "정제하지 않은 설탕",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "粗",
+          "糖"
+        ]
+      },
+      {
+        "surface": "粗面",
+        "reading": "조면",
+        "meaning": "물건의 거친 면",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "粗",
+          "面"
+        ]
+      },
+      {
+        "surface": "粟粒",
+        "reading": "속립",
+        "meaning": "좁쌀의 낟알",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "粒",
+          "粟"
+        ]
+      },
+      {
+        "surface": "米糠油",
+        "reading": "미강유",
+        "meaning": "쌀겨에서 짜낸 기름",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "油",
+          "米",
+          "糠"
+        ]
+      },
+      {
+        "surface": "緻密度",
+        "reading": "치밀도",
+        "meaning": "자세하고 꼼꼼한 정도",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "密",
+          "度",
+          "緻"
+        ]
+      },
+      {
+        "surface": "繪畫史",
+        "reading": "회화사",
+        "meaning": "그림의 변화 과정에 관한 역사",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "史",
+          "畫",
+          "繪"
+        ]
+      },
+      {
+        "surface": "繰綿機",
+        "reading": "조면기",
+        "meaning": "목화의 씨를 빼거나 솜을 트는 기계",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "機",
+          "綿",
+          "繰"
+        ]
+      },
+      {
+        "surface": "纂修",
+        "reading": "찬수",
+        "meaning": "글이나 자료 따위를 모아 정리함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "修",
+          "纂"
+        ]
+      },
+      {
+        "surface": "纂述",
+        "reading": "찬술",
+        "meaning": "글의 재료를 모아 저술함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "纂",
+          "述"
+        ]
+      },
+      {
+        "surface": "纂集",
+        "reading": "찬집",
+        "meaning": "여러 가지 글을 모아 책을 엮음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "纂",
+          "集"
+        ]
+      },
+      {
+        "surface": "纂輯",
+        "reading": "찬집",
+        "meaning": "자료를 수집하고 분류하여 책을 엮음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "纂",
+          "輯"
+        ]
+      },
+      {
+        "surface": "纏綿",
+        "reading": "전면",
+        "meaning": "실이나 노끈 따위가 친친 뒤엉킴",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "綿",
+          "纏"
+        ]
+      },
+      {
+        "surface": "纏足",
+        "reading": "전족",
+        "meaning": "중국의 옛 풍습의 하나",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "纏",
+          "足"
+        ]
+      },
+      {
+        "surface": "罹災",
+        "reading": "이재",
+        "meaning": "재해를 입음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "災",
+          "罹"
+        ]
+      },
+      {
+        "surface": "罹患",
+        "reading": "이환",
+        "meaning": "병에 걸림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "患",
+          "罹"
+        ]
+      },
+      {
+        "surface": "羈旅",
+        "reading": "기려",
+        "meaning": "객지에 머묾",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "旅",
+          "羈"
+        ]
+      },
+      {
+        "surface": "羈束",
+        "reading": "기속",
+        "meaning": "얽어매어 묶음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "束",
+          "羈"
+        ]
+      },
+      {
+        "surface": "羈愁",
+        "reading": "기수",
+        "meaning": "객지에서 느끼는 쓸쓸함이나 시름",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "愁",
+          "羈"
+        ]
+      },
+      {
+        "surface": "欽羨",
+        "reading": "흠선",
+        "meaning": "우러러 공경하고 부러워함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "欽",
+          "羨"
+        ]
+      },
+      {
+        "surface": "羹飯",
+        "reading": "갱반",
+        "meaning": "국과 밥을 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "羹",
+          "飯"
+        ]
+      },
+      {
+        "surface": "羊羹",
+        "reading": "양갱",
+        "meaning": "팥, 우무, 설탕이나 엿 따위를 함께 쑤어서 굳힌 과자",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "羊",
+          "羹"
+        ]
+      },
+      {
+        "surface": "翔破",
+        "reading": "상파",
+        "meaning": "새가 먼 거리를 끝까지 날아감",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "破",
+          "翔"
+        ]
+      },
+      {
+        "surface": "高翔",
+        "reading": "고상",
+        "meaning": "높이 날아오름",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "翔",
+          "高"
+        ]
+      },
+      {
+        "surface": "聳立",
+        "reading": "용립",
+        "meaning": "산이나 나무 따위가 우뚝 솟음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "立",
+          "聳"
+        ]
+      },
+      {
+        "surface": "聳聽",
+        "reading": "용청",
+        "meaning": "온 신경을 집중하여 귀담아들음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "聳",
+          "聽"
+        ]
+      },
+      {
+        "surface": "肇始",
+        "reading": "조시",
+        "meaning": "무엇이 처음 시작됨",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "始",
+          "肇"
+        ]
+      },
+      {
+        "surface": "肇造",
+        "reading": "조조",
+        "meaning": "처음으로 만듦",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "肇",
+          "造"
+        ]
+      },
+      {
+        "surface": "肌骨",
+        "reading": "기골",
+        "meaning": "살과 뼈대를 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "肌",
+          "骨"
+        ]
+      },
+      {
+        "surface": "胄孫",
+        "reading": "주손",
+        "meaning": "둘 이상의 손자 가운데 맏이인 손자를 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "孫",
+          "胄"
+        ]
+      },
+      {
+        "surface": "膀胱癌",
+        "reading": "방광암",
+        "meaning": "방광 점막에 생기는 암",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "癌",
+          "胱",
+          "膀"
+        ]
+      },
+      {
+        "surface": "膀胱炎",
+        "reading": "방광염",
+        "meaning": "방광 점막에 생기는 염증",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "炎",
+          "胱",
+          "膀"
+        ]
+      },
+      {
+        "surface": "胴圍",
+        "reading": "동위",
+        "meaning": "몸통의 둘레",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "圍",
+          "胴"
+        ]
+      },
+      {
+        "surface": "鏡胴",
+        "reading": "경동",
+        "meaning": "사진기나 망원경 따위의 몸통",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "胴",
+          "鏡"
+        ]
+      },
+      {
+        "surface": "魚脯",
+        "reading": "어포",
+        "meaning": "생선의 살을 얇게 저며 양념을 하여 말린 고기",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "脯",
+          "魚"
+        ]
+      },
+      {
+        "surface": "急膨脹",
+        "reading": "급팽창",
+        "meaning": "사물의 수량이나 부피 따위가 매우 급하게 팽창함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "急",
+          "脹",
+          "膨"
+        ]
+      },
+      {
+        "surface": "腋毛",
+        "reading": "액모",
+        "meaning": "겨드랑이에 난 털",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "毛",
+          "腋"
+        ]
+      },
+      {
+        "surface": "腋臭",
+        "reading": "액취",
+        "meaning": "체질적으로 겨드랑이에서 나는 고약한 냄새",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "腋",
+          "臭"
+        ]
+      },
+      {
+        "surface": "膣炎",
+        "reading": "질염",
+        "meaning": "질 점막에 생기는 염증",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "炎",
+          "膣"
+        ]
+      },
+      {
+        "surface": "膵液",
+        "reading": "췌액",
+        "meaning": "이자에서 분비하는 소화 효소를 포함한 맑은 알칼리 액체",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "液",
+          "膵"
+        ]
+      },
+      {
+        "surface": "膵炎",
+        "reading": "췌염",
+        "meaning": "이자에 생기는 염증",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "炎",
+          "膵"
+        ]
+      },
+      {
+        "surface": "膵臟癌",
+        "reading": "췌장암",
+        "meaning": "이자에 생기는 악성 종양",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "癌",
+          "膵",
+          "臟"
+        ]
+      },
+      {
+        "surface": "膵臟液",
+        "reading": "췌장액",
+        "meaning": "이자에서 분비하는 소화 효소를 포함한 맑은 알칼리 액체",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "液",
+          "膵",
+          "臟"
+        ]
+      },
+      {
+        "surface": "臂章",
+        "reading": "비장",
+        "meaning": "제복의 소매에 붙이는 휘장",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "章",
+          "臂"
+        ]
+      },
+      {
+        "surface": "臆說",
+        "reading": "억설",
+        "meaning": "근거도 없이 억지로 고집을 세워서 우겨 댐",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "臆",
+          "說"
+        ]
+      },
+      {
+        "surface": "舊臘",
+        "reading": "구랍",
+        "meaning": "지난해의 섣달",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "臘",
+          "舊"
+        ]
+      },
+      {
+        "surface": "外舅",
+        "reading": "외구",
+        "meaning": "편지 따위에서, ‘장인02’을 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "外",
+          "舅"
+        ]
+      },
+      {
+        "surface": "貨物艙",
+        "reading": "화물창",
+        "meaning": "선박 안에 마련된, 화물을 싣는 창고",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "物",
+          "艙",
+          "貨"
+        ]
+      },
+      {
+        "surface": "星芒",
+        "reading": "성망",
+        "meaning": "별의 반짝이는 빛",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "星",
+          "芒"
+        ]
+      },
+      {
+        "surface": "光芒",
+        "reading": "광망",
+        "meaning": "비치는 빛살",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "光",
+          "芒"
+        ]
+      },
+      {
+        "surface": "芙蓉帳",
+        "reading": "부용장",
+        "meaning": "부용을 그리거나 수놓은 방장",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "帳",
+          "芙",
+          "蓉"
+        ]
+      },
+      {
+        "surface": "芙蓉花",
+        "reading": "부용화",
+        "meaning": "부용의 꽃",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "芙",
+          "花",
+          "蓉"
+        ]
+      },
+      {
+        "surface": "芻言",
+        "reading": "추언",
+        "meaning": "무식하고 비천한 사람의 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "芻",
+          "言"
+        ]
+      },
+      {
+        "surface": "芻議",
+        "reading": "추의",
+        "meaning": "초야의 언론",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "芻",
+          "議"
+        ]
+      },
+      {
+        "surface": "萌芽的",
+        "reading": "맹아적",
+        "meaning": "사물의 시초가 되는 것",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "的",
+          "芽",
+          "萌"
+        ]
+      },
+      {
+        "surface": "萍跡",
+        "reading": "평적",
+        "meaning": "정처 없이 여러 곳을 떠돌아다님",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "萍",
+          "跡"
+        ]
+      },
+      {
+        "surface": "蓬勃",
+        "reading": "봉발",
+        "meaning": "구름이 뭉게뭉게 떠오르는 모양",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "勃",
+          "蓬"
+        ]
+      },
+      {
+        "surface": "先蔭",
+        "reading": "선음",
+        "meaning": "조상의 숨은 은덕",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "先",
+          "蔭"
+        ]
+      },
+      {
+        "surface": "樹蔭",
+        "reading": "수음",
+        "meaning": "나무의 그늘",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "樹",
+          "蔭"
+        ]
+      },
+      {
+        "surface": "餘蔭",
+        "reading": "여음",
+        "meaning": "조상의 공덕으로 자손이 받는 복",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "蔭",
+          "餘"
+        ]
+      },
+      {
+        "surface": "遺蔭",
+        "reading": "유음",
+        "meaning": "조상의 음덕",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "蔭",
+          "遺"
+        ]
+      },
+      {
+        "surface": "恩蔭",
+        "reading": "은음",
+        "meaning": "은혜와 혜택을 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "恩",
+          "蔭"
+        ]
+      },
+      {
+        "surface": "蕃茂",
+        "reading": "번무",
+        "meaning": "나무나 풀이 무성함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "茂",
+          "蕃"
+        ]
+      },
+      {
+        "surface": "蕃盛",
+        "reading": "번성",
+        "meaning": "한창 성하게 일어나 퍼짐",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "盛",
+          "蕃"
+        ]
+      },
+      {
+        "surface": "蕉鹿夢",
+        "reading": "초록몽",
+        "meaning": "인생의 득실이 꿈처럼 허무하고 덧없음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "夢",
+          "蕉",
+          "鹿"
+        ]
+      },
+      {
+        "surface": "蕪草",
+        "reading": "무초",
+        "meaning": "엉클어져 거칠게 난 풀",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "草",
+          "蕪"
+        ]
+      },
+      {
+        "surface": "繁蕪",
+        "reading": "번무",
+        "meaning": "잡초 따위가 무성함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "繁",
+          "蕪"
+        ]
+      },
+      {
+        "surface": "蘊藏",
+        "reading": "온장",
+        "meaning": "오랫동안 학식 따위를 많이 쌓음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "藏",
+          "蘊"
+        ]
+      },
+      {
+        "surface": "蘊蓄",
+        "reading": "온축",
+        "meaning": "속에 깊이 쌓아 둠",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "蓄",
+          "蘊"
+        ]
+      },
+      {
+        "surface": "被虜",
+        "reading": "피로",
+        "meaning": "적에게 사로잡힘",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "虜",
+          "被"
+        ]
+      },
+      {
+        "surface": "月虹",
+        "reading": "월홍",
+        "meaning": "달빛으로 보이는 밤 무지개",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "月",
+          "虹"
+        ]
+      },
+      {
+        "surface": "彩虹",
+        "reading": "채홍",
+        "meaning": "햇빛을 받아 공중에 나타나는 일곱 빛깔 줄",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "彩",
+          "虹"
+        ]
+      },
+      {
+        "surface": "蚊帳",
+        "reading": "문장",
+        "meaning": "모기를 막으려고 치는 장막",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "帳",
+          "蚊"
+        ]
+      },
+      {
+        "surface": "啓蟄",
+        "reading": "계칩",
+        "meaning": "봄이 되어 겨울잠을 자던 동물이 깨어나 움직임",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "啓",
+          "蟄"
+        ]
+      },
+      {
+        "surface": "蟄伏",
+        "reading": "칩복",
+        "meaning": "자기 처소에 들어박혀 몸을 숨김",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "伏",
+          "蟄"
+        ]
+      },
+      {
+        "surface": "蠟封",
+        "reading": "납봉",
+        "meaning": "밀랍으로 봉함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "封",
+          "蠟"
+        ]
+      },
+      {
+        "surface": "衒學者",
+        "reading": "현학자",
+        "meaning": "학식이 있음을 자랑하여 뽐내는 사람",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "學",
+          "者",
+          "衒"
+        ]
+      },
+      {
+        "surface": "分袂",
+        "reading": "분몌",
+        "meaning": "서로 작별함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "分",
+          "袂"
+        ]
+      },
+      {
+        "surface": "連袂",
+        "reading": "연몌",
+        "meaning": "나란히 서서 함께 가거나 옴",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "袂",
+          "連"
+        ]
+      },
+      {
+        "surface": "袖口",
+        "reading": "수구",
+        "meaning": "옷소매에서 손이 나올 수 있게 뚫려 있는 부분",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "口",
+          "袖"
+        ]
+      },
+      {
+        "surface": "袖手",
+        "reading": "수수",
+        "meaning": "팔짱을 낌",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "手",
+          "袖"
+        ]
+      },
+      {
+        "surface": "褒揚",
+        "reading": "포양",
+        "meaning": "칭찬하여 장려함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "揚",
+          "褒"
+        ]
+      },
+      {
+        "surface": "綿洋襪",
+        "reading": "면양말",
+        "meaning": "면실로 짠 양말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "洋",
+          "綿",
+          "襪"
+        ]
+      },
+      {
+        "surface": "濫觴",
+        "reading": "남상",
+        "meaning": "사물의 시초나 기원",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "濫",
+          "觴"
+        ]
+      },
+      {
+        "surface": "訃報",
+        "reading": "부보",
+        "meaning": "사람의 죽음을 알림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "報",
+          "訃"
+        ]
+      },
+      {
+        "surface": "參詣",
+        "reading": "참예",
+        "meaning": "신이나 부처에게 나아가 뵘",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "參",
+          "詣"
+        ]
+      },
+      {
+        "surface": "誅戮",
+        "reading": "주륙",
+        "meaning": "죄인을 죽임",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "戮",
+          "誅"
+        ]
+      },
+      {
+        "surface": "誅滅",
+        "reading": "주멸",
+        "meaning": "죄인을 죽여 없앰",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "滅",
+          "誅"
+        ]
+      },
+      {
+        "surface": "誅伐",
+        "reading": "주벌",
+        "meaning": "죄인을 토벌함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "伐",
+          "誅"
+        ]
+      },
+      {
+        "surface": "誅罰",
+        "reading": "주벌",
+        "meaning": "죄인을 처벌함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "罰",
+          "誅"
+        ]
+      },
+      {
+        "surface": "誨諭",
+        "reading": "회유",
+        "meaning": "가르쳐서 깨우침",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "誨",
+          "諭"
+        ]
+      },
+      {
+        "surface": "訓誨",
+        "reading": "훈회",
+        "meaning": "가르치고 타일러 뉘우치게 함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "訓",
+          "誨"
+        ]
+      },
+      {
+        "surface": "諛辭",
+        "reading": "유사",
+        "meaning": "아첨하는 말씨",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "諛",
+          "辭"
+        ]
+      },
+      {
+        "surface": "諛言",
+        "reading": "유언",
+        "meaning": "아첨하는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "言",
+          "諛"
+        ]
+      },
+      {
+        "surface": "巧諛",
+        "reading": "교유",
+        "meaning": "교묘하게 아첨함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "巧",
+          "諛"
+        ]
+      },
+      {
+        "surface": "說諭",
+        "reading": "설유",
+        "meaning": "말로 타이름",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "說",
+          "諭"
+        ]
+      },
+      {
+        "surface": "俗諺",
+        "reading": "속언",
+        "meaning": "세간에 떠도는 상스러운 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "俗",
+          "諺"
+        ]
+      },
+      {
+        "surface": "戲謔",
+        "reading": "희학",
+        "meaning": "실없는 말로 농지거리를 함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "戲",
+          "謔"
+        ]
+      },
+      {
+        "surface": "諧謔家",
+        "reading": "해학가",
+        "meaning": "익살스럽고도 품위가 있는 말이나 행동을 잘하는 사람",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "家",
+          "諧",
+          "謔"
+        ]
+      },
+      {
+        "surface": "譚詩",
+        "reading": "담시",
+        "meaning": "중세 유럽에서 형성된 정형시의 하나",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "詩",
+          "譚"
+        ]
+      },
+      {
+        "surface": "聖譚曲",
+        "reading": "성담곡",
+        "meaning": "16세기 무렵에 로마에서 시작한 종교 음악",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "曲",
+          "聖",
+          "譚"
+        ]
+      },
+      {
+        "surface": "天譴",
+        "reading": "천견",
+        "meaning": "하늘이 내리는 큰 벌",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "天",
+          "譴"
+        ]
+      },
+      {
+        "surface": "讒誣",
+        "reading": "참무",
+        "meaning": "없는 말을 지어내어 남을 헐뜯음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "誣",
+          "讒"
+        ]
+      },
+      {
+        "surface": "讖書",
+        "reading": "참서",
+        "meaning": "미래의 일에 대한 주술적 예언을 기록한 책",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "書",
+          "讖"
+        ]
+      },
+      {
+        "surface": "讖言",
+        "reading": "참언",
+        "meaning": "앞일의 길흉화복에 대하여 예언하는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "言",
+          "讖"
+        ]
+      },
+      {
+        "surface": "豬突",
+        "reading": "저돌",
+        "meaning": "앞뒤를 생각하지 않고 내닫거나 덤빔",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "突",
+          "豬"
+        ]
+      },
+      {
+        "surface": "粉貼",
+        "reading": "분첩",
+        "meaning": "분을 묻혀 바르는 데 쓰는 화장 도구",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "粉",
+          "貼"
+        ]
+      },
+      {
+        "surface": "贈賄",
+        "reading": "증회",
+        "meaning": "뇌물을 줌",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "賄",
+          "贈"
+        ]
+      },
+      {
+        "surface": "賄賂",
+        "reading": "회뢰",
+        "meaning": "뇌물을 주고받음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "賂",
+          "賄"
+        ]
+      },
+      {
+        "surface": "贈收賄",
+        "reading": "증수회",
+        "meaning": "증회와 수회를 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "收",
+          "賄",
+          "贈"
+        ]
+      },
+      {
+        "surface": "贅句",
+        "reading": "췌구",
+        "meaning": "쓸데없이 덧붙은 글귀",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "句",
+          "贅"
+        ]
+      },
+      {
+        "surface": "贅談",
+        "reading": "췌담",
+        "meaning": "쓸데없는 군더더기 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "談",
+          "贅"
+        ]
+      },
+      {
+        "surface": "贅論",
+        "reading": "췌론",
+        "meaning": "쓸데없이 너저분한 이론",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "論",
+          "贅"
+        ]
+      },
+      {
+        "surface": "贅文",
+        "reading": "췌문",
+        "meaning": "쓸데없는 불필요한 문자나 문구",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "文",
+          "贅"
+        ]
+      },
+      {
+        "surface": "蹄鐵",
+        "reading": "제철",
+        "meaning": "말굽에 대어 붙이는 ‘U’ 자 모양의 쇳조각",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "蹄",
+          "鐵"
+        ]
+      },
+      {
+        "surface": "蹄形",
+        "reading": "제형",
+        "meaning": "말굽처럼 생긴 모양",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "形",
+          "蹄"
+        ]
+      },
+      {
+        "surface": "躁動",
+        "reading": "조동",
+        "meaning": "조급하고 망령되게 움직임",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "動",
+          "躁"
+        ]
+      },
+      {
+        "surface": "鞠躬",
+        "reading": "국궁",
+        "meaning": "윗사람이나 위패 앞에서 존경하는 뜻으로 몸을 굽힘",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "躬",
+          "鞠"
+        ]
+      },
+      {
+        "surface": "躬耕",
+        "reading": "궁경",
+        "meaning": "자기가 직접 농사를 지음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "耕",
+          "躬"
+        ]
+      },
+      {
+        "surface": "輓馬",
+        "reading": "만마",
+        "meaning": "수레를 끄는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "輓",
+          "馬"
+        ]
+      },
+      {
+        "surface": "輓詞",
+        "reading": "만사",
+        "meaning": "죽은 이를 슬퍼하여 지은 글",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "詞",
+          "輓"
+        ]
+      },
+      {
+        "surface": "輓詩",
+        "reading": "만시",
+        "meaning": "죽은 사람을 애도하는 시",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "詩",
+          "輓"
+        ]
+      },
+      {
+        "surface": "覆轍",
+        "reading": "복철",
+        "meaning": "앞서 간 사람이 실패한 자취",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "覆",
+          "轍"
+        ]
+      },
+      {
+        "surface": "車轍",
+        "reading": "거철",
+        "meaning": "수레가 지나간 자국",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "車",
+          "轍"
+        ]
+      },
+      {
+        "surface": "迂路",
+        "reading": "우로",
+        "meaning": "에돌아가는 길",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "路",
+          "迂"
+        ]
+      },
+      {
+        "surface": "逍風",
+        "reading": "소풍",
+        "meaning": "휴식을 취하기 위해서 야외에 나갔다 오는 일",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "逍",
+          "風"
+        ]
+      },
+      {
+        "surface": "威逼",
+        "reading": "위핍",
+        "meaning": "상대가 겁을 먹도록 무서운 말이나 행동으로 협박함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "威",
+          "逼"
+        ]
+      },
+      {
+        "surface": "逼近",
+        "reading": "핍근",
+        "meaning": "매우 가까이 닥침",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "近",
+          "逼"
+        ]
+      },
+      {
+        "surface": "遁辭",
+        "reading": "둔사",
+        "meaning": "관계나 책임을 회피하려고 꾸며서 하는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "辭",
+          "遁"
+        ]
+      },
+      {
+        "surface": "遐齡",
+        "reading": "하령",
+        "meaning": "보통 사람 이상으로 오래 삶",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "遐",
+          "齡"
+        ]
+      },
+      {
+        "surface": "遐方",
+        "reading": "하방",
+        "meaning": "서울에서 멀리 떨어진 지방",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "方",
+          "遐"
+        ]
+      },
+      {
+        "surface": "追遡",
+        "reading": "추소",
+        "meaning": "근본으로 거슬러 올라가서 살핌",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "追",
+          "遡"
+        ]
+      },
+      {
+        "surface": "不遡及",
+        "reading": "불소급",
+        "meaning": "과거에까지 거슬러 올라가 미치게 하지 아니함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "不",
+          "及",
+          "遡"
+        ]
+      },
+      {
+        "surface": "遡及力",
+        "reading": "소급력",
+        "meaning": "과거의 일에까지 거슬러 미치는 법률 효력",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "力",
+          "及",
+          "遡"
+        ]
+      },
+      {
+        "surface": "巡邏船",
+        "reading": "순라선",
+        "meaning": "두루 돌아다니면서 사정을 살피고 경계하는 배",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "巡",
+          "船",
+          "邏"
+        ]
+      },
+      {
+        "surface": "鄙見",
+        "reading": "비견",
+        "meaning": "자신의 의견을 겸손하게 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "見",
+          "鄙"
+        ]
+      },
+      {
+        "surface": "酋長國",
+        "reading": "추장국",
+        "meaning": "추장이 다스리는 나라",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "國",
+          "酋",
+          "長"
+        ]
+      },
+      {
+        "surface": "釐毫",
+        "reading": "이호",
+        "meaning": "극히 적은 수량을 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "毫",
+          "釐"
+        ]
+      },
+      {
+        "surface": "毫釐",
+        "reading": "호리",
+        "meaning": "자나 저울눈의 호와 이",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "毫",
+          "釐"
+        ]
+      },
+      {
+        "surface": "釣鉤",
+        "reading": "조구",
+        "meaning": "미끼를 꿰어 물고기를 잡는 데 쓰는 작은 쇠갈고리",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "釣",
+          "鉤"
+        ]
+      },
+      {
+        "surface": "鐵鉤",
+        "reading": "철구",
+        "meaning": "쇠로 만든 갈고리",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "鉤",
+          "鐵"
+        ]
+      },
+      {
+        "surface": "銓衡料",
+        "reading": "전형료",
+        "meaning": "시험이나 선발에 응시할 때 지원자가 내는 돈",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "料",
+          "衡",
+          "銓"
+        ]
+      },
+      {
+        "surface": "鍍金板",
+        "reading": "도금판",
+        "meaning": "도금한 판",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "板",
+          "金",
+          "鍍"
+        ]
+      },
+      {
+        "surface": "鍮器廛",
+        "reading": "유기전",
+        "meaning": "유기를 전문적으로 파는 가게",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "器",
+          "廛",
+          "鍮"
+        ]
+      },
+      {
+        "surface": "鍮器店",
+        "reading": "유기점",
+        "meaning": "놋그릇, 놋수저와 같이 놋쇠로 만든 일용품을 파는 상점",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "器",
+          "店",
+          "鍮"
+        ]
+      },
+      {
+        "surface": "鍮活字",
+        "reading": "유활자",
+        "meaning": "놋쇠로 만든 활자",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "字",
+          "活",
+          "鍮"
+        ]
+      },
+      {
+        "surface": "風鐸",
+        "reading": "풍탁",
+        "meaning": "처마 끝에 다는 작은 종",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "鐸",
+          "風"
+        ]
+      },
+      {
+        "surface": "閃電",
+        "reading": "섬전",
+        "meaning": "순간적으로 번쩍이는 번갯불이나 전기의 불꽃",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "閃",
+          "電"
+        ]
+      },
+      {
+        "surface": "一閃",
+        "reading": "일섬",
+        "meaning": "빛 따위가 한 번 번쩍임",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "一",
+          "閃"
+        ]
+      },
+      {
+        "surface": "閭里",
+        "reading": "여리",
+        "meaning": "백성의 살림집이 많이 모여 있는 곳",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "里",
+          "閭"
+        ]
+      },
+      {
+        "surface": "閭門",
+        "reading": "여문",
+        "meaning": "동네 어귀에 세운 문",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "門",
+          "閭"
+        ]
+      },
+      {
+        "surface": "闇然",
+        "reading": "암연",
+        "meaning": "어렴풋하고 애매함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "然",
+          "闇"
+        ]
+      },
+      {
+        "surface": "針闊",
+        "reading": "침활",
+        "meaning": "바늘처럼 가는 잎과 넓은 잎을 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "針",
+          "闊"
+        ]
+      },
+      {
+        "surface": "闡揚",
+        "reading": "천양",
+        "meaning": "드러내어 밝혀서 널리 퍼지게 함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "揚",
+          "闡"
+        ]
+      },
+      {
+        "surface": "阻却",
+        "reading": "조각",
+        "meaning": "방해하거나 물리침",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "却",
+          "阻"
+        ]
+      },
+      {
+        "surface": "阻隔",
+        "reading": "조격",
+        "meaning": "막혀서 서로 통하지 못함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "阻",
+          "隔"
+        ]
+      },
+      {
+        "surface": "阻塞",
+        "reading": "조색",
+        "meaning": "가로막아서 못하게 함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "塞",
+          "阻"
+        ]
+      },
+      {
+        "surface": "陛見",
+        "reading": "폐견",
+        "meaning": "군주제 국가에서, 폐하의 접견을 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "見",
+          "陛"
+        ]
+      },
+      {
+        "surface": "陪觀",
+        "reading": "배관",
+        "meaning": "어른을 모시고 같이 구경함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "觀",
+          "陪"
+        ]
+      },
+      {
+        "surface": "陪立",
+        "reading": "배립",
+        "meaning": "윗사람을 모시고 섬",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "立",
+          "陪"
+        ]
+      },
+      {
+        "surface": "僻隅",
+        "reading": "벽우",
+        "meaning": "후미진 구석",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "僻",
+          "隅"
+        ]
+      },
+      {
+        "surface": "四隅",
+        "reading": "사우",
+        "meaning": "네 구석이나 네 모퉁이",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "四",
+          "隅"
+        ]
+      },
+      {
+        "surface": "廉隅",
+        "reading": "염우",
+        "meaning": "품행이 바르고 절개가 굳음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "廉",
+          "隅"
+        ]
+      },
+      {
+        "surface": "均霑",
+        "reading": "균점",
+        "meaning": "고르게 이익이나 혜택을 받음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "均",
+          "霑"
+        ]
+      },
+      {
+        "surface": "煙霞",
+        "reading": "연하",
+        "meaning": "안개와 노을을 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "煙",
+          "霞"
+        ]
+      },
+      {
+        "surface": "雲霞",
+        "reading": "운하",
+        "meaning": "구름과 안개, 또는 구름과 노을을 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "雲",
+          "霞"
+        ]
+      },
+      {
+        "surface": "紫霞",
+        "reading": "자하",
+        "meaning": "보랏빛의 노을",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "紫",
+          "霞"
+        ]
+      },
+      {
+        "surface": "煙靄",
+        "reading": "연애",
+        "meaning": "연기와 아지랑이를 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "煙",
+          "靄"
+        ]
+      },
+      {
+        "surface": "朝靄",
+        "reading": "조애",
+        "meaning": "아침에 끼는 아지랑이",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "朝",
+          "靄"
+        ]
+      },
+      {
+        "surface": "曉靄",
+        "reading": "효애",
+        "meaning": "새벽에 끼는 이내",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "曉",
+          "靄"
+        ]
+      },
+      {
+        "surface": "鞍具",
+        "reading": "안구",
+        "meaning": "말안장에 딸린 여러 가지 기구",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "具",
+          "鞍"
+        ]
+      },
+      {
+        "surface": "鞍囊",
+        "reading": "안낭",
+        "meaning": "물품을 넣으려고 말안장에 단 가죽 주머니",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "囊",
+          "鞍"
+        ]
+      },
+      {
+        "surface": "頑剛",
+        "reading": "완강",
+        "meaning": "기질이 꿋꿋하고 곧으며 고집이 셈",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "剛",
+          "頑"
+        ]
+      },
+      {
+        "surface": "緩頰",
+        "reading": "완협",
+        "meaning": "부드러운 얼굴로 온건하게 천천히 말함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "緩",
+          "頰"
+        ]
+      },
+      {
+        "surface": "攝餌",
+        "reading": "섭이",
+        "meaning": "먹이를 먹음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "攝",
+          "餌"
+        ]
+      },
+      {
+        "surface": "餞杯",
+        "reading": "전배",
+        "meaning": "석별의 정을 나누며 마시는 술",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "杯",
+          "餞"
+        ]
+      },
+      {
+        "surface": "餞別",
+        "reading": "전별",
+        "meaning": "떠나는 사람을 위해 예를 갖추어 작별함",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "別",
+          "餞"
+        ]
+      },
+      {
+        "surface": "魚饅頭",
+        "reading": "어만두",
+        "meaning": "피를 생선의 살로 하여 만든 만두",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "頭",
+          "饅",
+          "魚"
+        ]
+      },
+      {
+        "surface": "肉饅頭",
+        "reading": "육만두",
+        "meaning": "고기소를 넣어 빚은 만두",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "肉",
+          "頭",
+          "饅"
+        ]
+      },
+      {
+        "surface": "疾馳",
+        "reading": "질치",
+        "meaning": "급히 달림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "疾",
+          "馳"
+        ]
+      },
+      {
+        "surface": "馳驅",
+        "reading": "치구",
+        "meaning": "말이나 수레를 타고 달림",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "馳",
+          "驅"
+        ]
+      },
+      {
+        "surface": "駑才",
+        "reading": "노재",
+        "meaning": "재주와 지혜가 우둔하고 뒤떨어짐",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "才",
+          "駑"
+        ]
+      },
+      {
+        "surface": "駑質",
+        "reading": "노질",
+        "meaning": "둔하고 미련한 성질",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "質",
+          "駑"
+        ]
+      },
+      {
+        "surface": "騙取罪",
+        "reading": "편취죄",
+        "meaning": "남을 속이어 재물이나 이익 따위를 빼앗는 죄",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "取",
+          "罪",
+          "騙"
+        ]
+      },
+      {
+        "surface": "驕誇",
+        "reading": "교과",
+        "meaning": "교만하게 뽐냄",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "誇",
+          "驕"
+        ]
+      },
+      {
+        "surface": "驕矜",
+        "reading": "교긍",
+        "meaning": "교만하여 지나치게 자신을 가짐",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "矜",
+          "驕"
+        ]
+      },
+      {
+        "surface": "生鰒",
+        "reading": "생복",
+        "meaning": "익히지 아니한 전복",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "生",
+          "鰒"
+        ]
+      },
+      {
+        "surface": "乾鰒",
+        "reading": "건복",
+        "meaning": "말린 전복",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "乾",
+          "鰒"
+        ]
+      },
+      {
+        "surface": "熟鰒",
+        "reading": "숙복",
+        "meaning": "삶아서 익힌 전복",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "熟",
+          "鰒"
+        ]
+      },
+      {
+        "surface": "細鱗",
+        "reading": "세린",
+        "meaning": "물고기의 잔비늘",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "細",
+          "鱗"
+        ]
+      },
+      {
+        "surface": "小鱗",
+        "reading": "소린",
+        "meaning": "작은 비늘",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "小",
+          "鱗"
+        ]
+      },
+      {
+        "surface": "紙鳶",
+        "reading": "지연",
+        "meaning": "종이에 댓가지를 붙여 공중에 날리는 연",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "紙",
+          "鳶"
+        ]
+      },
+      {
+        "surface": "風鳶",
+        "reading": "풍연",
+        "meaning": "바람을 타고 공중에 날리도록 만든 연",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "風",
+          "鳶"
+        ]
+      },
+      {
+        "surface": "鴛鴦枕",
+        "reading": "원앙침",
+        "meaning": "원앙을 수놓은 베개",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "枕",
+          "鴛",
+          "鴦"
+        ]
+      },
+      {
+        "surface": "鶯聲",
+        "reading": "앵성",
+        "meaning": "꾀꼬리의 울음소리",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "聲",
+          "鶯"
+        ]
+      },
+      {
+        "surface": "鶯語",
+        "reading": "앵어",
+        "meaning": "꾀꼬리의 울음소리",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "語",
+          "鶯"
+        ]
+      },
+      {
+        "surface": "鸞鳳",
+        "reading": "난봉",
+        "meaning": "난조와 봉황을 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "鳳",
+          "鸞"
+        ]
+      },
+      {
+        "surface": "鹹泉",
+        "reading": "함천",
+        "meaning": "짠물이 나오는 샘",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "泉",
+          "鹹"
+        ]
+      },
+      {
+        "surface": "鹹湖",
+        "reading": "함호",
+        "meaning": "염분이 많아 물맛이 짠 호수",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "湖",
+          "鹹"
+        ]
+      },
+      {
+        "surface": "麝香獸",
+        "reading": "사향수",
+        "meaning": "사향을 내는 짐승을 통틀어 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "獸",
+          "香",
+          "麝"
+        ]
+      },
+      {
+        "surface": "麝香油",
+        "reading": "사향유",
+        "meaning": "사향을 넣어서 만든 방향유",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "油",
+          "香",
+          "麝"
+        ]
+      },
+      {
+        "surface": "蒸黎",
+        "reading": "증려",
+        "meaning": "뭇 백성",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "蒸",
+          "黎"
+        ]
+      },
+      {
+        "surface": "群黎",
+        "reading": "군려",
+        "meaning": "많은 백성",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "群",
+          "黎"
+        ]
+      },
+      {
+        "surface": "放黜",
+        "reading": "방출",
+        "meaning": "물리쳐 내쫓음",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "放",
+          "黜"
+        ]
+      },
+      {
+        "surface": "鼈湯",
+        "reading": "별탕",
+        "meaning": "자라를 푹 삶아 양념하여 끓인 국",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "湯",
+          "鼈"
+        ]
+      },
+      {
+        "surface": "魚鼈",
+        "reading": "어별",
+        "meaning": "물고기와 자라를 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "魚",
+          "鼈"
+        ]
+      },
+      {
+        "surface": "龜鼈",
+        "reading": "귀별",
+        "meaning": "거북과 자라를 아울러 이르는 말",
+        "gongmu": 0,
+        "hanjaRefs": [
+          "鼈",
+          "龜"
         ]
       }
     ]
