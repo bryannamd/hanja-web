@@ -14719,6 +14719,7 @@
       {
         "hanja": "柯",
         "hoondok": "가지 가",
+        "nameUse": true,
         "radical": "木",
         "strokes": 5,
         "toneType": 2,
@@ -14727,6 +14728,7 @@
       {
         "hanja": "賈",
         "hoondok": "성(姓) 가",
+        "nameUse": true,
         "radical": "貝",
         "soundsAux": "장사 고",
         "strokes": 6,
@@ -14736,6 +14738,7 @@
       {
         "hanja": "軻",
         "hoondok": "수레/사람이름 가",
+        "nameUse": true,
         "radical": "車",
         "strokes": 5,
         "toneType": 2,
@@ -14744,6 +14747,7 @@
       {
         "hanja": "迦",
         "hoondok": "부처이름 가",
+        "nameUse": true,
         "radical": "辵",
         "strokes": 5,
         "toneType": 2,
@@ -14752,6 +14756,7 @@
       {
         "hanja": "伽",
         "hoondok": "절 가",
+        "nameUse": true,
         "radical": "人",
         "strokes": 5,
         "toneType": 2,
@@ -14760,6 +14765,7 @@
       {
         "hanja": "珏",
         "hoondok": "쌍옥 각",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 5,
         "toneType": 2,
@@ -14768,6 +14774,7 @@
       {
         "hanja": "杆",
         "hoondok": "몽둥이 간",
+        "nameUse": true,
         "radical": "木",
         "strokes": 3,
         "toneType": 2,
@@ -14776,6 +14783,7 @@
       {
         "hanja": "艮",
         "hoondok": "괘이름 간",
+        "nameUse": true,
         "radical": "艮",
         "strokes": 0,
         "toneType": 2,
@@ -14792,6 +14800,7 @@
       {
         "hanja": "鞨",
         "hoondok": "오랑캐이름 갈",
+        "nameUse": true,
         "radical": "革",
         "strokes": 9,
         "toneType": 2,
@@ -14808,6 +14817,7 @@
       {
         "hanja": "鉀",
         "hoondok": "갑옷 갑",
+        "nameUse": true,
         "radical": "金",
         "strokes": 5,
         "toneType": 2,
@@ -14816,6 +14826,7 @@
       {
         "hanja": "岬",
         "hoondok": "곶(串) 갑",
+        "nameUse": true,
         "radical": "山",
         "strokes": 5,
         "toneType": 2,
@@ -14824,6 +14835,7 @@
       {
         "hanja": "姜",
         "hoondok": "성(姓) 강",
+        "nameUse": true,
         "radical": "女",
         "strokes": 6,
         "toneType": 2,
@@ -14832,6 +14844,7 @@
       {
         "hanja": "崗",
         "hoondok": "언덕 강",
+        "nameUse": true,
         "radical": "山",
         "strokes": 8,
         "toneType": 2,
@@ -14840,6 +14853,7 @@
       {
         "hanja": "疆",
         "hoondok": "지경 강",
+        "nameUse": true,
         "radical": "田",
         "strokes": 14,
         "toneType": 2,
@@ -14848,6 +14862,7 @@
       {
         "hanja": "岡",
         "hoondok": "산등성이 강",
+        "nameUse": true,
         "radical": "山",
         "strokes": 5,
         "toneType": 2,
@@ -14856,6 +14871,7 @@
       {
         "hanja": "彊",
         "hoondok": "굳셀 강",
+        "nameUse": true,
         "radical": "弓",
         "strokes": 13,
         "toneType": 2,
@@ -14864,6 +14880,7 @@
       {
         "hanja": "价",
         "hoondok": "클 개",
+        "nameUse": true,
         "radical": "人",
         "strokes": 4,
         "toneType": 1,
@@ -14872,6 +14889,7 @@
       {
         "hanja": "塏",
         "hoondok": "높은땅 개",
+        "nameUse": true,
         "radical": "土",
         "strokes": 10,
         "toneType": 1,
@@ -14888,6 +14906,7 @@
       {
         "hanja": "鍵",
         "hoondok": "자물쇠/열쇠 건",
+        "nameUse": true,
         "radical": "金",
         "strokes": 9,
         "toneType": 1,
@@ -14896,6 +14915,7 @@
       {
         "hanja": "桀",
         "hoondok": "하(夏)왕이름 걸",
+        "nameUse": true,
         "radical": "木",
         "strokes": 6,
         "toneType": 2,
@@ -14904,6 +14924,7 @@
       {
         "hanja": "杰",
         "hoondok": "뛰어날 걸",
+        "nameUse": true,
         "radical": "木",
         "strokes": 4,
         "toneType": 2,
@@ -14929,6 +14950,7 @@
       {
         "hanja": "甄",
         "hoondok": "질그릇 견",
+        "nameUse": true,
         "radical": "瓦",
         "strokes": 9,
         "toneType": 2,
@@ -14937,6 +14959,7 @@
       {
         "hanja": "璟",
         "hoondok": "옥빛 경",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 12,
         "toneType": 1,
@@ -14945,6 +14968,7 @@
       {
         "hanja": "儆",
         "hoondok": "경계할 경",
+        "nameUse": true,
         "radical": "人",
         "strokes": 13,
         "toneType": 1,
@@ -14953,6 +14977,7 @@
       {
         "hanja": "瓊",
         "hoondok": "구슬 경",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 15,
         "toneType": 2,
@@ -14961,6 +14986,7 @@
       {
         "hanja": "炅",
         "hoondok": "빛날 경",
+        "nameUse": true,
         "radical": "火",
         "strokes": 4,
         "toneType": 2,
@@ -14977,6 +15003,7 @@
       {
         "hanja": "皐",
         "hoondok": "언덕 고",
+        "nameUse": true,
         "radical": "白",
         "strokes": 6,
         "toneType": 2,
@@ -15017,6 +15044,7 @@
       {
         "hanja": "琯",
         "hoondok": "옥피리 관",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 8,
         "toneType": 2,
@@ -15025,6 +15053,7 @@
       {
         "hanja": "串",
         "hoondok": "꿸 관",
+        "nameUse": true,
         "radical": "丨",
         "soundsAux": "땅이름 곶",
         "strokes": 6,
@@ -15042,6 +15071,7 @@
       {
         "hanja": "槐",
         "hoondok": "회화나무/느티나무 괴",
+        "nameUse": true,
         "radical": "木",
         "strokes": 10,
         "toneType": 2,
@@ -15098,6 +15128,7 @@
       {
         "hanja": "邱",
         "hoondok": "언덕 구",
+        "nameUse": true,
         "radical": "邑",
         "strokes": 5,
         "toneType": 2,
@@ -15106,6 +15137,7 @@
       {
         "hanja": "玖",
         "hoondok": "옥돌 구",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 3,
         "toneType": 2,
@@ -15114,6 +15146,7 @@
       {
         "hanja": "鞠",
         "hoondok": "성(姓)/국문할 국",
+        "nameUse": true,
         "radical": "革",
         "strokes": 8,
         "toneType": 2,
@@ -15163,6 +15196,7 @@
       {
         "hanja": "珪",
         "hoondok": "홀 규",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 6,
         "toneType": 2,
@@ -15171,6 +15205,7 @@
       {
         "hanja": "揆",
         "hoondok": "헤아릴 규",
+        "nameUse": true,
         "radical": "手",
         "strokes": 9,
         "toneType": 2,
@@ -15179,6 +15214,7 @@
       {
         "hanja": "奎",
         "hoondok": "별 규",
+        "nameUse": true,
         "radical": "大",
         "strokes": 6,
         "toneType": 2,
@@ -15187,6 +15223,7 @@
       {
         "hanja": "圭",
         "hoondok": "서옥(瑞玉)/쌍토 규",
+        "nameUse": true,
         "radical": "土",
         "strokes": 3,
         "toneType": 2,
@@ -15195,6 +15232,7 @@
       {
         "hanja": "瑾",
         "hoondok": "아름다운옥 근",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 11,
         "toneType": 1,
@@ -15203,6 +15241,7 @@
       {
         "hanja": "槿",
         "hoondok": "무궁화 근",
+        "nameUse": true,
         "radical": "木",
         "strokes": 11,
         "toneType": 1,
@@ -15211,6 +15250,7 @@
       {
         "hanja": "兢",
         "hoondok": "떨릴 긍",
+        "nameUse": true,
         "radical": "儿",
         "strokes": 12,
         "toneType": 1,
@@ -15227,6 +15267,7 @@
       {
         "hanja": "冀",
         "hoondok": "바랄 기",
+        "nameUse": true,
         "radical": "八",
         "strokes": 14,
         "toneType": 2,
@@ -15235,6 +15276,7 @@
       {
         "hanja": "岐",
         "hoondok": "갈림길 기",
+        "nameUse": true,
         "radical": "山",
         "strokes": 4,
         "toneType": 2,
@@ -15243,6 +15285,7 @@
       {
         "hanja": "驥",
         "hoondok": "천리마 기",
+        "nameUse": true,
         "radical": "馬",
         "strokes": 16,
         "toneType": 2,
@@ -15251,6 +15294,7 @@
       {
         "hanja": "耆",
         "hoondok": "늙을 기",
+        "nameUse": true,
         "radical": "老",
         "strokes": 4,
         "toneType": 2,
@@ -15259,6 +15303,7 @@
       {
         "hanja": "麒",
         "hoondok": "기린 기",
+        "nameUse": true,
         "radical": "鹿",
         "strokes": 8,
         "toneType": 2,
@@ -15267,6 +15312,7 @@
       {
         "hanja": "沂",
         "hoondok": "물이름 기",
+        "nameUse": true,
         "radical": "水",
         "strokes": 4,
         "toneType": 2,
@@ -15275,6 +15321,7 @@
       {
         "hanja": "淇",
         "hoondok": "물이름 기",
+        "nameUse": true,
         "radical": "水",
         "strokes": 8,
         "toneType": 2,
@@ -15283,6 +15330,7 @@
       {
         "hanja": "琦",
         "hoondok": "옥이름 기",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 8,
         "toneType": 2,
@@ -15291,6 +15339,7 @@
       {
         "hanja": "琪",
         "hoondok": "아름다운옥 기",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 8,
         "toneType": 2,
@@ -15299,6 +15348,7 @@
       {
         "hanja": "璣",
         "hoondok": "별이름 기",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 12,
         "toneType": 2,
@@ -15307,6 +15357,7 @@
       {
         "hanja": "箕",
         "hoondok": "키 기",
+        "nameUse": true,
         "radical": "竹",
         "strokes": 8,
         "toneType": 2,
@@ -15315,6 +15366,7 @@
       {
         "hanja": "騏",
         "hoondok": "준마 기",
+        "nameUse": true,
         "radical": "馬",
         "strokes": 8,
         "toneType": 2,
@@ -15363,6 +15415,7 @@
       {
         "hanja": "湍",
         "hoondok": "여울 단",
+        "nameUse": true,
         "radical": "水",
         "strokes": 9,
         "toneType": 2,
@@ -15388,6 +15441,7 @@
       {
         "hanja": "塘",
         "hoondok": "못[池] 당",
+        "nameUse": true,
         "radical": "土",
         "soundsAux": "못 당",
         "strokes": 10,
@@ -15414,6 +15468,7 @@
       {
         "hanja": "悳",
         "hoondok": "큰[德] 덕",
+        "nameUse": true,
         "radical": "心",
         "soundsAux": "큰 덕",
         "strokes": 8,
@@ -15431,6 +15486,7 @@
       {
         "hanja": "燾",
         "hoondok": "비칠 도",
+        "nameUse": true,
         "radical": "火",
         "strokes": 14,
         "toneType": 2,
@@ -15439,6 +15495,7 @@
       {
         "hanja": "惇",
         "hoondok": "도타울 돈",
+        "nameUse": true,
         "radical": "心",
         "strokes": 8,
         "toneType": 2,
@@ -15447,6 +15504,7 @@
       {
         "hanja": "燉",
         "hoondok": "불빛 돈",
+        "nameUse": true,
         "radical": "火",
         "strokes": 12,
         "toneType": 2,
@@ -15455,6 +15513,7 @@
       {
         "hanja": "頓",
         "hoondok": "조아릴 돈",
+        "nameUse": true,
         "radical": "頁",
         "strokes": 4,
         "toneType": 1,
@@ -15463,6 +15522,7 @@
       {
         "hanja": "乭",
         "hoondok": "이름 돌",
+        "nameUse": true,
         "radical": "乙",
         "strokes": 5,
         "toneType": 2,
@@ -15487,6 +15547,7 @@
       {
         "hanja": "董",
         "hoondok": "바를[正] 동",
+        "nameUse": true,
         "radical": "艸",
         "soundsAux": "바를 동",
         "strokes": 9,
@@ -15496,6 +15557,7 @@
       {
         "hanja": "杜",
         "hoondok": "막을 두",
+        "nameUse": true,
         "radical": "木",
         "strokes": 3,
         "toneType": 2,
@@ -15520,6 +15582,7 @@
       {
         "hanja": "鄧",
         "hoondok": "나라이름 등",
+        "nameUse": true,
         "radical": "邑",
         "strokes": 12,
         "toneType": 1,
@@ -15568,6 +15631,7 @@
       {
         "hanja": "萊",
         "hoondok": "명아주 래",
+        "nameUse": true,
         "radical": "艸",
         "strokes": 8,
         "toneType": 2,
@@ -15584,6 +15648,7 @@
       {
         "hanja": "樑",
         "hoondok": "들보 량",
+        "nameUse": true,
         "radical": "木",
         "strokes": 11,
         "toneType": 2,
@@ -15592,6 +15657,7 @@
       {
         "hanja": "亮",
         "hoondok": "밝을 량",
+        "nameUse": true,
         "radical": "亠",
         "strokes": 7,
         "toneType": 2,
@@ -15600,6 +15666,7 @@
       {
         "hanja": "廬",
         "hoondok": "농막(農幕)집 려",
+        "nameUse": true,
         "radical": "广",
         "strokes": 16,
         "toneType": 2,
@@ -15608,6 +15675,7 @@
       {
         "hanja": "礪",
         "hoondok": "숫돌 려",
+        "nameUse": true,
         "radical": "石",
         "strokes": 15,
         "toneType": 1,
@@ -15616,6 +15684,7 @@
       {
         "hanja": "呂",
         "hoondok": "성(姓)/법칙 려",
+        "nameUse": true,
         "radical": "口",
         "strokes": 4,
         "toneType": 1,
@@ -15624,6 +15693,7 @@
       {
         "hanja": "驪",
         "hoondok": "검은말 려",
+        "nameUse": true,
         "radical": "馬",
         "soundsAux": "검은말 리 | 검은말 려/리",
         "strokes": 19,
@@ -15641,6 +15711,7 @@
       {
         "hanja": "漣",
         "hoondok": "잔물결 련",
+        "nameUse": true,
         "radical": "水",
         "strokes": 11,
         "toneType": 2,
@@ -15649,6 +15720,7 @@
       {
         "hanja": "濂",
         "hoondok": "물이름 렴",
+        "nameUse": true,
         "radical": "水",
         "strokes": 13,
         "toneType": 2,
@@ -15657,6 +15729,7 @@
       {
         "hanja": "玲",
         "hoondok": "옥소리 령",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 5,
         "toneType": 2,
@@ -15665,6 +15738,7 @@
       {
         "hanja": "醴",
         "hoondok": "단술[甘酒] 례",
+        "nameUse": true,
         "radical": "酉",
         "soundsAux": "단술 례",
         "strokes": 13,
@@ -15674,6 +15748,7 @@
       {
         "hanja": "盧",
         "hoondok": "성(姓) 로",
+        "nameUse": true,
         "radical": "皿",
         "strokes": 11,
         "toneType": 2,
@@ -15682,6 +15757,7 @@
       {
         "hanja": "鷺",
         "hoondok": "해오라기/백로 로",
+        "nameUse": true,
         "radical": "鳥",
         "strokes": 13,
         "toneType": 2,
@@ -15690,6 +15766,7 @@
       {
         "hanja": "蘆",
         "hoondok": "갈대 로",
+        "nameUse": true,
         "radical": "艸",
         "strokes": 16,
         "toneType": 2,
@@ -15698,6 +15775,7 @@
       {
         "hanja": "魯",
         "hoondok": "노나라/노둔할 로",
+        "nameUse": true,
         "radical": "魚",
         "strokes": 4,
         "toneType": 2,
@@ -15722,6 +15800,7 @@
       {
         "hanja": "遼",
         "hoondok": "멀 료",
+        "nameUse": true,
         "radical": "辵",
         "strokes": 12,
         "toneType": 2,
@@ -15746,6 +15825,7 @@
       {
         "hanja": "劉",
         "hoondok": "죽일/묘금도(卯金刂) 류",
+        "nameUse": true,
         "radical": "刀",
         "strokes": 13,
         "toneType": 2,
@@ -15754,6 +15834,7 @@
       {
         "hanja": "崙",
         "hoondok": "산이름 륜",
+        "nameUse": true,
         "radical": "山",
         "strokes": 8,
         "toneType": 2,
@@ -15762,6 +15843,7 @@
       {
         "hanja": "楞",
         "hoondok": "네모질[四角] 릉",
+        "nameUse": true,
         "radical": "木",
         "soundsAux": "네모질 릉",
         "strokes": 9,
@@ -15771,6 +15853,7 @@
       {
         "hanja": "麟",
         "hoondok": "기린 린",
+        "nameUse": true,
         "radical": "鹿",
         "strokes": 12,
         "toneType": 2,
@@ -15835,6 +15918,7 @@
       {
         "hanja": "靺",
         "hoondok": "말갈(靺鞨) 말",
+        "nameUse": true,
         "radical": "革",
         "strokes": 5,
         "toneType": 2,
@@ -15867,6 +15951,7 @@
       {
         "hanja": "貊",
         "hoondok": "맥국(貊國) 맥",
+        "nameUse": true,
         "radical": "豸",
         "strokes": 6,
         "toneType": 2,
@@ -15875,6 +15960,7 @@
       {
         "hanja": "覓",
         "hoondok": "찾을 멱",
+        "nameUse": true,
         "radical": "見",
         "strokes": 4,
         "toneType": 2,
@@ -15883,6 +15969,7 @@
       {
         "hanja": "俛",
         "hoondok": "힘쓸/구푸릴 면",
+        "nameUse": true,
         "radical": "人",
         "strokes": 7,
         "toneType": 1,
@@ -15891,6 +15978,7 @@
       {
         "hanja": "沔",
         "hoondok": "물이름/빠질 면",
+        "nameUse": true,
         "radical": "水",
         "strokes": 4,
         "toneType": 1,
@@ -15899,6 +15987,7 @@
       {
         "hanja": "冕",
         "hoondok": "면류관 면",
+        "nameUse": true,
         "radical": "冂",
         "strokes": 9,
         "toneType": 1,
@@ -15931,6 +16020,7 @@
       {
         "hanja": "茅",
         "hoondok": "띠[草名] 모",
+        "nameUse": true,
         "radical": "艸",
         "soundsAux": "띠 모",
         "strokes": 5,
@@ -15940,6 +16030,7 @@
       {
         "hanja": "謨",
         "hoondok": "꾀 모",
+        "nameUse": true,
         "radical": "言",
         "strokes": 11,
         "toneType": 2,
@@ -15948,6 +16039,7 @@
       {
         "hanja": "牟",
         "hoondok": "성(姓)/보리[大麥] 모",
+        "nameUse": true,
         "radical": "牛",
         "soundsAux": "성/보리 모",
         "strokes": 2,
@@ -15965,6 +16057,7 @@
       {
         "hanja": "穆",
         "hoondok": "화목할 목",
+        "nameUse": true,
         "radical": "禾",
         "strokes": 11,
         "toneType": 2,
@@ -15973,6 +16066,7 @@
       {
         "hanja": "昴",
         "hoondok": "별이름 묘",
+        "nameUse": true,
         "radical": "日",
         "strokes": 5,
         "toneType": 1,
@@ -15989,6 +16083,7 @@
       {
         "hanja": "汶",
         "hoondok": "물이름 문",
+        "nameUse": true,
         "radical": "水",
         "strokes": 4,
         "toneType": 2,
@@ -15997,6 +16092,7 @@
       {
         "hanja": "彌",
         "hoondok": "미륵/오랠 미",
+        "nameUse": true,
         "radical": "弓",
         "strokes": 14,
         "toneType": 2,
@@ -16005,6 +16101,7 @@
       {
         "hanja": "旻",
         "hoondok": "하늘 민",
+        "nameUse": true,
         "radical": "日",
         "strokes": 4,
         "toneType": 2,
@@ -16013,6 +16110,7 @@
       {
         "hanja": "閔",
         "hoondok": "성(姓) 민",
+        "nameUse": true,
         "radical": "門",
         "strokes": 4,
         "toneType": 2,
@@ -16021,6 +16119,7 @@
       {
         "hanja": "玟",
         "hoondok": "아름다운돌 민",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 4,
         "toneType": 2,
@@ -16029,6 +16128,7 @@
       {
         "hanja": "珉",
         "hoondok": "옥돌 민",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 5,
         "toneType": 2,
@@ -16037,6 +16137,7 @@
       {
         "hanja": "旼",
         "hoondok": "화할 민",
+        "nameUse": true,
         "radical": "日",
         "strokes": 4,
         "toneType": 2,
@@ -16061,6 +16162,7 @@
       {
         "hanja": "潘",
         "hoondok": "성(姓) 반",
+        "nameUse": true,
         "radical": "水",
         "strokes": 12,
         "toneType": 2,
@@ -16069,6 +16171,7 @@
       {
         "hanja": "磻",
         "hoondok": "반계(磻溪) 반",
+        "nameUse": true,
         "radical": "石",
         "soundsAux": "반계 번 | 반계 반/번",
         "strokes": 12,
@@ -16078,6 +16181,7 @@
       {
         "hanja": "渤",
         "hoondok": "바다이름 발",
+        "nameUse": true,
         "radical": "水",
         "strokes": 9,
         "toneType": 2,
@@ -16086,6 +16190,7 @@
       {
         "hanja": "鉢",
         "hoondok": "바리때 발",
+        "nameUse": true,
         "radical": "金",
         "strokes": 5,
         "toneType": 2,
@@ -16102,6 +16207,7 @@
       {
         "hanja": "旁",
         "hoondok": "곁 방",
+        "nameUse": true,
         "radical": "方",
         "strokes": 6,
         "toneType": 1,
@@ -16110,6 +16216,7 @@
       {
         "hanja": "龐",
         "hoondok": "높은집 방",
+        "nameUse": true,
         "radical": "龍",
         "strokes": 3,
         "toneType": 2,
@@ -16134,6 +16241,7 @@
       {
         "hanja": "裵",
         "hoondok": "성(姓) 배",
+        "nameUse": true,
         "radical": "衣",
         "strokes": 8,
         "toneType": 2,
@@ -16158,6 +16266,7 @@
       {
         "hanja": "筏",
         "hoondok": "뗏목 벌",
+        "nameUse": true,
         "radical": "竹",
         "strokes": 6,
         "toneType": 2,
@@ -16174,6 +16283,7 @@
       {
         "hanja": "范",
         "hoondok": "성(姓) 범",
+        "nameUse": true,
         "radical": "艸",
         "strokes": 5,
         "toneType": 1,
@@ -16190,6 +16300,7 @@
       {
         "hanja": "弁",
         "hoondok": "고깔 변",
+        "nameUse": true,
         "radical": "廾",
         "strokes": 2,
         "toneType": 1,
@@ -16198,6 +16309,7 @@
       {
         "hanja": "卞",
         "hoondok": "성(姓) 변",
+        "nameUse": true,
         "radical": "卜",
         "strokes": 2,
         "toneType": 1,
@@ -16214,6 +16326,7 @@
       {
         "hanja": "昺",
         "hoondok": "밝을 병",
+        "nameUse": true,
         "radical": "日",
         "strokes": 5,
         "toneType": 1,
@@ -16222,6 +16335,7 @@
       {
         "hanja": "昞",
         "hoondok": "밝을 병",
+        "nameUse": true,
         "radical": "日",
         "strokes": 5,
         "toneType": 1,
@@ -16230,6 +16344,7 @@
       {
         "hanja": "秉",
         "hoondok": "잡을 병",
+        "nameUse": true,
         "radical": "禾",
         "strokes": 3,
         "toneType": 1,
@@ -16238,6 +16353,7 @@
       {
         "hanja": "柄",
         "hoondok": "자루 병",
+        "nameUse": true,
         "radical": "木",
         "strokes": 5,
         "toneType": 1,
@@ -16246,6 +16362,7 @@
       {
         "hanja": "炳",
         "hoondok": "불꽃 병",
+        "nameUse": true,
         "radical": "火",
         "strokes": 5,
         "toneType": 1,
@@ -16254,6 +16371,7 @@
       {
         "hanja": "甫",
         "hoondok": "클 보",
+        "nameUse": true,
         "radical": "用",
         "strokes": 2,
         "toneType": 1,
@@ -16262,6 +16380,7 @@
       {
         "hanja": "輔",
         "hoondok": "도울 보",
+        "nameUse": true,
         "radical": "車",
         "strokes": 7,
         "toneType": 1,
@@ -16270,6 +16389,7 @@
       {
         "hanja": "潽",
         "hoondok": "물이름 보",
+        "nameUse": true,
         "radical": "水",
         "strokes": 12,
         "toneType": 1,
@@ -16278,6 +16398,7 @@
       {
         "hanja": "馥",
         "hoondok": "향기 복",
+        "nameUse": true,
         "radical": "香",
         "strokes": 9,
         "toneType": 2,
@@ -16302,6 +16423,7 @@
       {
         "hanja": "蓬",
         "hoondok": "쑥 봉",
+        "nameUse": true,
         "radical": "艸",
         "strokes": 11,
         "toneType": 2,
@@ -16326,6 +16448,7 @@
       {
         "hanja": "傅",
         "hoondok": "스승 부",
+        "nameUse": true,
         "radical": "人",
         "strokes": 10,
         "toneType": 1,
@@ -16334,6 +16457,7 @@
       {
         "hanja": "釜",
         "hoondok": "가마[鬴] 부",
+        "nameUse": true,
         "radical": "金",
         "soundsAux": "가마 부",
         "strokes": 2,
@@ -16343,6 +16467,7 @@
       {
         "hanja": "阜",
         "hoondok": "언덕 부",
+        "nameUse": true,
         "radical": "阜",
         "strokes": 0,
         "toneType": 1,
@@ -16351,6 +16476,7 @@
       {
         "hanja": "芬",
         "hoondok": "향기 분",
+        "nameUse": true,
         "radical": "艸",
         "strokes": 4,
         "toneType": 2,
@@ -16368,6 +16494,7 @@
       {
         "hanja": "鵬",
         "hoondok": "새 붕",
+        "nameUse": true,
         "radical": "鳥",
         "strokes": 8,
         "toneType": 2,
@@ -16384,6 +16511,7 @@
       {
         "hanja": "泌",
         "hoondok": "분비할 비",
+        "nameUse": true,
         "radical": "水",
         "soundsAux": "스며흐를 필",
         "strokes": 5,
@@ -16393,6 +16521,7 @@
       {
         "hanja": "丕",
         "hoondok": "클 비",
+        "nameUse": true,
         "radical": "一",
         "strokes": 4,
         "toneType": 2,
@@ -16401,6 +16530,7 @@
       {
         "hanja": "毖",
         "hoondok": "삼갈 비",
+        "nameUse": true,
         "radical": "比",
         "strokes": 5,
         "toneType": 2,
@@ -16409,6 +16539,7 @@
       {
         "hanja": "毘",
         "hoondok": "도울 비",
+        "nameUse": true,
         "radical": "比",
         "strokes": 5,
         "toneType": 2,
@@ -16417,6 +16548,7 @@
       {
         "hanja": "彬",
         "hoondok": "빛날 빈",
+        "nameUse": true,
         "radical": "彡",
         "strokes": 8,
         "toneType": 2,
@@ -16425,6 +16557,7 @@
       {
         "hanja": "馮",
         "hoondok": "탈[乘] 빙",
+        "nameUse": true,
         "radical": "馬",
         "soundsAux": "성(姓) 풍 | 탈 빙",
         "strokes": 2,
@@ -16458,6 +16591,7 @@
       {
         "hanja": "泗",
         "hoondok": "물이름 사",
+        "nameUse": true,
         "radical": "水",
         "strokes": 5,
         "toneType": 1,
@@ -16507,6 +16641,7 @@
       {
         "hanja": "庠",
         "hoondok": "학교 상",
+        "nameUse": true,
         "radical": "广",
         "strokes": 6,
         "toneType": 2,
@@ -16523,6 +16658,7 @@
       {
         "hanja": "舒",
         "hoondok": "펼 서",
+        "nameUse": true,
         "radical": "舌",
         "strokes": 6,
         "toneType": 1,
@@ -16539,6 +16675,7 @@
       {
         "hanja": "錫",
         "hoondok": "주석 석",
+        "nameUse": true,
         "radical": "金",
         "strokes": 8,
         "toneType": 2,
@@ -16547,6 +16684,7 @@
       {
         "hanja": "奭",
         "hoondok": "클/쌍백 석",
+        "nameUse": true,
         "radical": "大",
         "strokes": 12,
         "toneType": 2,
@@ -16555,6 +16693,7 @@
       {
         "hanja": "晳",
         "hoondok": "밝을 석",
+        "nameUse": true,
         "radical": "日",
         "strokes": 8,
         "toneType": 2,
@@ -16571,6 +16710,7 @@
       {
         "hanja": "璇",
         "hoondok": "옥 선",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 11,
         "toneType": 2,
@@ -16579,6 +16719,7 @@
       {
         "hanja": "瑄",
         "hoondok": "도리옥 선",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 9,
         "toneType": 2,
@@ -16587,6 +16728,7 @@
       {
         "hanja": "璿",
         "hoondok": "구슬 선",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 14,
         "toneType": 2,
@@ -16595,6 +16737,7 @@
       {
         "hanja": "薛",
         "hoondok": "성(姓) 설",
+        "nameUse": true,
         "radical": "艸",
         "strokes": 13,
         "toneType": 2,
@@ -16603,6 +16746,7 @@
       {
         "hanja": "卨",
         "hoondok": "사람이름 설",
+        "nameUse": true,
         "radical": "卜",
         "strokes": 9,
         "toneType": 2,
@@ -16619,6 +16763,7 @@
       {
         "hanja": "陝",
         "hoondok": "땅이름 섬",
+        "nameUse": true,
         "radical": "阜",
         "strokes": 7,
         "toneType": 2,
@@ -16627,6 +16772,7 @@
       {
         "hanja": "蟾",
         "hoondok": "두꺼비 섬",
+        "nameUse": true,
         "radical": "虫",
         "strokes": 13,
         "toneType": 2,
@@ -16635,6 +16781,7 @@
       {
         "hanja": "暹",
         "hoondok": "햇살치밀/나라이름 섬",
+        "nameUse": true,
         "radical": "日",
         "strokes": 12,
         "toneType": 2,
@@ -16643,6 +16790,7 @@
       {
         "hanja": "燮",
         "hoondok": "불꽃 섭",
+        "nameUse": true,
         "radical": "火",
         "strokes": 13,
         "toneType": 2,
@@ -16651,6 +16799,7 @@
       {
         "hanja": "晟",
         "hoondok": "밝을 성",
+        "nameUse": true,
         "radical": "日",
         "strokes": 7,
         "toneType": 2,
@@ -16675,6 +16824,7 @@
       {
         "hanja": "沼",
         "hoondok": "못 소",
+        "nameUse": true,
         "radical": "水",
         "strokes": 5,
         "toneType": 2,
@@ -16683,6 +16833,7 @@
       {
         "hanja": "巢",
         "hoondok": "새집 소",
+        "nameUse": true,
         "radical": "巛",
         "strokes": 8,
         "toneType": 2,
@@ -16691,6 +16842,7 @@
       {
         "hanja": "邵",
         "hoondok": "땅이름/성(姓) 소",
+        "nameUse": true,
         "radical": "邑",
         "strokes": 5,
         "toneType": 2,
@@ -16699,6 +16851,7 @@
       {
         "hanja": "宋",
         "hoondok": "성(姓) 송",
+        "nameUse": true,
         "radical": "宀",
         "strokes": 4,
         "toneType": 1,
@@ -16707,6 +16860,7 @@
       {
         "hanja": "銖",
         "hoondok": "저울눈 수",
+        "nameUse": true,
         "radical": "金",
         "strokes": 6,
         "toneType": 2,
@@ -16715,6 +16869,7 @@
       {
         "hanja": "隋",
         "hoondok": "수나라 수",
+        "nameUse": true,
         "radical": "阜",
         "strokes": 9,
         "toneType": 2,
@@ -16723,6 +16878,7 @@
       {
         "hanja": "洙",
         "hoondok": "물가 수",
+        "nameUse": true,
         "radical": "水",
         "strokes": 6,
         "toneType": 2,
@@ -16739,6 +16895,7 @@
       {
         "hanja": "舜",
         "hoondok": "순임금 순",
+        "nameUse": true,
         "radical": "舛",
         "strokes": 6,
         "toneType": 2,
@@ -16747,6 +16904,7 @@
       {
         "hanja": "珣",
         "hoondok": "옥이름 순",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 6,
         "toneType": 2,
@@ -16755,6 +16913,7 @@
       {
         "hanja": "淳",
         "hoondok": "순박할 순",
+        "nameUse": true,
         "radical": "水",
         "strokes": 8,
         "toneType": 2,
@@ -16763,6 +16922,7 @@
       {
         "hanja": "洵",
         "hoondok": "참으로 순",
+        "nameUse": true,
         "radical": "水",
         "strokes": 6,
         "toneType": 2,
@@ -16771,6 +16931,7 @@
       {
         "hanja": "荀",
         "hoondok": "풀이름 순",
+        "nameUse": true,
         "radical": "艸",
         "strokes": 6,
         "toneType": 2,
@@ -16779,6 +16940,7 @@
       {
         "hanja": "瑟",
         "hoondok": "큰거문고 슬",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 9,
         "toneType": 2,
@@ -16795,6 +16957,7 @@
       {
         "hanja": "繩",
         "hoondok": "노끈 승",
+        "nameUse": true,
         "radical": "糸",
         "strokes": 13,
         "toneType": 2,
@@ -16811,6 +16974,7 @@
       {
         "hanja": "柴",
         "hoondok": "섶[薪] 시",
+        "nameUse": true,
         "radical": "木",
         "soundsAux": "섶 시",
         "strokes": 6,
@@ -16828,6 +16992,7 @@
       {
         "hanja": "軾",
         "hoondok": "수레가로나무 식",
+        "nameUse": true,
         "radical": "車",
         "strokes": 6,
         "toneType": 2,
@@ -16836,6 +17001,7 @@
       {
         "hanja": "湜",
         "hoondok": "물맑을 식",
+        "nameUse": true,
         "radical": "水",
         "strokes": 9,
         "toneType": 2,
@@ -16861,6 +17027,7 @@
       {
         "hanja": "瀋",
         "hoondok": "즙낼/물이름 심",
+        "nameUse": true,
         "radical": "水",
         "strokes": 15,
         "toneType": 1,
@@ -16877,6 +17044,7 @@
       {
         "hanja": "閼",
         "hoondok": "막을 알",
+        "nameUse": true,
         "radical": "門",
         "strokes": 8,
         "toneType": 2,
@@ -16893,6 +17061,7 @@
       {
         "hanja": "鴨",
         "hoondok": "오리 압",
+        "nameUse": true,
         "radical": "鳥",
         "strokes": 5,
         "toneType": 2,
@@ -16909,6 +17078,7 @@
       {
         "hanja": "艾",
         "hoondok": "쑥 애",
+        "nameUse": true,
         "radical": "艸",
         "strokes": 2,
         "toneType": 2,
@@ -16917,6 +17087,7 @@
       {
         "hanja": "埃",
         "hoondok": "티끌 애",
+        "nameUse": true,
         "radical": "土",
         "strokes": 7,
         "toneType": 2,
@@ -16933,6 +17104,7 @@
       {
         "hanja": "倻",
         "hoondok": "가야 야",
+        "nameUse": true,
         "radical": "人",
         "strokes": 9,
         "toneType": 2,
@@ -16949,6 +17121,7 @@
       {
         "hanja": "襄",
         "hoondok": "도울 양",
+        "nameUse": true,
         "radical": "衣",
         "strokes": 11,
         "toneType": 3,
@@ -16957,6 +17130,7 @@
       {
         "hanja": "彦",
         "hoondok": "선비 언",
+        "nameUse": true,
         "radical": "彡",
         "strokes": 6,
         "toneType": 1,
@@ -16973,6 +17147,7 @@
       {
         "hanja": "衍",
         "hoondok": "넓을 연",
+        "nameUse": true,
         "radical": "行",
         "strokes": 3,
         "toneType": 1,
@@ -16981,6 +17156,7 @@
       {
         "hanja": "姸",
         "hoondok": "고울 연",
+        "nameUse": true,
         "radical": "女",
         "strokes": 6,
         "toneType": 1,
@@ -16989,6 +17165,7 @@
       {
         "hanja": "淵",
         "hoondok": "못 연",
+        "nameUse": true,
         "radical": "水",
         "strokes": 9,
         "toneType": 2,
@@ -17005,6 +17182,7 @@
       {
         "hanja": "閻",
         "hoondok": "마을 염",
+        "nameUse": true,
         "radical": "門",
         "strokes": 8,
         "toneType": 2,
@@ -17013,6 +17191,7 @@
       {
         "hanja": "燁",
         "hoondok": "빛날 엽",
+        "nameUse": true,
         "radical": "火",
         "strokes": 11,
         "toneType": 2,
@@ -17021,6 +17200,7 @@
       {
         "hanja": "盈",
         "hoondok": "찰[滿] 영",
+        "nameUse": true,
         "radical": "皿",
         "soundsAux": "찰 영",
         "strokes": 4,
@@ -17030,6 +17210,7 @@
       {
         "hanja": "瑛",
         "hoondok": "옥빛 영",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 9,
         "toneType": 2,
@@ -17038,6 +17219,7 @@
       {
         "hanja": "暎",
         "hoondok": "비칠 영",
+        "nameUse": true,
         "radical": "日",
         "strokes": 9,
         "toneType": 1,
@@ -17054,6 +17236,7 @@
       {
         "hanja": "芮",
         "hoondok": "성(姓) 예",
+        "nameUse": true,
         "radical": "艸",
         "strokes": 4,
         "toneType": 1,
@@ -17062,6 +17245,7 @@
       {
         "hanja": "睿",
         "hoondok": "슬기 예",
+        "nameUse": true,
         "radical": "目",
         "strokes": 9,
         "toneType": 1,
@@ -17070,6 +17254,7 @@
       {
         "hanja": "濊",
         "hoondok": "종족이름 예",
+        "nameUse": true,
         "radical": "水",
         "strokes": 13,
         "toneType": 1,
@@ -17086,6 +17271,7 @@
       {
         "hanja": "墺",
         "hoondok": "물가 오",
+        "nameUse": true,
         "radical": "土",
         "strokes": 13,
         "toneType": 1,
@@ -17094,6 +17280,7 @@
       {
         "hanja": "吳",
         "hoondok": "성(姓) 오",
+        "nameUse": true,
         "radical": "口",
         "strokes": 4,
         "toneType": 2,
@@ -17102,6 +17289,7 @@
       {
         "hanja": "鈺",
         "hoondok": "보배 옥",
+        "nameUse": true,
         "radical": "金",
         "strokes": 5,
         "toneType": 2,
@@ -17110,6 +17298,7 @@
       {
         "hanja": "沃",
         "hoondok": "기름질 옥",
+        "nameUse": true,
         "radical": "水",
         "strokes": 4,
         "toneType": 2,
@@ -17126,6 +17315,7 @@
       {
         "hanja": "甕",
         "hoondok": "독 옹",
+        "nameUse": true,
         "radical": "瓦",
         "strokes": 13,
         "toneType": 1,
@@ -17134,6 +17324,7 @@
       {
         "hanja": "雍",
         "hoondok": "화(和)할 옹",
+        "nameUse": true,
         "radical": "隹",
         "strokes": 5,
         "toneType": 2,
@@ -17142,6 +17333,7 @@
       {
         "hanja": "邕",
         "hoondok": "막힐 옹",
+        "nameUse": true,
         "radical": "邑",
         "strokes": 3,
         "toneType": 2,
@@ -17150,6 +17342,7 @@
       {
         "hanja": "莞",
         "hoondok": "빙그레할 완",
+        "nameUse": true,
         "radical": "艸",
         "soundsAux": "왕골 관",
         "strokes": 7,
@@ -17159,6 +17352,7 @@
       {
         "hanja": "汪",
         "hoondok": "넓을 왕",
+        "nameUse": true,
         "radical": "水",
         "strokes": 4,
         "toneType": 3,
@@ -17167,6 +17361,7 @@
       {
         "hanja": "旺",
         "hoondok": "왕성할 왕",
+        "nameUse": true,
         "radical": "日",
         "strokes": 4,
         "toneType": 1,
@@ -17184,6 +17379,7 @@
       {
         "hanja": "倭",
         "hoondok": "왜나라 왜",
+        "nameUse": true,
         "radical": "人",
         "strokes": 8,
         "toneType": 2,
@@ -17200,6 +17396,7 @@
       {
         "hanja": "姚",
         "hoondok": "예쁠 요",
+        "nameUse": true,
         "radical": "女",
         "strokes": 6,
         "toneType": 2,
@@ -17208,6 +17405,7 @@
       {
         "hanja": "堯",
         "hoondok": "요임금 요",
+        "nameUse": true,
         "radical": "土",
         "strokes": 9,
         "toneType": 2,
@@ -17216,6 +17414,7 @@
       {
         "hanja": "耀",
         "hoondok": "빛날 요",
+        "nameUse": true,
         "radical": "羽",
         "strokes": 14,
         "toneType": 2,
@@ -17240,6 +17439,7 @@
       {
         "hanja": "瑢",
         "hoondok": "패옥소리 용",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 10,
         "toneType": 2,
@@ -17248,6 +17448,7 @@
       {
         "hanja": "溶",
         "hoondok": "녹을 용",
+        "nameUse": true,
         "radical": "水",
         "strokes": 10,
         "toneType": 2,
@@ -17256,6 +17457,7 @@
       {
         "hanja": "鎔",
         "hoondok": "쇠녹일 용",
+        "nameUse": true,
         "radical": "金",
         "strokes": 10,
         "toneType": 2,
@@ -17264,6 +17466,7 @@
       {
         "hanja": "鏞",
         "hoondok": "쇠북 용",
+        "nameUse": true,
         "radical": "金",
         "strokes": 11,
         "toneType": 2,
@@ -17272,6 +17475,7 @@
       {
         "hanja": "佑",
         "hoondok": "도울 우",
+        "nameUse": true,
         "radical": "人",
         "strokes": 5,
         "toneType": 1,
@@ -17280,6 +17484,7 @@
       {
         "hanja": "禹",
         "hoondok": "성(姓) 우",
+        "nameUse": true,
         "radical": "禸",
         "strokes": 4,
         "toneType": 3,
@@ -17288,6 +17493,7 @@
       {
         "hanja": "祐",
         "hoondok": "복(福) 우",
+        "nameUse": true,
         "radical": "示",
         "strokes": 5,
         "toneType": 1,
@@ -17296,6 +17502,7 @@
       {
         "hanja": "旭",
         "hoondok": "아침해 욱",
+        "nameUse": true,
         "radical": "日",
         "strokes": 2,
         "toneType": 2,
@@ -17304,6 +17511,7 @@
       {
         "hanja": "昱",
         "hoondok": "햇빛밝을 욱",
+        "nameUse": true,
         "radical": "日",
         "strokes": 5,
         "toneType": 2,
@@ -17312,6 +17520,7 @@
       {
         "hanja": "煜",
         "hoondok": "빛날 욱",
+        "nameUse": true,
         "radical": "火",
         "strokes": 9,
         "toneType": 2,
@@ -17320,6 +17529,7 @@
       {
         "hanja": "郁",
         "hoondok": "성할 욱",
+        "nameUse": true,
         "radical": "邑",
         "strokes": 6,
         "toneType": 2,
@@ -17328,6 +17538,7 @@
       {
         "hanja": "頊",
         "hoondok": "삼갈 욱",
+        "nameUse": true,
         "radical": "頁",
         "strokes": 4,
         "toneType": 2,
@@ -17336,6 +17547,7 @@
       {
         "hanja": "芸",
         "hoondok": "향풀 운",
+        "nameUse": true,
         "radical": "艸",
         "strokes": 4,
         "toneType": 2,
@@ -17352,6 +17564,7 @@
       {
         "hanja": "蔚",
         "hoondok": "고을이름 울",
+        "nameUse": true,
         "radical": "艸",
         "strokes": 11,
         "toneType": 2,
@@ -17360,6 +17573,7 @@
       {
         "hanja": "熊",
         "hoondok": "곰 웅",
+        "nameUse": true,
         "radical": "火",
         "strokes": 10,
         "toneType": 2,
@@ -17376,6 +17590,7 @@
       {
         "hanja": "瑗",
         "hoondok": "구슬 원",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 9,
         "toneType": 2,
@@ -17384,6 +17599,7 @@
       {
         "hanja": "袁",
         "hoondok": "성(姓) 원",
+        "nameUse": true,
         "radical": "衣",
         "strokes": 4,
         "toneType": 2,
@@ -17392,6 +17608,7 @@
       {
         "hanja": "媛",
         "hoondok": "계집 원",
+        "nameUse": true,
         "radical": "女",
         "strokes": 9,
         "toneType": 2,
@@ -17408,6 +17625,7 @@
       {
         "hanja": "渭",
         "hoondok": "물이름 위",
+        "nameUse": true,
         "radical": "水",
         "strokes": 9,
         "toneType": 2,
@@ -17416,6 +17634,7 @@
       {
         "hanja": "韋",
         "hoondok": "가죽 위",
+        "nameUse": true,
         "radical": "韋",
         "strokes": 0,
         "toneType": 2,
@@ -17424,6 +17643,7 @@
       {
         "hanja": "魏",
         "hoondok": "성(姓) 위",
+        "nameUse": true,
         "radical": "鬼",
         "strokes": 8,
         "toneType": 2,
@@ -17432,6 +17652,7 @@
       {
         "hanja": "庾",
         "hoondok": "곳집/노적가리 유",
+        "nameUse": true,
         "radical": "广",
         "strokes": 8,
         "toneType": 2,
@@ -17440,6 +17661,7 @@
       {
         "hanja": "兪",
         "hoondok": "대답할/인월도(人月刂) 유",
+        "nameUse": true,
         "radical": "入",
         "strokes": 7,
         "toneType": 2,
@@ -17448,6 +17670,7 @@
       {
         "hanja": "踰",
         "hoondok": "넘을 유",
+        "nameUse": true,
         "radical": "足",
         "strokes": 9,
         "toneType": 2,
@@ -17456,6 +17679,7 @@
       {
         "hanja": "楡",
         "hoondok": "느릅나무 유",
+        "nameUse": true,
         "radical": "木",
         "strokes": 9,
         "toneType": 2,
@@ -17464,6 +17688,7 @@
       {
         "hanja": "允",
         "hoondok": "맏[伯] 윤",
+        "nameUse": true,
         "radical": "儿",
         "soundsAux": "맏 윤",
         "strokes": 2,
@@ -17473,6 +17698,7 @@
       {
         "hanja": "胤",
         "hoondok": "자손 윤",
+        "nameUse": true,
         "radical": "肉",
         "strokes": 5,
         "toneType": 2,
@@ -17481,6 +17707,7 @@
       {
         "hanja": "鈗",
         "hoondok": "창 윤",
+        "nameUse": true,
         "radical": "金",
         "strokes": 4,
         "toneType": 2,
@@ -17489,6 +17716,7 @@
       {
         "hanja": "尹",
         "hoondok": "성(姓) 윤",
+        "nameUse": true,
         "radical": "尸",
         "strokes": 1,
         "toneType": 1,
@@ -17505,6 +17733,7 @@
       {
         "hanja": "垠",
         "hoondok": "지경 은",
+        "nameUse": true,
         "radical": "土",
         "strokes": 6,
         "toneType": 2,
@@ -17513,6 +17742,7 @@
       {
         "hanja": "誾",
         "hoondok": "향기 은",
+        "nameUse": true,
         "radical": "言",
         "strokes": 8,
         "toneType": 2,
@@ -17521,6 +17751,7 @@
       {
         "hanja": "殷",
         "hoondok": "은나라 은",
+        "nameUse": true,
         "radical": "殳",
         "strokes": 6,
         "toneType": 2,
@@ -17529,6 +17760,7 @@
       {
         "hanja": "鷹",
         "hoondok": "매 응",
+        "nameUse": true,
         "radical": "鳥",
         "strokes": 13,
         "toneType": 3,
@@ -17545,6 +17777,7 @@
       {
         "hanja": "怡",
         "hoondok": "기쁠 이",
+        "nameUse": true,
         "radical": "心",
         "strokes": 5,
         "toneType": 2,
@@ -17553,6 +17786,7 @@
       {
         "hanja": "伊",
         "hoondok": "저[彼] 이",
+        "nameUse": true,
         "radical": "人",
         "soundsAux": "저 이",
         "strokes": 4,
@@ -17562,6 +17796,7 @@
       {
         "hanja": "珥",
         "hoondok": "귀고리 이",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 6,
         "toneType": 1,
@@ -17570,6 +17805,7 @@
       {
         "hanja": "翊",
         "hoondok": "도울 익",
+        "nameUse": true,
         "radical": "羽",
         "strokes": 5,
         "toneType": 2,
@@ -17594,6 +17830,7 @@
       {
         "hanja": "佾",
         "hoondok": "줄춤 일",
+        "nameUse": true,
         "radical": "人",
         "strokes": 6,
         "toneType": 2,
@@ -17602,6 +17839,7 @@
       {
         "hanja": "鎰",
         "hoondok": "무게이름 일",
+        "nameUse": true,
         "radical": "金",
         "strokes": 10,
         "toneType": 2,
@@ -17642,6 +17880,7 @@
       {
         "hanja": "滋",
         "hoondok": "불을[益] 자",
+        "nameUse": true,
         "radical": "水",
         "soundsAux": "불을 자",
         "strokes": 9,
@@ -17659,6 +17898,7 @@
       {
         "hanja": "獐",
         "hoondok": "노루 장",
+        "nameUse": true,
         "radical": "犬",
         "strokes": 11,
         "toneType": 2,
@@ -17667,6 +17907,7 @@
       {
         "hanja": "庄",
         "hoondok": "전장(田莊) 장",
+        "nameUse": true,
         "radical": "广",
         "strokes": 3,
         "toneType": 2,
@@ -17675,6 +17916,7 @@
       {
         "hanja": "璋",
         "hoondok": "홀[圭] 장",
+        "nameUse": true,
         "radical": "玉",
         "soundsAux": "홀 장",
         "strokes": 11,
@@ -17684,6 +17926,7 @@
       {
         "hanja": "蔣",
         "hoondok": "성(姓) 장",
+        "nameUse": true,
         "radical": "艸",
         "strokes": 11,
         "toneType": 2,
@@ -17701,6 +17944,7 @@
       {
         "hanja": "甸",
         "hoondok": "경기 전",
+        "nameUse": true,
         "radical": "田",
         "strokes": 2,
         "toneType": 2,
@@ -17733,6 +17977,7 @@
       {
         "hanja": "汀",
         "hoondok": "물가 정",
+        "nameUse": true,
         "radical": "水",
         "strokes": 2,
         "toneType": 2,
@@ -17741,6 +17986,7 @@
       {
         "hanja": "楨",
         "hoondok": "광나무 정",
+        "nameUse": true,
         "radical": "木",
         "strokes": 9,
         "toneType": 2,
@@ -17749,6 +17995,7 @@
       {
         "hanja": "晶",
         "hoondok": "맑을 정",
+        "nameUse": true,
         "radical": "日",
         "strokes": 8,
         "toneType": 2,
@@ -17757,6 +18004,7 @@
       {
         "hanja": "鼎",
         "hoondok": "솥 정",
+        "nameUse": true,
         "radical": "鼎",
         "strokes": 0,
         "toneType": 2,
@@ -17765,6 +18013,7 @@
       {
         "hanja": "鄭",
         "hoondok": "나라 정",
+        "nameUse": true,
         "radical": "邑",
         "strokes": 12,
         "toneType": 1,
@@ -17773,6 +18022,7 @@
       {
         "hanja": "禎",
         "hoondok": "상서로울 정",
+        "nameUse": true,
         "radical": "示",
         "strokes": 9,
         "toneType": 2,
@@ -17781,6 +18031,7 @@
       {
         "hanja": "旌",
         "hoondok": "기 정",
+        "nameUse": true,
         "radical": "方",
         "strokes": 7,
         "toneType": 2,
@@ -17789,6 +18040,7 @@
       {
         "hanja": "珽",
         "hoondok": "옥이름 정",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 7,
         "toneType": 2,
@@ -17830,6 +18082,7 @@
       {
         "hanja": "趙",
         "hoondok": "나라 조",
+        "nameUse": true,
         "radical": "走",
         "strokes": 7,
         "toneType": 1,
@@ -17838,6 +18091,7 @@
       {
         "hanja": "曺",
         "hoondok": "성(姓) 조",
+        "nameUse": true,
         "radical": "曰",
         "strokes": 6,
         "toneType": 2,
@@ -17846,6 +18100,7 @@
       {
         "hanja": "祚",
         "hoondok": "복(福) 조",
+        "nameUse": true,
         "radical": "示",
         "strokes": 5,
         "toneType": 2,
@@ -17862,6 +18117,7 @@
       {
         "hanja": "琮",
         "hoondok": "옥홀 종",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 8,
         "toneType": 2,
@@ -17878,6 +18134,7 @@
       {
         "hanja": "疇",
         "hoondok": "이랑 주",
+        "nameUse": true,
         "radical": "田",
         "strokes": 14,
         "toneType": 2,
@@ -17894,6 +18151,7 @@
       {
         "hanja": "駿",
         "hoondok": "준마 준",
+        "nameUse": true,
         "radical": "馬",
         "strokes": 7,
         "toneType": 1,
@@ -17902,6 +18160,7 @@
       {
         "hanja": "濬",
         "hoondok": "깊을 준",
+        "nameUse": true,
         "radical": "水",
         "strokes": 14,
         "toneType": 1,
@@ -17910,6 +18169,7 @@
       {
         "hanja": "浚",
         "hoondok": "깊게할 준",
+        "nameUse": true,
         "radical": "水",
         "strokes": 7,
         "toneType": 1,
@@ -17918,6 +18178,7 @@
       {
         "hanja": "晙",
         "hoondok": "밝을 준",
+        "nameUse": true,
         "radical": "日",
         "strokes": 7,
         "toneType": 1,
@@ -17926,6 +18187,7 @@
       {
         "hanja": "峻",
         "hoondok": "높을/준엄할 준",
+        "nameUse": true,
         "radical": "山",
         "strokes": 7,
         "toneType": 1,
@@ -17934,6 +18196,7 @@
       {
         "hanja": "埈",
         "hoondok": "높을 준",
+        "nameUse": true,
         "radical": "土",
         "strokes": 7,
         "toneType": 1,
@@ -17958,6 +18221,7 @@
       {
         "hanja": "芝",
         "hoondok": "지초 지",
+        "nameUse": true,
         "radical": "艸",
         "strokes": 4,
         "toneType": 2,
@@ -17966,6 +18230,7 @@
       {
         "hanja": "址",
         "hoondok": "터 지",
+        "nameUse": true,
         "radical": "土",
         "strokes": 4,
         "toneType": 2,
@@ -17974,6 +18239,7 @@
       {
         "hanja": "稷",
         "hoondok": "피[穀名] 직",
+        "nameUse": true,
         "radical": "禾",
         "soundsAux": "피 직",
         "strokes": 10,
@@ -17983,6 +18249,7 @@
       {
         "hanja": "稙",
         "hoondok": "올벼 직",
+        "nameUse": true,
         "radical": "禾",
         "strokes": 8,
         "toneType": 2,
@@ -18015,6 +18282,7 @@
       {
         "hanja": "秦",
         "hoondok": "성(姓) 진",
+        "nameUse": true,
         "radical": "禾",
         "strokes": 5,
         "toneType": 2,
@@ -18023,6 +18291,7 @@
       {
         "hanja": "晋",
         "hoondok": "진나라 진",
+        "nameUse": true,
         "radical": "日",
         "strokes": 6,
         "toneType": 1,
@@ -18063,6 +18332,7 @@
       {
         "hanja": "瓚",
         "hoondok": "옥잔 찬",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 19,
         "toneType": 2,
@@ -18071,6 +18341,7 @@
       {
         "hanja": "鑽",
         "hoondok": "뚫을 찬",
+        "nameUse": true,
         "radical": "金",
         "strokes": 19,
         "toneType": 2,
@@ -18079,6 +18350,7 @@
       {
         "hanja": "璨",
         "hoondok": "옥빛 찬",
+        "nameUse": true,
         "radical": "玉",
         "strokes": 13,
         "toneType": 1,
@@ -18087,6 +18359,7 @@
       {
         "hanja": "燦",
         "hoondok": "빛날 찬",
+        "nameUse": true,
         "radical": "火",
         "strokes": 13,
         "toneType": 1,
@@ -18135,6 +18408,7 @@
       {
         "hanja": "敞",
         "hoondok": "시원할 창",
+        "nameUse": true,
         "radical": "攴",
         "strokes": 8,
         "toneType": 2,
@@ -18143,6 +18417,7 @@
       {
         "hanja": "昶",
         "hoondok": "해길 창",
+        "nameUse": true,
         "radical": "日",
         "strokes": 5,
         "toneType": 1,
@@ -18151,6 +18426,7 @@
       {
         "hanja": "埰",
         "hoondok": "사패지(賜牌地) 채",
+        "nameUse": true,
         "radical": "土",
         "strokes": 8,
         "toneType": 1,
@@ -18159,6 +18435,7 @@
       {
         "hanja": "采",
         "hoondok": "풍채 채",
+        "nameUse": true,
         "radical": "釆",
         "strokes": 1,
         "toneType": 1,
@@ -18167,6 +18444,7 @@
       {
         "hanja": "蔡",
         "hoondok": "성(姓) 채",
+        "nameUse": true,
         "radical": "艸",
         "strokes": 11,
         "toneType": 1,
@@ -18191,6 +18469,7 @@
       {
         "hanja": "陟",
         "hoondok": "오를 척",
+        "nameUse": true,
         "radical": "阜",
         "strokes": 7,
         "toneType": 2,
@@ -18199,6 +18478,7 @@
       {
         "hanja": "釧",
         "hoondok": "팔찌 천",
+        "nameUse": true,
         "radical": "金",
         "strokes": 3,
         "toneType": 2,
@@ -18215,6 +18495,7 @@
       {
         "hanja": "澈",
         "hoondok": "맑을 철",
+        "nameUse": true,
         "radical": "水",
         "strokes": 12,
         "toneType": 2,
@@ -18223,6 +18504,7 @@
       {
         "hanja": "喆",
         "hoondok": "밝을/쌍길[吉] 철",
+        "nameUse": true,
         "radical": "口",
         "soundsAux": "밝을/쌍길 철",
         "strokes": 9,
@@ -18232,6 +18514,7 @@
       {
         "hanja": "瞻",
         "hoondok": "볼 첨",
+        "nameUse": true,
         "radical": "目",
         "strokes": 13,
         "toneType": 2,
@@ -18273,6 +18556,7 @@
       {
         "hanja": "楚",
         "hoondok": "초나라 초",
+        "nameUse": true,
         "radical": "木",
         "strokes": 9,
         "toneType": 2,
@@ -18281,6 +18565,7 @@
       {
         "hanja": "蜀",
         "hoondok": "나라이름 촉",
+        "nameUse": true,
         "radical": "虫",
         "strokes": 7,
         "toneType": 2,
@@ -18289,6 +18574,7 @@
       {
         "hanja": "崔",
         "hoondok": "성(姓)/높을 최",
+        "nameUse": true,
         "radical": "山",
         "strokes": 8,
         "toneType": 2,
@@ -18305,6 +18591,7 @@
       {
         "hanja": "鄒",
         "hoondok": "추나라 추",
+        "nameUse": true,
         "radical": "邑",
         "strokes": 10,
         "toneType": 2,
@@ -18313,6 +18600,7 @@
       {
         "hanja": "楸",
         "hoondok": "가래 추",
+        "nameUse": true,
         "radical": "木",
         "strokes": 9,
         "toneType": 2,
@@ -18337,6 +18625,7 @@
       {
         "hanja": "椿",
         "hoondok": "참죽나무 춘",
+        "nameUse": true,
         "radical": "木",
         "strokes": 9,
         "toneType": 2,
@@ -18353,6 +18642,7 @@
       {
         "hanja": "沖",
         "hoondok": "화(和)할 충",
+        "nameUse": true,
         "radical": "水",
         "strokes": 4,
         "toneType": 2,
@@ -18369,6 +18659,7 @@
       {
         "hanja": "聚",
         "hoondok": "모을 취",
+        "nameUse": true,
         "radical": "耳",
         "strokes": 8,
         "toneType": 1,
@@ -18377,6 +18668,7 @@
       {
         "hanja": "峙",
         "hoondok": "언덕 치",
+        "nameUse": true,
         "radical": "山",
         "strokes": 6,
         "toneType": 2,
@@ -18385,6 +18677,7 @@
       {
         "hanja": "雉",
         "hoondok": "꿩 치",
+        "nameUse": true,
         "radical": "隹",
         "strokes": 5,
         "toneType": 2,
@@ -18409,6 +18702,7 @@
       {
         "hanja": "灘",
         "hoondok": "여울 탄",
+        "nameUse": true,
         "radical": "水",
         "strokes": 19,
         "toneType": 2,
@@ -18417,6 +18711,7 @@
       {
         "hanja": "耽",
         "hoondok": "즐길 탐",
+        "nameUse": true,
         "radical": "耳",
         "strokes": 4,
         "toneType": 2,
@@ -18441,6 +18736,7 @@
       {
         "hanja": "兌",
         "hoondok": "바꿀/기쁠 태",
+        "nameUse": true,
         "radical": "儿",
         "strokes": 5,
         "toneType": 2,
@@ -18449,6 +18745,7 @@
       {
         "hanja": "台",
         "hoondok": "별 태",
+        "nameUse": true,
         "radical": "口",
         "strokes": 2,
         "toneType": 2,
@@ -18457,6 +18754,7 @@
       {
         "hanja": "坡",
         "hoondok": "언덕 파",
+        "nameUse": true,
         "radical": "土",
         "strokes": 5,
         "toneType": 2,
@@ -18465,6 +18763,7 @@
       {
         "hanja": "阪",
         "hoondok": "언덕 판",
+        "nameUse": true,
         "radical": "阜",
         "strokes": 4,
         "toneType": 2,
@@ -18481,6 +18780,7 @@
       {
         "hanja": "彭",
         "hoondok": "성(姓) 팽",
+        "nameUse": true,
         "radical": "彡",
         "strokes": 9,
         "toneType": 2,
@@ -18489,6 +18789,7 @@
       {
         "hanja": "扁",
         "hoondok": "작을 편",
+        "nameUse": true,
         "radical": "戶",
         "strokes": 5,
         "toneType": 2,
@@ -18530,6 +18831,7 @@
       {
         "hanja": "鮑",
         "hoondok": "절인물고기 포",
+        "nameUse": true,
         "radical": "魚",
         "strokes": 5,
         "toneType": 1,
@@ -18538,6 +18840,7 @@
       {
         "hanja": "葡",
         "hoondok": "포도 포",
+        "nameUse": true,
         "radical": "艸",
         "strokes": 9,
         "toneType": 2,
@@ -18546,6 +18849,7 @@
       {
         "hanja": "杓",
         "hoondok": "북두자루 표",
+        "nameUse": true,
         "radical": "木",
         "strokes": 3,
         "toneType": 2,
@@ -18554,6 +18858,7 @@
       {
         "hanja": "弼",
         "hoondok": "도울 필",
+        "nameUse": true,
         "radical": "弓",
         "strokes": 9,
         "toneType": 2,
@@ -18578,6 +18883,7 @@
       {
         "hanja": "邯",
         "hoondok": "조(趙)나라서울 한",
+        "nameUse": true,
         "radical": "邑",
         "soundsAux": "사람이름 감",
         "strokes": 5,
@@ -18595,6 +18901,7 @@
       {
         "hanja": "沆",
         "hoondok": "넓을 항",
+        "nameUse": true,
         "radical": "水",
         "strokes": 4,
         "toneType": 1,
@@ -18603,6 +18910,7 @@
       {
         "hanja": "亢",
         "hoondok": "높을 항",
+        "nameUse": true,
         "radical": "亠",
         "strokes": 2,
         "toneType": 2,
@@ -18611,6 +18919,7 @@
       {
         "hanja": "杏",
         "hoondok": "살구 행",
+        "nameUse": true,
         "radical": "木",
         "strokes": 3,
         "toneType": 1,
@@ -18619,6 +18928,7 @@
       {
         "hanja": "爀",
         "hoondok": "불빛 혁",
+        "nameUse": true,
         "radical": "火",
         "strokes": 14,
         "toneType": 2,
@@ -18627,6 +18937,7 @@
       {
         "hanja": "赫",
         "hoondok": "빛날 혁",
+        "nameUse": true,
         "radical": "赤",
         "strokes": 7,
         "toneType": 2,
@@ -18643,6 +18954,7 @@
       {
         "hanja": "峴",
         "hoondok": "고개 현",
+        "nameUse": true,
         "radical": "山",
         "strokes": 7,
         "toneType": 1,
@@ -18651,6 +18963,7 @@
       {
         "hanja": "鉉",
         "hoondok": "솥귀 현",
+        "nameUse": true,
         "radical": "金",
         "strokes": 5,
         "toneType": 2,
@@ -18659,6 +18972,7 @@
       {
         "hanja": "炫",
         "hoondok": "밝을 현",
+        "nameUse": true,
         "radical": "火",
         "strokes": 5,
         "toneType": 1,
@@ -18675,6 +18989,7 @@
       {
         "hanja": "陜",
         "hoondok": "좁을 협",
+        "nameUse": true,
         "radical": "阜",
         "soundsAux": "땅이름 합",
         "strokes": 7,
@@ -18692,6 +19007,7 @@
       {
         "hanja": "馨",
         "hoondok": "꽃다울 형",
+        "nameUse": true,
         "radical": "香",
         "strokes": 11,
         "toneType": 2,
@@ -18700,6 +19016,7 @@
       {
         "hanja": "邢",
         "hoondok": "성(姓) 형",
+        "nameUse": true,
         "radical": "邑",
         "strokes": 4,
         "toneType": 2,
@@ -18708,6 +19025,7 @@
       {
         "hanja": "瑩",
         "hoondok": "밝을 형",
+        "nameUse": true,
         "radical": "玉",
         "soundsAux": "옥돌 영",
         "strokes": 10,
@@ -18717,6 +19035,7 @@
       {
         "hanja": "炯",
         "hoondok": "빛날 형",
+        "nameUse": true,
         "radical": "火",
         "strokes": 5,
         "toneType": 2,
@@ -18725,6 +19044,7 @@
       {
         "hanja": "瀅",
         "hoondok": "물맑을 형",
+        "nameUse": true,
         "radical": "水",
         "strokes": 15,
         "toneType": 1,
@@ -18741,6 +19061,7 @@
       {
         "hanja": "壕",
         "hoondok": "해자 호",
+        "nameUse": true,
         "radical": "土",
         "strokes": 14,
         "toneType": 2,
@@ -18749,6 +19070,7 @@
       {
         "hanja": "扈",
         "hoondok": "따를 호",
+        "nameUse": true,
         "radical": "戶",
         "strokes": 7,
         "toneType": 1,
@@ -18757,6 +19079,7 @@
       {
         "hanja": "昊",
         "hoondok": "하늘 호",
+        "nameUse": true,
         "radical": "日",
         "strokes": 4,
         "toneType": 1,
@@ -18765,6 +19088,7 @@
       {
         "hanja": "鎬",
         "hoondok": "호경 호",
+        "nameUse": true,
         "radical": "金",
         "strokes": 10,
         "toneType": 1,
@@ -18773,6 +19097,7 @@
       {
         "hanja": "澔",
         "hoondok": "넓을 호",
+        "nameUse": true,
         "radical": "水",
         "strokes": 12,
         "toneType": 1,
@@ -18781,6 +19106,7 @@
       {
         "hanja": "皓",
         "hoondok": "흴[白] 호",
+        "nameUse": true,
         "radical": "白",
         "soundsAux": "흴 호",
         "strokes": 7,
@@ -18790,6 +19116,7 @@
       {
         "hanja": "祜",
         "hoondok": "복(福) 호",
+        "nameUse": true,
         "radical": "示",
         "strokes": 5,
         "toneType": 2,
@@ -18798,6 +19125,7 @@
       {
         "hanja": "晧",
         "hoondok": "밝을 호",
+        "nameUse": true,
         "radical": "日",
         "strokes": 7,
         "toneType": 1,
@@ -18814,6 +19142,7 @@
       {
         "hanja": "泓",
         "hoondok": "물깊을 홍",
+        "nameUse": true,
         "radical": "水",
         "strokes": 5,
         "toneType": 2,
@@ -18831,6 +19160,7 @@
       {
         "hanja": "樺",
         "hoondok": "벚나무/자작나무 화",
+        "nameUse": true,
         "radical": "木",
         "strokes": 11,
         "toneType": 2,
@@ -18839,6 +19169,7 @@
       {
         "hanja": "嬅",
         "hoondok": "탐스러울 화",
+        "nameUse": true,
         "radical": "女",
         "strokes": 11,
         "toneType": 2,
@@ -18855,6 +19186,7 @@
       {
         "hanja": "煥",
         "hoondok": "빛날 환",
+        "nameUse": true,
         "radical": "火",
         "strokes": 9,
         "toneType": 1,
@@ -18863,6 +19195,7 @@
       {
         "hanja": "桓",
         "hoondok": "굳셀 환",
+        "nameUse": true,
         "radical": "木",
         "strokes": 6,
         "toneType": 2,
@@ -18880,6 +19213,7 @@
       {
         "hanja": "晃",
         "hoondok": "밝을 황",
+        "nameUse": true,
         "radical": "日",
         "strokes": 6,
         "toneType": 2,
@@ -18888,6 +19222,7 @@
       {
         "hanja": "滉",
         "hoondok": "깊을 황",
+        "nameUse": true,
         "radical": "水",
         "strokes": 10,
         "toneType": 2,
@@ -18905,6 +19240,7 @@
       {
         "hanja": "淮",
         "hoondok": "물이름 회",
+        "nameUse": true,
         "radical": "水",
         "strokes": 8,
         "toneType": 2,
@@ -18913,6 +19249,7 @@
       {
         "hanja": "檜",
         "hoondok": "전나무 회",
+        "nameUse": true,
         "radical": "木",
         "strokes": 13,
         "toneType": 1,
@@ -18929,6 +19266,7 @@
       {
         "hanja": "后",
         "hoondok": "임금/왕후 후",
+        "nameUse": true,
         "radical": "口",
         "strokes": 3,
         "toneType": 1,
@@ -18945,6 +19283,7 @@
       {
         "hanja": "熏",
         "hoondok": "불길 훈",
+        "nameUse": true,
         "radical": "火",
         "strokes": 10,
         "toneType": 2,
@@ -18953,6 +19292,7 @@
       {
         "hanja": "薰",
         "hoondok": "향풀 훈",
+        "nameUse": true,
         "radical": "艸",
         "strokes": 14,
         "toneType": 2,
@@ -18961,6 +19301,7 @@
       {
         "hanja": "壎",
         "hoondok": "질나팔 훈",
+        "nameUse": true,
         "radical": "土",
         "strokes": 14,
         "toneType": 2,
@@ -18969,6 +19310,7 @@
       {
         "hanja": "徽",
         "hoondok": "아름다울 휘",
+        "nameUse": true,
         "radical": "彳",
         "strokes": 14,
         "toneType": 2,
@@ -18977,6 +19319,7 @@
       {
         "hanja": "烋",
         "hoondok": "아름다울 휴",
+        "nameUse": true,
         "radical": "火",
         "strokes": 6,
         "toneType": 2,
@@ -18985,6 +19328,7 @@
       {
         "hanja": "匈",
         "hoondok": "오랑캐 흉",
+        "nameUse": true,
         "radical": "勹",
         "strokes": 4,
         "toneType": 2,
@@ -18993,6 +19337,7 @@
       {
         "hanja": "欽",
         "hoondok": "공경할 흠",
+        "nameUse": true,
         "radical": "欠",
         "strokes": 8,
         "toneType": 2,
@@ -19022,6 +19367,7 @@
       {
         "hanja": "熹",
         "hoondok": "빛날 희",
+        "nameUse": true,
         "radical": "火",
         "strokes": 12,
         "toneType": 2,
@@ -19030,6 +19376,7 @@
       {
         "hanja": "憙",
         "hoondok": "기뻐할 희",
+        "nameUse": true,
         "radical": "心",
         "strokes": 12,
         "toneType": 2,
@@ -19038,6 +19385,7 @@
       {
         "hanja": "嬉",
         "hoondok": "아름다울 희",
+        "nameUse": true,
         "radical": "女",
         "strokes": 12,
         "toneType": 2,
@@ -19046,6 +19394,7 @@
       {
         "hanja": "羲",
         "hoondok": "복희(伏羲) 희",
+        "nameUse": true,
         "radical": "羊",
         "strokes": 10,
         "toneType": 2,
@@ -19054,6 +19403,7 @@
       {
         "hanja": "禧",
         "hoondok": "복(福) 희",
+        "nameUse": true,
         "radical": "示",
         "strokes": 12,
         "toneType": 2,
