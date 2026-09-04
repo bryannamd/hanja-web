@@ -128716,7 +128716,7 @@ q(a){var s,r,q,p,o=null,n=this.d
 if(n==null){n=this.c
 n.toString
 s=A.bOH(n)
-r=B.e.cE(300/B.d.cE((n.length===0?B.c6:new A.eN(n)).gB(0),1,12),28,260)
+r=B.e.cE(300/B.d.cE((n.length===0?B.c6:new A.eN(n)).gB(0),1,12),28,156)
 q=s?"\ud55c\uc790 "+n:"\ubb38\uc81c "+n
 p=s?"Noto Serif KR":"Pretendard"
 n=A.oq(B.M,A.aa(o,o,o,new A.aY(!0,A.H(n,1,o,o,!1,A.c5(o,o,B.a4,o,o,o,o,o,p,s?B.aR:o,o,r,o,o,B.V,o,1,!0,o,o,o,o,o,o,o,o),B.y,o,o),o),!1,o,o,o,!1,o,!1,o,o,o,o,o,o,o,o,o,o,q,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.n,o),B.cU)}return A.bk(B.M,n,B.r,o,o,new A.bh(B.i,o,B.et,B.oj,B.a9v,o,B.E),o,o,o,B.Y,o,o,1/0)},
