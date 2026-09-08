@@ -1,0 +1,11 @@
+# 어흥! 5분한자 — 웹 빌드
+# 주소는 lib/app_links.dart의 kAppSiteUrl과 같은 값이어야 한다
+# (test/app_links_test.dart가 확인한다).
+#
+# 주의: 크롤러는 robots.txt를 도메인 루트에서만 읽는다. 지금처럼 하위 경로
+# (github.io/hanja-web/)에 배포된 동안 이 파일은 사실상 읽히지 않는다 —
+# 정식 도메인(hanja.websutil.com)으로 옮기면 그때부터 유효해진다.
+User-agent: *
+Allow: /
+
+Sitemap: https://bryannamd.github.io/hanja-web/sitemap.xml
