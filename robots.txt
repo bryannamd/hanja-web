@@ -1,4 +1,4 @@
-# 어흥! 5분한자 — 웹 빌드
+# 어흥!한자 — 웹 빌드
 # 주소는 lib/app_links.dart의 kAppSiteUrl과 같은 값이어야 한다
 # (test/app_links_test.dart가 확인한다).
 #
