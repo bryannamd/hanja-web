@@ -35,8 +35,6 @@ if (!window._flutter) {
 }
 _flutter.buildConfig = {"engineRevision":"4c525dac5ebe5971c5708ef73558ed8edcf4a362","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}],"useLocalCanvasKit":true};
 
-_flutter.loader.load({
-  serviceWorkerSettings: {
-    serviceWorkerVersion: "4281101659" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */
-  }
-});
+// Flutter 기본 서비스 워커(지원 중단 예정, 해제 전용 파일)는 쓰지 않는다.
+// 서비스 워커는 sw_register.js가 sw.js로 직접 등록한다(같은 scope에 둘이 서로 덮어쓰지 않게).
+_flutter.loader.load();
