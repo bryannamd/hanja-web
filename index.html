@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
   <!--
     If you are serving your web app in a path other than the root, change the
@@ -52,6 +52,50 @@
   <link rel="manifest" href="manifest.json">
 </head>
 <body>
+  <!--
+    첫 화면 전 안내 + 실패 복구. Flutter가 첫 프레임을 그리면 `flutter-first-frame`
+    이벤트로 이 블록을 지운다. 스크립트·CanvasKit·자산이 안 받아져 앱이 아예 못
+    뜨면(이때는 Dart 오류 화면도 없다) 한국어 설명과 '다시 시도' 버튼을 보인다.
+    이 문구는 '로딩 화면이 떴다'는 뜻일 뿐 학습 준비가 끝났다는 뜻이 아니다 —
+    학습 가능 시점은 tool/web_perf_measure.md 절차로 따로 잰다.
+  -->
+  <div id="boot" role="status" aria-live="polite" style="position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:24px;box-sizing:border-box;text-align:center;font-family:-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Noto Sans KR',sans-serif;color:#3b3b3b;background:#fffaf0">
+    <div id="boot-msg" style="font-size:17px;line-height:1.5">어흥!한자를 불러오고 있어요</div>
+    <button id="boot-retry" type="button" hidden style="min-width:120px;min-height:48px;padding:0 24px;border:0;border-radius:24px;background:#c2410c;color:#fff;font-size:16px;font-weight:600">다시 시도</button>
+  </div>
+  <script>
+    (function () {
+      var boot = document.getElementById('boot');
+      var msg = document.getElementById('boot-msg');
+      var retry = document.getElementById('boot-retry');
+      var done = false;
+      function fail(text) {
+        if (done) return;
+        msg.textContent = text;
+        retry.hidden = false;
+      }
+      retry.addEventListener('click', function () { location.reload(); });
+      window.addEventListener('flutter-first-frame', function () {
+        done = true;
+        boot.remove();
+      });
+      // 스크립트 파일 자체를 못 받은 경우(오프라인·서버 오류). 리소스 오류는 버블링하지
+      // 않아 capture 단계에서 잡는다.
+      window.addEventListener('error', function (e) {
+        var t = e.target;
+        if (t && t.tagName === 'SCRIPT') {
+          fail('앱 파일을 받지 못했어요. 인터넷 연결을 확인하고 다시 시도해 주세요.');
+        }
+      }, true);
+      // 연결이 느릴 뿐일 수 있어 기다리던 안내는 지우지 않고 버튼만 연다.
+      setTimeout(function () {
+        if (!done) {
+          msg.textContent = '시간이 오래 걸리고 있어요. 계속 기다리거나 다시 시도할 수 있어요.';
+          retry.hidden = false;
+        }
+      }, 20000);
+    })();
+  </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
