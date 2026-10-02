@@ -37,4 +37,74 @@ _flutter.buildConfig = {"engineRevision":"4c525dac5ebe5971c5708ef73558ed8edcf4a3
 
 // Flutter 기본 서비스 워커(지원 중단 예정, 해제 전용 파일)는 쓰지 않는다.
 // 서비스 워커는 sw_register.js가 sw.js로 직접 등록한다(같은 scope에 둘이 서로 덮어쓰지 않게).
-_flutter.loader.load();
+(function () {
+  'use strict';
+
+  // boot.js를 못 받아도 첫 프레임을 가리거나 실패 후 재시도가 막히지 않는다.
+  function fallback() {
+    var boot = document.getElementById('boot');
+    var msg = document.getElementById('boot-msg');
+    var retry = document.getElementById('boot-retry');
+    var done = !boot;
+    var timer;
+    function reload() { location.reload(); }
+    function fail(text) {
+      if (done) return;
+      clearTimeout(timer);
+      boot.dataset.state = 'error';
+      msg.textContent = text;
+      retry.hidden = false;
+    }
+    function scriptFailed(event) {
+      if (event.target && event.target.tagName === 'SCRIPT') fail(failureMessage);
+    }
+    function finish() {
+      if (done) return;
+      done = true;
+      clearTimeout(timer);
+      window.removeEventListener('flutter-first-frame', finish);
+      window.removeEventListener('error', scriptFailed, true);
+      retry.removeEventListener('click', reload);
+      boot.remove();
+      boot = msg = retry = null;
+    }
+    if (!done) {
+      retry.addEventListener('click', reload);
+      window.addEventListener('flutter-first-frame', finish);
+      window.addEventListener('error', scriptFailed, true);
+      timer = setTimeout(function () {
+        if (done || boot.dataset.state !== 'loading') return;
+        boot.dataset.state = 'slow';
+        msg.textContent = '시간이 오래 걸리고 있어요. 계속 기다리거나 다시 시도할 수 있어요.';
+        retry.hidden = false;
+      }, 20000);
+    }
+    return {
+      stage: function (text) {
+        if (!done && boot.dataset.state === 'loading') msg.textContent = text;
+      },
+      fail: fail,
+    };
+  }
+
+  var failureMessage = '앱을 시작하지 못했어요. 인터넷 연결을 확인하고 다시 시도해 주세요.';
+  var boot = window.hanjaBoot || fallback();
+  async function start(engineInitializer) {
+    try {
+      boot.stage('학습 화면을 준비하고 있어요');
+      var appRunner = await engineInitializer.initializeEngine();
+      boot.stage('거의 다 됐어요. 한자를 만나러 가요!');
+      await appRunner.runApp();
+      // runApp 완료와 첫 그림은 별개다. 제거는 flutter-first-frame이 담당한다.
+    } catch (_) {
+      boot.fail(failureMessage);
+    }
+  }
+
+  try {
+    Promise.resolve(_flutter.loader.load({ onEntrypointLoaded: start }))
+      .catch(function () { boot.fail(failureMessage); });
+  } catch (_) {
+    boot.fail(failureMessage);
+  }
+})();

@@ -17,6 +17,8 @@
   <base href="/hanja-web/">
 
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#FDF3EA">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="어흥!한자 — 한국어문회 한자능력검정시험 급수를 준비하는 학습 앱. 간격 반복(FSRS)·획순 따라쓰기·모의시험. 광고 없음, 개인정보 수집 없음.">
 
@@ -50,52 +52,41 @@
 
   <title>어흥!한자</title>
   <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="boot.css">
+  <link rel="preload" href="boot-font-bold.woff2" as="font" type="font/woff2" crossorigin>
 </head>
 <body>
-  <!--
-    첫 화면 전 안내 + 실패 복구. Flutter가 첫 프레임을 그리면 `flutter-first-frame`
-    이벤트로 이 블록을 지운다. 스크립트·CanvasKit·자산이 안 받아져 앱이 아예 못
-    뜨면(이때는 Dart 오류 화면도 없다) 한국어 설명과 '다시 시도' 버튼을 보인다.
-    이 문구는 '로딩 화면이 떴다'는 뜻일 뿐 학습 준비가 끝났다는 뜻이 아니다 —
-    학습 가능 시점은 tool/web_perf_measure.md 절차로 따로 잰다.
-  -->
-  <div id="boot" role="status" aria-live="polite" style="position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:24px;box-sizing:border-box;text-align:center;font-family:-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Noto Sans KR',sans-serif;color:#3b3b3b;background:#fffaf0">
-    <div id="boot-msg" style="font-size:17px;line-height:1.5">어흥!한자를 불러오고 있어요</div>
-    <button id="boot-retry" type="button" hidden style="min-width:120px;min-height:48px;padding:0 24px;border:0;border-radius:24px;background:#c2410c;color:#fff;font-size:16px;font-weight:600">다시 시도</button>
-  </div>
-  <script>
-    (function () {
-      var boot = document.getElementById('boot');
-      var msg = document.getElementById('boot-msg');
-      var retry = document.getElementById('boot-retry');
-      var done = false;
-      function fail(text) {
-        if (done) return;
-        msg.textContent = text;
-        retry.hidden = false;
-      }
-      retry.addEventListener('click', function () { location.reload(); });
-      window.addEventListener('flutter-first-frame', function () {
-        done = true;
-        boot.remove();
-      });
-      // 스크립트 파일 자체를 못 받은 경우(오프라인·서버 오류). 리소스 오류는 버블링하지
-      // 않아 capture 단계에서 잡는다.
-      window.addEventListener('error', function (e) {
-        var t = e.target;
-        if (t && t.tagName === 'SCRIPT') {
-          fail('앱 파일을 받지 못했어요. 인터넷 연결을 확인하고 다시 시도해 주세요.');
-        }
-      }, true);
-      // 연결이 느릴 뿐일 수 있어 기다리던 안내는 지우지 않고 버튼만 연다.
-      setTimeout(function () {
-        if (!done) {
-          msg.textContent = '시간이 오래 걸리고 있어요. 계속 기다리거나 다시 시도할 수 있어요.';
-          retry.hidden = false;
-        }
-      }, 20000);
-    })();
-  </script>
+  <!-- Flutter보다 먼저 그리는 브랜드 장면. 첫 프레임 즉시 제거하며 시간을 늘리지 않는다. -->
+  <main id="boot" data-state="loading" aria-label="어흥!한자 시작 화면">
+    <div class="boot-shell">
+      <section class="boot-scene" aria-labelledby="boot-title">
+        <div class="boot-title-group">
+          <h1 id="boot-title" aria-label="어흥!한자"><span>어흥<span class="boot-mark">!</span></span><span class="boot-title-hanja">한자</span></h1>
+          <p class="boot-tagline">한 글자씩, 자신감이 쑥.</p>
+        </div>
+        <button id="boot-greet" type="button" disabled aria-label="호랑에게 인사하기" aria-describedby="boot-play-hint">
+          <span class="boot-sun" aria-hidden="true"></span>
+          <svg class="boot-trails" viewBox="0 0 320 300" fill="none" aria-hidden="true">
+            <path d="M51 126C35 146 34 162 39 180M27 114C7 139 7 165 16 190M274 160C290 141 294 123 286 104M297 174C316 150 322 125 311 97" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+          </svg>
+          <span class="boot-ripple" aria-hidden="true"></span>
+          <span class="boot-character-wrap" aria-hidden="true">
+            <img class="boot-tiger" src="assets/assets/characters/welcome.png" width="512" height="512" alt="" fetchpriority="high" draggable="false">
+          </span>
+          <img class="boot-magpie" src="assets/assets/characters/guide.png" width="512" height="512" alt="" aria-hidden="true" draggable="false">
+          <span class="boot-roar" aria-hidden="true">어흥!</span>
+        </button>
+        <p id="boot-play-hint">호랑을 톡 눌러 보세요</p>
+        <span id="boot-reaction" class="boot-sr-only" aria-live="polite"></span>
+      </section>
+      <div class="boot-loading">
+        <div class="boot-paws" aria-hidden="true"><i></i><i></i><i></i></div>
+        <p id="boot-msg" role="status" aria-live="polite">어흥!한자를 불러오고 있어요</p>
+        <button id="boot-retry" type="button" hidden>다시 시도</button>
+      </div>
+    </div>
+  </main>
+  <script src="boot.js"></script>
   <script src="sw_register.js"></script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
