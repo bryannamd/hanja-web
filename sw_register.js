@@ -13,7 +13,7 @@
   var NOTICE_AT = 'hanja_update_fail_notice_at';
   var DAY = 24 * 60 * 60 * 1000;
   // stamp가 산출물 총 바이트로 바꾼다. 개발 서버에서는 0이라 100MB로 어림한다.
-  var NEEDED_BYTES = 68865539;
+  var NEEDED_BYTES = 69005269;
 
   var st = (window.hanjaOffline = {
     state: 'checking',
@@ -49,6 +49,15 @@
   window.addEventListener('flutter-first-frame', function () { firstFrame = true; });
   var scopeUrl = new URL('./', document.baseURI).href;
   var supported = 'serviceWorker' in navigator && 'caches' in window;
+
+  // 저장 공간이 부족해도 브라우저가 학습 기록 DB(IndexedDB/OPFS)를 지우지 않도록 1회 요청한다.
+  // 이미 허용됐으면 다시 묻지 않고, API가 없거나 실패해도 조용히 넘어간다(부팅을 막지 않음).
+  try {
+    var sm = navigator.storage;
+    if (sm && sm.persist && sm.persisted) {
+      sm.persisted().then(function (ok) { return ok || sm.persist(); }).catch(function () {});
+    }
+  } catch (_) {}
 
   // 이 앱(scope)의 등록만 해제한다. 같은 origin의 다른 앱 워커는 건드리지 않는다.
   function cleanup() {
