@@ -3,7 +3,7 @@
     "short_name": "어흥!한자",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#8FD6C2",
+    "background_color": "#FDF3EA",
     "theme_color": "#F6A98C",
     "description": "어흥!한자 — 한국어문회 한자능력검정시험 학습 앱, 간격 반복 기반",
     "orientation": "portrait-primary",
